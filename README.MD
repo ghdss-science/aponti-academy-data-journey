@@ -1,4 +1,4 @@
-# Projeto Aponti Academy - Análise e Preparação de Dados 🚦📊🎓
+# 🚦📊🎓 Projeto Aponti Academy - Análise e Preparação de Dados
 
 Este repositório reúne as atividades desenvolvidas ao longo das **Unidades 1 a 5**, cada uma com foco em diferentes aspectos da análise de dados, preparação de bases e documentação.  
 O objetivo é aplicar conceitos de **Excel, SQL e Python** em bases reais (PRF Datatran 2025 e dados acadêmicos), consolidando práticas de análise, modelagem e boas práticas de projeto.
@@ -37,6 +37,18 @@ O objetivo é aplicar conceitos de **Excel, SQL e Python** em bases reais (PRF D
 
 ---
 
+### 🧩 [Unidade 5.1 – atv_unidade_5_1](ca://s?q=README_Unidade_5_1)
+- Tema: **Diagnóstico dos Acidentes Fatais nas Rodovias Federais – PRF 2025**.  
+- Ferramentas: Excel / Google Sheets, Data Analytics Canvas, PowerPoint / Gamma.  
+- Técnicas: cálculo de KPIs globais, cruzamentos dimensionais (UF, BR, tipo de pista, causa, fase do dia, clima), e construção de storytelling analítico.  
+- Entregas:  
+  - **Canvas de Hipóteses** (versão final em PNG).  
+  - **Apresentação visual** com narrativa de dados e recomendações preventivas.  
+  - **README.md** documentando metodologia e storytelling.  
+- Objetivo: transformar dados brutos em diagnósticos de causa-raiz e recomendações estratégicas para a PRF.
+
+---
+
 ## 📝 Observações Gerais
 - O projeto evolui de análises simples em Excel até preparação robusta em Python e SQL.  
 - Cada unidade reforça boas práticas: padronização, documentação, prevenção de erros e clareza metodológica.  
@@ -52,3 +64,4 @@ U1[Unidade 1 - Excel básico] --> U2[Unidade 2 - Excel avançado]
 U2 --> U3[Unidade 3 - Banco de dados SQL]
 U3 --> U4[Unidade 4 - SQLite e indicadores]
 U4 --> U5[Unidade 5 - Python e preparação de dados]
+U5 --> U5_1[Unidade 5.1 - PRF 2025 e Storytelling]
