@@ -1,98 +1,76 @@
-# Unidade 3 - Missão Escola Tech 🎓💻
+# Unidade 4 - Análise dos Acidentes Rodoviários Federais 🚦📊
 
-Este projeto da **Aponti Academy** consistiu em manipulação e análise de dados acadêmicos utilizando **SQLite**, arquivos CSV e relatórios em PDF.  
-O objetivo foi corrigir inconsistências, atualizar cadastros e gerar estatísticas consolidadas sobre alunos e disciplinas.
+Este projeto da **Aponti Academy** consiste em uma análise detalhada dos acidentes rodoviários federais de 2025 (base Datatran/PRF), utilizando **SQLite** para consultas, criação de views e geração de indicadores.  
+O objetivo foi explorar padrões de letalidade, causas, condições e distribuições temporais e geográficas.
 
 ---
 
 ## 📂 Estrutura do Projeto
-- **alunos.csv** → Base inicial de alunos (id, nome, idade, turma, nota).  
-- **relatorio_alunos.csv** → Dados detalhados com cidade e situação (aprovado, recuperação, reprovado).  
-- **aprovados.csv** → Lista consolidada de alunos aprovados.  
-- **disciplinas.csv** → Disciplinas com professor e carga horária.  
-- **disciplinas_atualizadas.csv** → Disciplinas com inclusão de laboratório.  
-- **EscolaTech.db** → Banco de dados SQLite com tabelas `alunos` e `disciplinas`.  
-- **missao_escola_tech.sql** → Script SQL com consultas, correções e relatórios.  
-- **relatorio_final.pdf** → Documento oficial com estatísticas e correções.  
+- **acidentes_por_mes.csv** → Evolução mensal dos acidentes.  
+- **acidentes_por_fase_dia.csv** → Distribuição por amanhecer, dia, anoitecer e noite.  
+- **acidentes_por_clima.csv** → Impacto das condições meteorológicas.  
+- **acidentes_por_tipo.csv** → Comparação por tipo de pista (simples, dupla, múltipla).  
+- **acidentes_por_causa.csv** → Principais causas e taxas de letalidade.  
+- **acidentes_por_br.csv** → Rodovias mais críticas em número de mortos.  
+- **acidentes_por_uf.csv** → Distribuição por estados (UF).  
+- **tipos_acidentes_por_bivariadas.csv** → Relação entre tipo de acidente e % fatais.  
+- **efeito_lift_tipo_acidente.csv** → Cálculo do efeito *Lift* para gravidade relativa.  
+- **combinacao_dois_fatores_fase_por_dia.csv** → Interação entre tipo de pista e fase do dia.  
+- **vw_indicadores_mensais.csv** → View consolidada de indicadores mensais.  
+- **vw_indicadores_uf_br.csv** → View consolidada por UF e BR.  
+- **script.sql** → Consultas SQL para criação de views e relatórios.
 
 ---
 
-## 🔧 Correções Realizadas
-- Alteração da turma do aluno **Diego Alves**.  
-- Correção das notas de **Felipe Melo** e **Ana Souza**.  
-- Atualização da idade de **Ana Souza**.  
-- Atualização do professor da disciplina **Programação Web**.  
-- Inclusão de **5 novos alunos** (Ulisses, Savio Alves, Cristiane Melo, Yuri Cavalcanti, Talita Barbosa).  
-- Remoção de registros inválidos e duplicados.  
-- Inclusão das colunas **cidade** (alunos) e **laboratório** (disciplinas).  
-- Atualização das cidades dos alunos e laboratórios das disciplinas.  
+## 🔧 Consultas SQL Implementadas
+- **[Estrutura da tabela](ca://s?q=SQL_estrutura_da_tabela)**: `PRAGMA table_info(datatran2025);`  
+- **[Métricas gerais](ca://s?q=SQL_métricas_gerais)**: total de acidentes, fatais e % de letalidade.  
+- **[Por Estado](ca://s?q=SQL_acidentes_por_estado)**: agregação por UF com taxa de letalidade.  
+- **[Rodovias críticas](ca://s?q=SQL_acidentes_por_rodovias)**: top 30 BRs em número de mortos.  
+- **[Evolução temporal](ca://s?q=SQL_evolução_temporal)**: agrupamento por ano e mês.  
+- **[Tipos de acidente](ca://s?q=SQL_tipos_de_acidente)**: % de ocorrências fatais por tipo.  
+- **[Causas](ca://s?q=SQL_causas_de_acidentes)**: 30 principais causas ordenadas por letalidade.  
+- **[Fase do dia](ca://s?q=SQL_fase_do_dia)**: comparação entre amanhecer, dia, anoitecer e noite.  
+- **[Clima](ca://s?q=SQL_condições_meteorológicas)**: impacto das condições meteorológicas.  
+- **[Tipo de pista](ca://s?q=SQL_tipo_de_pista)**: comparação entre pistas simples, dupla e múltipla.  
+- **[Combinação de fatores](ca://s?q=SQL_combinação_de_fatores)**: pista + fase do dia.  
+- **[Efeito Lift](ca://s?q=SQL_efeito_lift)**: razão entre taxa de letalidade do tipo e taxa média geral.  
+- **[Views](ca://s?q=SQL_criação_de_views)**:  
+  - `vw_indicadores_mensais` → indicadores mensais.  
+  - `vw_indicadores_uf_br` → consolidação por UF e BR.  
 
 ---
 
-## 📊 Estatísticas
-- **Quantidade de alunos importados**: 40  
-- **Quantidade de aprovados**: 30  
-- **Média geral das notas**: 7.59  
-- **Turma com mais alunos**: Info B (12 estudantes)  
-
----
-
-## 🗂️ Consultas SQL Implementadas
-- **[Visualização de dados](ca://s?q=SQL_visualizar_dados)**:  
-  - `SELECT * FROM alunos;`  
-  - `SELECT nome, nota, turma FROM alunos;`  
-  - `SELECT * FROM disciplinas;`  
-
-- **[Correções de cadastro](ca://s?q=SQL_correções_de_cadastro)**:  
-  - `UPDATE alunos SET turma = 'Info B' WHERE nome = 'Diego Alves';`  
-  - `UPDATE alunos SET nota = 8.2 WHERE nome = 'Felipe Melo';`  
-  - `UPDATE alunos SET nota = 9.7 WHERE nome = 'Ana Souza';`  
-  - `UPDATE alunos SET idade = 20 WHERE nome = 'Ana Souza';`  
-  - `UPDATE disciplinas SET professor = 'Fernanda Oliveira' WHERE disciplina = 'Programação Web';`  
-
-- **[Novas matrículas](ca://s?q=SQL_inserir_novos_alunos)**:  
-  - `INSERT INTO alunos(id, nome, idade, turma, nota) VALUES(...);`  
-
-- **[Limpeza de dados](ca://s?q=SQL_limpeza_de_dados)**:  
-  - `DELETE FROM alunos WHERE nome = 'Gustavo';`  
-  - `ALTER TABLE alunos DROP COLUMN laboratorio;`  
-
-- **[Relatórios](ca://s?q=SQL_relatórios_de_alunos)**:  
-  - Situação automática (Aprovado, Recuperação, Reprovado) com `CASE`.  
-  - Relatório completo de aprovados e reprovados.  
-  - Conferência das correções realizadas.  
-  - Impactos das alterações no desempenho.  
-
----
-
-## ⚠️ Cuidados com SQL
-Durante a atividade foram discutidos cuidados ao usar comandos como **UPDATE, DELETE e DROP TABLE**:
-- Sempre utilizar cláusula **WHERE** para evitar alterações indevidas.  
-- Realizar **backup** antes de operações críticas.  
-- Confirmar os registros afetados antes da execução.  
-- O comando **DROP TABLE** remove toda a tabela e sua estrutura, devendo ser usado apenas quando não houver mais necessidade.  
+## 📊 Principais Evidências
+- **Mensalidade**: dezembro (6.788 acidentes) e agosto (6.246) foram os meses mais críticos.  
+- **Fase do dia**: maior letalidade no amanhecer (11,2%) e plena noite (10,18%).  
+- **Clima**: nevoeiro/neblina (10,85%) e condições ignoradas (9,9%) tiveram maior % de fatais.  
+- **Tipo de pista**: pistas simples concentram maior letalidade (9,86%).  
+- **Causas**: suicídio presumido (55%), pedestre na pista (41%) e entrada inopinada (30%) são as mais letais.  
+- **Tipos de acidente**: atropelamento de pedestre (29,5%) e colisão frontal (29,4%) lideram em gravidade.  
+- **Rodovias**: BR-101 (760 mortos) e BR-116 (708) são as mais críticas.  
+- **Estados**: Maranhão (18%), Pará (17%) e Roraima (16%) apresentam maiores taxas de letalidade.  
 
 ---
 
 ## 📝 Observações
-- A atividade reforçou a importância da **limpeza e padronização de dados** para evitar inconsistências.  
-- A integração entre diferentes arquivos (alunos, aprovados, disciplinas) permitiu consolidar informações de forma confiável.  
-- O relatório final trouxe uma visão clara sobre desempenho dos alunos e organização das disciplinas.  
+- A análise mostra que **fatores humanos** (suicídio, pedestres, contramão, racha) concentram as maiores taxas de letalidade.  
+- **Infraestrutura viária** (pistas simples, falta de acostamento, iluminação deficiente) também contribui para maior gravidade.  
+- **Condições climáticas adversas** aumentam o risco relativo, mas a maioria dos acidentes ocorre em céu claro.  
+- **Rodovias federais específicas** concentram grande parte das mortes, sugerindo pontos críticos de atenção.  
 - Questões futuras:  
-  - Como melhorar a taxa de aprovação nas turmas com maior índice de recuperação/reprovação?  
-  - Quais disciplinas concentram maior dificuldade dos alunos?  
-  - Como relacionar desempenho com idade, cidade ou carga horária das disciplinas?  
+  - Como reduzir atropelamentos e colisões frontais?  
+  - Quais políticas podem diminuir a letalidade em estados críticos como MA e PA?  
+  - Como relacionar infraestrutura e fiscalização com os índices de cada BR?  
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-- Manipulação de arquivos **CSV**.  
-- Criação e manutenção de banco de dados **SQLite**.  
-- Escrita e execução de **consultas SQL** (SELECT, UPDATE, INSERT, DELETE).  
-- Consolidação de dados em relatórios.  
-- Uso de **estatísticas descritivas** (média, contagem, proporções).  
-- Documentação em **PDF**.  
-- Boas práticas de **SQL** para manutenção de bancos de dados.  
+- Manipulação de dados em **SQLite**.  
+- Criação de **views** para indicadores mensais e regionais.  
+- Consultas avançadas com **agrupamentos, filtros e cálculos estatísticos**.  
+- Uso de métricas como **percentual de fatais** e **efeito Lift**.  
+- Consolidação de resultados em **CSV** para análise externa.  
 
 ---
 
