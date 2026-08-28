@@ -1,67 +1,313 @@
-# 🚦📊🎓 Projeto Aponti Academy - Análise e Preparação de Dados
+# 🚦📊 Projeto Aponti Academy – Análise, Preparação e Exploração de Dados
 
-Este repositório reúne as atividades desenvolvidas ao longo das **Unidades 1 a 5**, cada uma com foco em diferentes aspectos da análise de dados, preparação de bases e documentação.  
-O objetivo é aplicar conceitos de **Excel, SQL e Python** em bases reais (PRF Datatran 2025 e dados acadêmicos), consolidando práticas de análise, modelagem e boas práticas de projeto.
+Este repositório reúne as atividades desenvolvidas ao longo das **Unidades 1 a 5.2** do programa **Aponti Academy**, abrangendo desde análises iniciais em Excel até preparação de dados, modelagem analítica e construção de diagnósticos baseados em evidências.
 
----
+O projeto utiliza bases reais, com destaque para os dados de acidentes rodoviários da **Polícia Rodoviária Federal (PRF) – Datatran 2025**, permitindo a aplicação prática de conceitos de:
 
-## 📂 Estrutura das Unidades
-
-### [Unidade 1](ca://s?q=README_Unidade_1)
-- Tema: **Análise inicial de acidentes PRF 2025 em Excel**.  
-- Técnicas: fórmulas (`AVERAGEIF`, `PROCV`), gráficos comparativos.  
-- Entregas: planilha com cálculos de severidade, sobreviventes e rodovias críticas.  
-
-### [Unidade 2](ca://s?q=README_Unidade_2)
-- Tema: **Análise avançada com tabelas dinâmicas e dashboards**.  
-- Técnicas: PivotTables, gráficos elaborados, checklist de entrega, dicionário resumido.  
-- Entregas: dashboards mensais, municipais e nacionais; observações detalhadas sobre achados e limitações.  
-
-### [Unidade 3](ca://s?q=README_Unidade_3)
-- Tema: **Missão Escola Tech - Banco de dados acadêmico**.  
-- Técnicas: manipulação de CSV, correções de cadastro, consultas SQL (SELECT, UPDATE, INSERT, DELETE).  
-- Entregas: bases de alunos e disciplinas corrigidas, relatório final em PDF, estatísticas de aprovados e média geral.  
-
-### [Unidade 4](ca://s?q=README_Unidade_4)
-- Tema: **Análise dos Acidentes Rodoviários Federais - Datatran 2025 (SQLite)**.  
-- Técnicas: criação de views (`vw_acidentes_base`, `vw_indicadores_mensais`, `vw_indicadores_uf_br`), consultas avançadas, cálculo de efeito *Lift*.  
-- Entregas: indicadores por mês, UF, BR, tipo de pista, fase do dia, clima e causas.  
-
-### [Unidade 5](ca://s?q=README_Unidade_5)
-- Tema: **Preparação de Dados com Python (pandas, numpy, matplotlib)**.  
-- Técnicas: padronização de colunas, tratamento de nulos e duplicidades, criação de variáveis derivadas (`acidente_fatal`, `total_vitimas`, `indice_gravidade`), prevenção de data leakage.  
-- Entregas:  
-  - **Base Analítica** → para EDA e dashboards.  
-  - **Base Modelável** → para modelagem explicável.  
-  - **Dicionário de Variáveis** e **Decisões de Tratamento** documentados.  
+* 📊 Excel e Google Sheets
+* 🗄️ SQL e SQLite
+* 🐍 Python (Pandas, NumPy e Matplotlib)
+* 📈 Estatística Descritiva
+* 📋 Storytelling com Dados
+* 🔍 Análise Exploratória de Dados (EDA)
+* 📚 Documentação e Boas Práticas Analíticas
 
 ---
 
-### 🧩 [Unidade 5.1 – atv_unidade_5_1](ca://s?q=README_Unidade_5_1)
-- Tema: **Diagnóstico dos Acidentes Fatais nas Rodovias Federais – PRF 2025**.  
-- Ferramentas: Excel / Google Sheets, Data Analytics Canvas, PowerPoint / Gamma.  
-- Técnicas: cálculo de KPIs globais, cruzamentos dimensionais (UF, BR, tipo de pista, causa, fase do dia, clima), e construção de storytelling analítico.  
-- Entregas:  
-  - **Canvas de Hipóteses** (versão final em PNG).  
-  - **Apresentação visual** com narrativa de dados e recomendações preventivas.  
-  - **README.md** documentando metodologia e storytelling.  
-- Objetivo: transformar dados brutos em diagnósticos de causa-raiz e recomendações estratégicas para a PRF.
+# 🎯 Objetivo Geral
+
+Transformar dados brutos em informações confiáveis e acionáveis por meio de processos de limpeza, organização, análise e documentação, desenvolvendo competências fundamentais para projetos de Data Analytics e Ciência de Dados.
 
 ---
 
-## 📝 Observações Gerais
-- O projeto evolui de análises simples em Excel até preparação robusta em Python e SQL.  
-- Cada unidade reforça boas práticas: padronização, documentação, prevenção de erros e clareza metodológica.  
-- O foco está em **transformar dados brutos em informação confiável**, pronta para análise exploratória, dashboards e modelagem.  
+# 📂 Estrutura das Unidades
+
+## 📘 Unidade 1 – Análise Inicial dos Acidentes PRF 2025
+
+### Tema
+
+Análise exploratória inicial da base de acidentes da PRF utilizando Excel.
+
+### Principais Técnicas
+
+* Fórmulas avançadas (`AVERAGEIF`, `PROCV`, entre outras)
+* Cálculo de indicadores
+* Criação de gráficos comparativos
+* Consolidação de dados
+
+### Entregas
+
+* Planilha analítica
+* Indicadores de severidade
+* Quantidade de sobreviventes
+* Identificação de rodovias críticas
 
 ---
 
-## 📈 Linha do Tempo da Jornada
+## 📘 Unidade 2 – Dashboards e Tabelas Dinâmicas
+
+### Tema
+
+Construção de análises visuais e dashboards gerenciais.
+
+### Principais Técnicas
+
+* Pivot Tables
+* Gráficos dinâmicos
+* Segmentação de dados
+* Organização de dashboards
+
+### Entregas
+
+* Dashboard nacional
+* Dashboard por município
+* Dashboard temporal
+* Dicionário resumido da base
+* Checklist de qualidade
+
+---
+
+## 📘 Unidade 3 – Missão Escola Tech
+
+### Tema
+
+Modelagem e manipulação de dados acadêmicos utilizando SQL.
+
+### Principais Técnicas
+
+* Importação e tratamento de CSV
+* Consultas SQL
+* Correção de inconsistências cadastrais
+* Operações CRUD
+
+### Comandos Utilizados
+
+```sql
+SELECT
+INSERT
+UPDATE
+DELETE
+```
+
+### Entregas
+
+* Base acadêmica corrigida
+* Relatório em PDF
+* Estatísticas de desempenho
+* Indicadores de aprovação
+
+---
+
+## 📘 Unidade 4 – Análise dos Acidentes Rodoviários Federais (SQLite)
+
+### Tema
+
+Construção de indicadores analíticos utilizando SQLite.
+
+### Principais Técnicas
+
+* Criação de Views
+* Consultas analíticas
+* Indicadores de desempenho
+* Cálculo de Lift
+
+### Views Desenvolvidas
+
+* `vw_acidentes_base`
+* `vw_indicadores_mensais`
+* `vw_indicadores_uf_br`
+
+### Entregas
+
+* Indicadores por UF
+* Indicadores por BR
+* Indicadores por clima
+* Indicadores por fase do dia
+* Indicadores por tipo de pista
+* Indicadores por causa do acidente
+
+---
+
+## 📘 Unidade 5 – Preparação de Dados com Python
+
+### Tema
+
+Construção de bases analíticas e modeláveis para projetos de análise de dados.
+
+### Principais Tecnologias
+
+* Pandas
+* NumPy
+* Matplotlib
+
+### Técnicas Aplicadas
+
+* Padronização de colunas
+* Tratamento de valores nulos
+* Remoção de duplicidades
+* Criação de atributos derivados
+* Controle de Data Leakage
+
+### Variáveis Derivadas
+
+* `acidente_fatal`
+* `total_vitimas`
+* `indice_gravidade`
+
+### Entregas
+
+#### Base Analítica
+
+Preparada para análises exploratórias e construção de dashboards.
+
+#### Base Modelável
+
+Preparada para algoritmos de Machine Learning e análises preditivas.
+
+#### Documentação
+
+* Dicionário de Variáveis
+* Registro das decisões de tratamento
+* Relatório metodológico
+
+---
+
+## 📘 Unidade 5.1 – Diagnóstico dos Acidentes Fatais nas Rodovias Federais
+
+### Tema
+
+Investigação dos fatores associados aos acidentes fatais registrados pela PRF em 2025.
+
+### Ferramentas
+
+* Excel
+* Google Sheets
+* Data Analytics Canvas
+* PowerPoint
+* Gamma
+
+### Técnicas Aplicadas
+
+* Construção de KPIs
+* Cruzamentos dimensionais
+* Storytelling com dados
+* Formulação e validação de hipóteses
+
+### Dimensões Analisadas
+
+* Unidade Federativa (UF)
+* Rodovia (BR)
+* Tipo de pista
+* Causa do acidente
+* Fase do dia
+* Condição meteorológica
+
+### Entregas
+
+* Canvas de Hipóteses
+* Apresentação Executiva
+* Storytelling Analítico
+* README metodológico
+
+### Objetivo
+
+Transformar dados operacionais em diagnósticos estratégicos capazes de apoiar ações preventivas e tomadas de decisão.
+
+---
+
+## 📘 Unidade 5.2 – Frequências, Rankings e Análises Bivariadas
+
+### Tema
+
+Análise estatística exploratória da base Datatran 2025 com foco na identificação de padrões de ocorrência, fatores de risco e características associadas à fatalidade dos acidentes.
+
+### Principais Técnicas
+
+* Tabelas de frequência absoluta e relativa
+* Rankings de categorias
+* Séries temporais simples
+* Análises bivariadas
+* Cruzamento de variáveis
+* Identificação de combinações críticas de fatores
+
+### Indicadores Avaliados
+
+* Municípios com maior número de acidentes
+* Principais causas dos acidentes
+* Tipos de acidente
+* Classificação das ocorrências
+* Tipo de pista
+* Traçado da via
+* Uso do solo
+* Condições meteorológicas
+* Evolução mensal dos indicadores
+
+### Análises de Fatalidade
+
+Foram investigadas variáveis associadas ao aumento do risco de morte:
+
+* Estados com maiores taxas de fatalidade
+* Causas mais críticas
+* Tipos de acidente mais letais
+* Impacto das condições meteorológicas
+* Influência do uso do solo
+* Combinações de fatores de alto risco
+
+### Principais Descobertas
+
+* Colisões traseiras foram as ocorrências mais frequentes.
+* Atropelamentos de pedestres e colisões frontais apresentaram as maiores taxas de fatalidade.
+* Maranhão e Pará registraram índices de mortalidade significativamente superiores à média nacional.
+* Acidentes em áreas não urbanas mostraram maior severidade.
+* Condições de baixa visibilidade aumentaram o risco de fatalidade.
+
+### Entregas
+
+* Relatório Estatístico
+* Tabelas de Frequência
+* Rankings Analíticos
+* Cruzamentos Bivariados
+* Relatório Interpretativo em Markdown
+
+---
+
+# 📝 Boas Práticas Aplicadas
+
+Durante todas as etapas do projeto foram adotadas práticas recomendadas de análise de dados:
+
+* Padronização de nomenclaturas
+* Tratamento consistente de dados faltantes
+* Controle de duplicidades
+* Documentação das transformações
+* Reprodutibilidade das análises
+* Clareza metodológica
+* Organização dos artefatos gerados
+
+---
+
+# 📈 Evolução da Jornada de Aprendizagem
 
 ```mermaid
 graph TD
-U1[Unidade 1 - Excel básico] --> U2[Unidade 2 - Excel avançado]
-U2 --> U3[Unidade 3 - Banco de dados SQL]
-U3 --> U4[Unidade 4 - SQLite e indicadores]
-U4 --> U5[Unidade 5 - Python e preparação de dados]
-U5 --> U5_1[Unidade 5.1 - PRF 2025 e Storytelling]
+
+U1[📊 Unidade 1<br>Excel Básico]
+--> U2[📈 Unidade 2<br>Dashboards e Pivot Tables]
+
+U2 --> U3[🗄️ Unidade 3<br>Banco de Dados SQL]
+
+U3 --> U4[📊 Unidade 4<br>SQLite e Indicadores]
+
+U4 --> U5[🐍 Unidade 5<br>Preparação de Dados]
+
+U5 --> U51[🎯 Unidade 5.1<br>Diagnóstico e Storytelling]
+
+U51 --> U52[📉 Unidade 5.2<br>Frequências e Análises Bivariadas]
+```
+
+---
+
+# 🏆 Resultado Final
+
+Ao final do projeto, foi construída uma jornada completa de análise de dados, passando por coleta, limpeza, transformação, exploração, interpretação e comunicação dos resultados.
+
+O conjunto das unidades representa um fluxo próximo ao encontrado em projetos reais de Data Analytics, permitindo consolidar competências técnicas e analíticas essenciais para atuação profissional na área de dados.

@@ -7,6 +7,7 @@ Este projeto apresenta dados e interpretações sobre acidentes rodoviários no 
 ---
 
 ## 📊 Gráfico 1 – Top 10 causas de acidentes por taxa de letalidade
+
 - **Suicídio presumido** é a causa mais letal.
 - Situações envolvendo **pedestres** (andar na pista, cruzar fora da faixa, entrada inopinada) têm taxas elevadas.
 - **Imprudências** como transitar na contramão e participar de racha são extremamente perigosas.
