@@ -1,0 +1,1499 @@
+﻿sk_acidente;causa_acidente;tipo_acidente;classificacao_acidente
+1;Acessar a via sem observar a presença dos outros veículos;Atropelamento de Animal;Com Vítimas Fatais
+2;Acessar a via sem observar a presença dos outros veículos;Atropelamento de Animal;Com Vítimas Feridas
+3;Acessar a via sem observar a presença dos outros veículos;Atropelamento de Animal;Sem Vítimas
+4;Acessar a via sem observar a presença dos outros veículos;Atropelamento de Pedestre;Com Vítimas Fatais
+5;Acessar a via sem observar a presença dos outros veículos;Atropelamento de Pedestre;Com Vítimas Feridas
+6;Acessar a via sem observar a presença dos outros veículos;Atropelamento de Pedestre;Sem Vítimas
+7;Acessar a via sem observar a presença dos outros veículos;Capotamento;Com Vítimas Feridas
+8;Acessar a via sem observar a presença dos outros veículos;Capotamento;Sem Vítimas
+9;Acessar a via sem observar a presença dos outros veículos;Colisão com objeto;Com Vítimas Feridas
+10;Acessar a via sem observar a presença dos outros veículos;Colisão com objeto;Sem Vítimas
+11;Acessar a via sem observar a presença dos outros veículos;Colisão frontal;Com Vítimas Fatais
+12;Acessar a via sem observar a presença dos outros veículos;Colisão frontal;Com Vítimas Feridas
+13;Acessar a via sem observar a presença dos outros veículos;Colisão frontal;Sem Vítimas
+14;Acessar a via sem observar a presença dos outros veículos;Colisão lateral mesmo sentido;Com Vítimas Fatais
+15;Acessar a via sem observar a presença dos outros veículos;Colisão lateral mesmo sentido;Com Vítimas Feridas
+16;Acessar a via sem observar a presença dos outros veículos;Colisão lateral mesmo sentido;Sem Vítimas
+17;Acessar a via sem observar a presença dos outros veículos;Colisão lateral sentido oposto;Com Vítimas Feridas
+18;Acessar a via sem observar a presença dos outros veículos;Colisão lateral sentido oposto;Sem Vítimas
+19;Acessar a via sem observar a presença dos outros veículos;Colisão transversal;Com Vítimas Fatais
+20;Acessar a via sem observar a presença dos outros veículos;Colisão transversal;Com Vítimas Feridas
+21;Acessar a via sem observar a presença dos outros veículos;Colisão transversal;Sem Vítimas
+22;Acessar a via sem observar a presença dos outros veículos;Colisão traseira;Com Vítimas Fatais
+23;Acessar a via sem observar a presença dos outros veículos;Colisão traseira;Com Vítimas Feridas
+24;Acessar a via sem observar a presença dos outros veículos;Colisão traseira;Sem Vítimas
+25;Acessar a via sem observar a presença dos outros veículos;Engavetamento;Com Vítimas Fatais
+26;Acessar a via sem observar a presença dos outros veículos;Engavetamento;Com Vítimas Feridas
+27;Acessar a via sem observar a presença dos outros veículos;Engavetamento;Sem Vítimas
+28;Acessar a via sem observar a presença dos outros veículos;Eventos atípicos;Com Vítimas Feridas
+29;Acessar a via sem observar a presença dos outros veículos;Queda de ocupante de veículo;Com Vítimas Fatais
+30;Acessar a via sem observar a presença dos outros veículos;Queda de ocupante de veículo;Com Vítimas Feridas
+31;Acessar a via sem observar a presença dos outros veículos;Queda de ocupante de veículo;Sem Vítimas
+32;Acessar a via sem observar a presença dos outros veículos;Saída de leito carroçável;Com Vítimas Fatais
+33;Acessar a via sem observar a presença dos outros veículos;Saída de leito carroçável;Com Vítimas Feridas
+34;Acessar a via sem observar a presença dos outros veículos;Saída de leito carroçável;Sem Vítimas
+35;Acessar a via sem observar a presença dos outros veículos;Sinistro pessoal de trânsito;Com Vítimas Feridas
+36;Acessar a via sem observar a presença dos outros veículos;Tombamento;Com Vítimas Fatais
+37;Acessar a via sem observar a presença dos outros veículos;Tombamento;Com Vítimas Feridas
+38;Acessar a via sem observar a presença dos outros veículos;Tombamento;Sem Vítimas
+39;Acesso irregular;Atropelamento de Animal;Com Vítimas Fatais
+40;Acesso irregular;Atropelamento de Animal;Com Vítimas Feridas
+41;Acesso irregular;Atropelamento de Pedestre;Com Vítimas Fatais
+42;Acesso irregular;Atropelamento de Pedestre;Com Vítimas Feridas
+43;Acesso irregular;Atropelamento de Pedestre;Sem Vítimas
+44;Acesso irregular;Capotamento;Com Vítimas Fatais
+45;Acesso irregular;Capotamento;Com Vítimas Feridas
+46;Acesso irregular;Colisão com objeto;Com Vítimas Fatais
+47;Acesso irregular;Colisão com objeto;Com Vítimas Feridas
+48;Acesso irregular;Colisão com objeto;Sem Vítimas
+49;Acesso irregular;Colisão frontal;Com Vítimas Fatais
+50;Acesso irregular;Colisão frontal;Com Vítimas Feridas
+51;Acesso irregular;Colisão frontal;Sem Vítimas
+52;Acesso irregular;Colisão lateral mesmo sentido;Com Vítimas Fatais
+53;Acesso irregular;Colisão lateral mesmo sentido;Com Vítimas Feridas
+54;Acesso irregular;Colisão lateral mesmo sentido;Sem Vítimas
+55;Acesso irregular;Colisão lateral sentido oposto;Com Vítimas Fatais
+56;Acesso irregular;Colisão lateral sentido oposto;Com Vítimas Feridas
+57;Acesso irregular;Colisão lateral sentido oposto;Sem Vítimas
+58;Acesso irregular;Colisão transversal;Com Vítimas Fatais
+59;Acesso irregular;Colisão transversal;Com Vítimas Feridas
+60;Acesso irregular;Colisão transversal;Sem Vítimas
+61;Acesso irregular;Colisão traseira;Com Vítimas Fatais
+62;Acesso irregular;Colisão traseira;Com Vítimas Feridas
+63;Acesso irregular;Colisão traseira;Sem Vítimas
+64;Acesso irregular;Engavetamento;Com Vítimas Feridas
+65;Acesso irregular;Eventos atípicos;Com Vítimas Feridas
+66;Acesso irregular;Eventos atípicos;Sem Vítimas
+67;Acesso irregular;Incêndio;Sem Vítimas
+68;Acesso irregular;Queda de ocupante de veículo;Com Vítimas Fatais
+69;Acesso irregular;Queda de ocupante de veículo;Com Vítimas Feridas
+70;Acesso irregular;Saída de leito carroçável;Com Vítimas Feridas
+71;Acesso irregular;Saída de leito carroçável;Sem Vítimas
+72;Acesso irregular;Tombamento;Com Vítimas Feridas
+73;Acostamento em desnível;Capotamento;Com Vítimas Feridas
+74;Acostamento em desnível;Capotamento;Sem Vítimas
+75;Acostamento em desnível;Colisão com objeto;Com Vítimas Feridas
+76;Acostamento em desnível;Colisão frontal;Com Vítimas Fatais
+77;Acostamento em desnível;Colisão lateral mesmo sentido;Com Vítimas Fatais
+78;Acostamento em desnível;Colisão lateral mesmo sentido;Com Vítimas Feridas
+79;Acostamento em desnível;Colisão lateral sentido oposto;Com Vítimas Fatais
+80;Acostamento em desnível;Colisão traseira;Com Vítimas Feridas
+81;Acostamento em desnível;Colisão traseira;Sem Vítimas
+82;Acostamento em desnível;Derramamento de carga;Com Vítimas Feridas
+83;Acostamento em desnível;Eventos atípicos;Com Vítimas Feridas
+84;Acostamento em desnível;Queda de ocupante de veículo;Com Vítimas Fatais
+85;Acostamento em desnível;Queda de ocupante de veículo;Com Vítimas Feridas
+86;Acostamento em desnível;Saída de leito carroçável;Com Vítimas Fatais
+87;Acostamento em desnível;Saída de leito carroçável;Com Vítimas Feridas
+88;Acostamento em desnível;Saída de leito carroçável;Sem Vítimas
+89;Acostamento em desnível;Tombamento;Com Vítimas Fatais
+90;Acostamento em desnível;Tombamento;Com Vítimas Feridas
+91;Acostamento em desnível;Tombamento;Sem Vítimas
+92;Acumulo de areia ou detritos sobre o pavimento;Capotamento;Com Vítimas Feridas
+93;Acumulo de areia ou detritos sobre o pavimento;Colisão com objeto;Com Vítimas Feridas
+94;Acumulo de areia ou detritos sobre o pavimento;Colisão com objeto;Sem Vítimas
+95;Acumulo de areia ou detritos sobre o pavimento;Colisão frontal;Com Vítimas Feridas
+96;Acumulo de areia ou detritos sobre o pavimento;Colisão frontal;Sem Vítimas
+97;Acumulo de areia ou detritos sobre o pavimento;Colisão lateral mesmo sentido;Com Vítimas Feridas
+98;Acumulo de areia ou detritos sobre o pavimento;Colisão lateral mesmo sentido;Sem Vítimas
+99;Acumulo de areia ou detritos sobre o pavimento;Colisão lateral sentido oposto;Com Vítimas Feridas
+100;Acumulo de areia ou detritos sobre o pavimento;Colisão transversal;Com Vítimas Fatais
+101;Acumulo de areia ou detritos sobre o pavimento;Colisão transversal;Sem Vítimas
+102;Acumulo de areia ou detritos sobre o pavimento;Colisão traseira;Com Vítimas Feridas
+103;Acumulo de areia ou detritos sobre o pavimento;Colisão traseira;Sem Vítimas
+104;Acumulo de areia ou detritos sobre o pavimento;Derramamento de carga;Com Vítimas Feridas
+105;Acumulo de areia ou detritos sobre o pavimento;Engavetamento;Com Vítimas Feridas
+106;Acumulo de areia ou detritos sobre o pavimento;Eventos atípicos;Com Vítimas Feridas
+107;Acumulo de areia ou detritos sobre o pavimento;Eventos atípicos;Sem Vítimas
+108;Acumulo de areia ou detritos sobre o pavimento;Queda de ocupante de veículo;Com Vítimas Feridas
+109;Acumulo de areia ou detritos sobre o pavimento;Queda de ocupante de veículo;Sem Vítimas
+110;Acumulo de areia ou detritos sobre o pavimento;Saída de leito carroçável;Com Vítimas Fatais
+111;Acumulo de areia ou detritos sobre o pavimento;Saída de leito carroçável;Com Vítimas Feridas
+112;Acumulo de areia ou detritos sobre o pavimento;Saída de leito carroçável;Sem Vítimas
+113;Acumulo de areia ou detritos sobre o pavimento;Tombamento;Com Vítimas Fatais
+114;Acumulo de areia ou detritos sobre o pavimento;Tombamento;Com Vítimas Feridas
+115;Acumulo de areia ou detritos sobre o pavimento;Tombamento;Sem Vítimas
+116;Acumulo de água sobre o pavimento;Atropelamento de Pedestre;Com Vítimas Feridas
+117;Acumulo de água sobre o pavimento;Capotamento;Com Vítimas Fatais
+118;Acumulo de água sobre o pavimento;Capotamento;Com Vítimas Feridas
+119;Acumulo de água sobre o pavimento;Capotamento;Sem Vítimas
+120;Acumulo de água sobre o pavimento;Colisão com objeto;Com Vítimas Feridas
+121;Acumulo de água sobre o pavimento;Colisão com objeto;Sem Vítimas
+122;Acumulo de água sobre o pavimento;Colisão frontal;Com Vítimas Fatais
+123;Acumulo de água sobre o pavimento;Colisão frontal;Com Vítimas Feridas
+124;Acumulo de água sobre o pavimento;Colisão frontal;Sem Vítimas
+125;Acumulo de água sobre o pavimento;Colisão lateral mesmo sentido;Com Vítimas Feridas
+126;Acumulo de água sobre o pavimento;Colisão lateral mesmo sentido;Sem Vítimas
+127;Acumulo de água sobre o pavimento;Colisão lateral sentido oposto;Com Vítimas Fatais
+128;Acumulo de água sobre o pavimento;Colisão lateral sentido oposto;Com Vítimas Feridas
+129;Acumulo de água sobre o pavimento;Colisão transversal;Com Vítimas Feridas
+130;Acumulo de água sobre o pavimento;Colisão transversal;Sem Vítimas
+131;Acumulo de água sobre o pavimento;Colisão traseira;Com Vítimas Feridas
+132;Acumulo de água sobre o pavimento;Colisão traseira;Sem Vítimas
+133;Acumulo de água sobre o pavimento;Engavetamento;Com Vítimas Feridas
+134;Acumulo de água sobre o pavimento;Incêndio;Sem Vítimas
+135;Acumulo de água sobre o pavimento;Queda de ocupante de veículo;Com Vítimas Fatais
+136;Acumulo de água sobre o pavimento;Queda de ocupante de veículo;Com Vítimas Feridas
+137;Acumulo de água sobre o pavimento;Saída de leito carroçável;Com Vítimas Fatais
+138;Acumulo de água sobre o pavimento;Saída de leito carroçável;Com Vítimas Feridas
+139;Acumulo de água sobre o pavimento;Saída de leito carroçável;Sem Vítimas
+140;Acumulo de água sobre o pavimento;Tombamento;Com Vítimas Feridas
+141;Acumulo de água sobre o pavimento;Tombamento;Sem Vítimas
+142;Acumulo de óleo sobre o pavimento;Capotamento;Com Vítimas Feridas
+143;Acumulo de óleo sobre o pavimento;Colisão com objeto;Com Vítimas Feridas
+144;Acumulo de óleo sobre o pavimento;Colisão com objeto;Sem Vítimas
+145;Acumulo de óleo sobre o pavimento;Colisão frontal;Com Vítimas Fatais
+146;Acumulo de óleo sobre o pavimento;Colisão frontal;Com Vítimas Feridas
+147;Acumulo de óleo sobre o pavimento;Colisão frontal;Sem Vítimas
+148;Acumulo de óleo sobre o pavimento;Colisão lateral mesmo sentido;Com Vítimas Fatais
+149;Acumulo de óleo sobre o pavimento;Colisão lateral mesmo sentido;Sem Vítimas
+150;Acumulo de óleo sobre o pavimento;Colisão lateral sentido oposto;Com Vítimas Feridas
+151;Acumulo de óleo sobre o pavimento;Colisão transversal;Com Vítimas Feridas
+152;Acumulo de óleo sobre o pavimento;Colisão traseira;Com Vítimas Feridas
+153;Acumulo de óleo sobre o pavimento;Derramamento de carga;Com Vítimas Feridas
+154;Acumulo de óleo sobre o pavimento;Eventos atípicos;Com Vítimas Feridas
+155;Acumulo de óleo sobre o pavimento;Queda de ocupante de veículo;Com Vítimas Fatais
+156;Acumulo de óleo sobre o pavimento;Queda de ocupante de veículo;Com Vítimas Feridas
+157;Acumulo de óleo sobre o pavimento;Saída de leito carroçável;Com Vítimas Feridas
+158;Acumulo de óleo sobre o pavimento;Saída de leito carroçável;Sem Vítimas
+159;Acumulo de óleo sobre o pavimento;Tombamento;Com Vítimas Feridas
+160;Acumulo de óleo sobre o pavimento;Tombamento;Sem Vítimas
+161;Afundamento ou ondulação no pavimento;Capotamento;Com Vítimas Fatais
+162;Afundamento ou ondulação no pavimento;Capotamento;Com Vítimas Feridas
+163;Afundamento ou ondulação no pavimento;Colisão com objeto;Com Vítimas Feridas
+164;Afundamento ou ondulação no pavimento;Colisão com objeto;Sem Vítimas
+165;Afundamento ou ondulação no pavimento;Colisão frontal;Com Vítimas Fatais
+166;Afundamento ou ondulação no pavimento;Colisão frontal;Com Vítimas Feridas
+167;Afundamento ou ondulação no pavimento;Colisão lateral mesmo sentido;Com Vítimas Fatais
+168;Afundamento ou ondulação no pavimento;Colisão lateral mesmo sentido;Com Vítimas Feridas
+169;Afundamento ou ondulação no pavimento;Colisão lateral mesmo sentido;Sem Vítimas
+170;Afundamento ou ondulação no pavimento;Colisão lateral sentido oposto;Com Vítimas Fatais
+171;Afundamento ou ondulação no pavimento;Colisão lateral sentido oposto;Com Vítimas Feridas
+172;Afundamento ou ondulação no pavimento;Colisão transversal;Com Vítimas Feridas
+173;Afundamento ou ondulação no pavimento;Colisão traseira;Com Vítimas Feridas
+174;Afundamento ou ondulação no pavimento;Colisão traseira;Sem Vítimas
+175;Afundamento ou ondulação no pavimento;Derramamento de carga;Com Vítimas Feridas
+176;Afundamento ou ondulação no pavimento;Derramamento de carga;Sem Vítimas
+177;Afundamento ou ondulação no pavimento;Incêndio;Sem Vítimas
+178;Afundamento ou ondulação no pavimento;Queda de ocupante de veículo;Com Vítimas Fatais
+179;Afundamento ou ondulação no pavimento;Queda de ocupante de veículo;Com Vítimas Feridas
+180;Afundamento ou ondulação no pavimento;Saída de leito carroçável;Com Vítimas Fatais
+181;Afundamento ou ondulação no pavimento;Saída de leito carroçável;Com Vítimas Feridas
+182;Afundamento ou ondulação no pavimento;Saída de leito carroçável;Sem Vítimas
+183;Afundamento ou ondulação no pavimento;Tombamento;Com Vítimas Fatais
+184;Afundamento ou ondulação no pavimento;Tombamento;Com Vítimas Feridas
+185;Afundamento ou ondulação no pavimento;Tombamento;Sem Vítimas
+186;Animais na Pista;Atropelamento de Animal;Com Vítimas Fatais
+187;Animais na Pista;Atropelamento de Animal;Com Vítimas Feridas
+188;Animais na Pista;Atropelamento de Animal;Sem Vítimas
+189;Animais na Pista;Atropelamento de Pedestre;Com Vítimas Feridas
+190;Animais na Pista;Capotamento;Com Vítimas Feridas
+191;Animais na Pista;Capotamento;Sem Vítimas
+192;Animais na Pista;Colisão com objeto;Com Vítimas Fatais
+193;Animais na Pista;Colisão com objeto;Com Vítimas Feridas
+194;Animais na Pista;Colisão com objeto;Sem Vítimas
+195;Animais na Pista;Colisão frontal;Com Vítimas Fatais
+196;Animais na Pista;Colisão frontal;Com Vítimas Feridas
+197;Animais na Pista;Colisão frontal;Sem Vítimas
+198;Animais na Pista;Colisão lateral mesmo sentido;Com Vítimas Feridas
+199;Animais na Pista;Colisão lateral mesmo sentido;Sem Vítimas
+200;Animais na Pista;Colisão lateral sentido oposto;Com Vítimas Feridas
+201;Animais na Pista;Colisão transversal;Com Vítimas Fatais
+202;Animais na Pista;Colisão traseira;Com Vítimas Feridas
+203;Animais na Pista;Colisão traseira;Sem Vítimas
+204;Animais na Pista;Derramamento de carga;Sem Vítimas
+205;Animais na Pista;Engavetamento;Com Vítimas Feridas
+206;Animais na Pista;Engavetamento;Sem Vítimas
+207;Animais na Pista;Eventos atípicos;Sem Vítimas
+208;Animais na Pista;Queda de ocupante de veículo;Com Vítimas Feridas
+209;Animais na Pista;Saída de leito carroçável;Com Vítimas Fatais
+210;Animais na Pista;Saída de leito carroçável;Com Vítimas Feridas
+211;Animais na Pista;Saída de leito carroçável;Sem Vítimas
+212;Animais na Pista;Tombamento;Com Vítimas Fatais
+213;Animais na Pista;Tombamento;Com Vítimas Feridas
+214;Animais na Pista;Tombamento;Sem Vítimas
+215;Ausência de reação do condutor;Atropelamento de Animal;Com Vítimas Feridas
+216;Ausência de reação do condutor;Atropelamento de Animal;Sem Vítimas
+217;Ausência de reação do condutor;Atropelamento de Pedestre;Com Vítimas Fatais
+218;Ausência de reação do condutor;Atropelamento de Pedestre;Com Vítimas Feridas
+219;Ausência de reação do condutor;Atropelamento de Pedestre;Sem Vítimas
+220;Ausência de reação do condutor;Capotamento;Com Vítimas Fatais
+221;Ausência de reação do condutor;Capotamento;Com Vítimas Feridas
+222;Ausência de reação do condutor;Capotamento;Sem Vítimas
+223;Ausência de reação do condutor;Colisão com objeto;Com Vítimas Fatais
+224;Ausência de reação do condutor;Colisão com objeto;Com Vítimas Feridas
+225;Ausência de reação do condutor;Colisão com objeto;Sem Vítimas
+226;Ausência de reação do condutor;Colisão frontal;Com Vítimas Fatais
+227;Ausência de reação do condutor;Colisão frontal;Com Vítimas Feridas
+228;Ausência de reação do condutor;Colisão frontal;Sem Vítimas
+229;Ausência de reação do condutor;Colisão lateral mesmo sentido;Com Vítimas Fatais
+230;Ausência de reação do condutor;Colisão lateral mesmo sentido;Com Vítimas Feridas
+231;Ausência de reação do condutor;Colisão lateral mesmo sentido;Sem Vítimas
+232;Ausência de reação do condutor;Colisão lateral sentido oposto;Com Vítimas Fatais
+233;Ausência de reação do condutor;Colisão lateral sentido oposto;Com Vítimas Feridas
+234;Ausência de reação do condutor;Colisão lateral sentido oposto;Sem Vítimas
+235;Ausência de reação do condutor;Colisão transversal;Com Vítimas Fatais
+236;Ausência de reação do condutor;Colisão transversal;Com Vítimas Feridas
+237;Ausência de reação do condutor;Colisão transversal;Sem Vítimas
+238;Ausência de reação do condutor;Colisão traseira;Com Vítimas Fatais
+239;Ausência de reação do condutor;Colisão traseira;Com Vítimas Feridas
+240;Ausência de reação do condutor;Colisão traseira;Sem Vítimas
+241;Ausência de reação do condutor;Derramamento de carga;Com Vítimas Feridas
+242;Ausência de reação do condutor;Derramamento de carga;Sem Vítimas
+243;Ausência de reação do condutor;Engavetamento;Com Vítimas Fatais
+244;Ausência de reação do condutor;Engavetamento;Com Vítimas Feridas
+245;Ausência de reação do condutor;Engavetamento;Sem Vítimas
+246;Ausência de reação do condutor;Eventos atípicos;Com Vítimas Fatais
+247;Ausência de reação do condutor;Eventos atípicos;Com Vítimas Feridas
+248;Ausência de reação do condutor;Eventos atípicos;Sem Vítimas
+249;Ausência de reação do condutor;Incêndio;Sem Vítimas
+250;Ausência de reação do condutor;Queda de ocupante de veículo;Com Vítimas Fatais
+251;Ausência de reação do condutor;Queda de ocupante de veículo;Com Vítimas Feridas
+252;Ausência de reação do condutor;Queda de ocupante de veículo;Sem Vítimas
+253;Ausência de reação do condutor;Saída de leito carroçável;Com Vítimas Fatais
+254;Ausência de reação do condutor;Saída de leito carroçável;Com Vítimas Feridas
+255;Ausência de reação do condutor;Saída de leito carroçável;Sem Vítimas
+256;Ausência de reação do condutor;Tombamento;Com Vítimas Fatais
+257;Ausência de reação do condutor;Tombamento;Com Vítimas Feridas
+258;Ausência de reação do condutor;Tombamento;Sem Vítimas
+259;Ausência de sinalização;Atropelamento de Pedestre;Com Vítimas Fatais
+260;Ausência de sinalização;Atropelamento de Pedestre;Com Vítimas Feridas
+261;Ausência de sinalização;Capotamento;Com Vítimas Feridas
+262;Ausência de sinalização;Capotamento;Sem Vítimas
+263;Ausência de sinalização;Colisão com objeto;Com Vítimas Feridas
+264;Ausência de sinalização;Colisão com objeto;Sem Vítimas
+265;Ausência de sinalização;Colisão frontal;Com Vítimas Feridas
+266;Ausência de sinalização;Colisão frontal;Sem Vítimas
+267;Ausência de sinalização;Colisão lateral mesmo sentido;Com Vítimas Fatais
+268;Ausência de sinalização;Colisão lateral mesmo sentido;Com Vítimas Feridas
+269;Ausência de sinalização;Colisão lateral mesmo sentido;Sem Vítimas
+270;Ausência de sinalização;Colisão lateral sentido oposto;Com Vítimas Feridas
+271;Ausência de sinalização;Colisão lateral sentido oposto;Sem Vítimas
+272;Ausência de sinalização;Colisão transversal;Com Vítimas Fatais
+273;Ausência de sinalização;Colisão transversal;Com Vítimas Feridas
+274;Ausência de sinalização;Colisão transversal;Sem Vítimas
+275;Ausência de sinalização;Colisão traseira;Com Vítimas Fatais
+276;Ausência de sinalização;Colisão traseira;Com Vítimas Feridas
+277;Ausência de sinalização;Colisão traseira;Sem Vítimas
+278;Ausência de sinalização;Engavetamento;Com Vítimas Feridas
+279;Ausência de sinalização;Engavetamento;Sem Vítimas
+280;Ausência de sinalização;Eventos atípicos;Com Vítimas Feridas
+281;Ausência de sinalização;Queda de ocupante de veículo;Com Vítimas Feridas
+282;Ausência de sinalização;Saída de leito carroçável;Com Vítimas Feridas
+283;Ausência de sinalização;Saída de leito carroçável;Sem Vítimas
+284;Ausência de sinalização;Tombamento;Com Vítimas Feridas
+285;Ausência de sinalização;Tombamento;Sem Vítimas
+286;Avarias e/ou desgaste excessivo no pneu;Capotamento;Com Vítimas Fatais
+287;Avarias e/ou desgaste excessivo no pneu;Capotamento;Com Vítimas Feridas
+288;Avarias e/ou desgaste excessivo no pneu;Capotamento;Sem Vítimas
+289;Avarias e/ou desgaste excessivo no pneu;Colisão com objeto;Com Vítimas Fatais
+290;Avarias e/ou desgaste excessivo no pneu;Colisão com objeto;Com Vítimas Feridas
+291;Avarias e/ou desgaste excessivo no pneu;Colisão com objeto;Sem Vítimas
+292;Avarias e/ou desgaste excessivo no pneu;Colisão frontal;Com Vítimas Fatais
+293;Avarias e/ou desgaste excessivo no pneu;Colisão frontal;Com Vítimas Feridas
+294;Avarias e/ou desgaste excessivo no pneu;Colisão frontal;Sem Vítimas
+295;Avarias e/ou desgaste excessivo no pneu;Colisão lateral mesmo sentido;Com Vítimas Feridas
+296;Avarias e/ou desgaste excessivo no pneu;Colisão lateral mesmo sentido;Sem Vítimas
+297;Avarias e/ou desgaste excessivo no pneu;Colisão lateral sentido oposto;Com Vítimas Feridas
+298;Avarias e/ou desgaste excessivo no pneu;Colisão lateral sentido oposto;Sem Vítimas
+299;Avarias e/ou desgaste excessivo no pneu;Colisão transversal;Com Vítimas Fatais
+300;Avarias e/ou desgaste excessivo no pneu;Colisão transversal;Com Vítimas Feridas
+301;Avarias e/ou desgaste excessivo no pneu;Colisão transversal;Sem Vítimas
+302;Avarias e/ou desgaste excessivo no pneu;Colisão traseira;Com Vítimas Feridas
+303;Avarias e/ou desgaste excessivo no pneu;Colisão traseira;Sem Vítimas
+304;Avarias e/ou desgaste excessivo no pneu;Derramamento de carga;Sem Vítimas
+305;Avarias e/ou desgaste excessivo no pneu;Engavetamento;Com Vítimas Feridas
+306;Avarias e/ou desgaste excessivo no pneu;Eventos atípicos;Com Vítimas Feridas
+307;Avarias e/ou desgaste excessivo no pneu;Eventos atípicos;Sem Vítimas
+308;Avarias e/ou desgaste excessivo no pneu;Incêndio;Com Vítimas Feridas
+309;Avarias e/ou desgaste excessivo no pneu;Incêndio;Sem Vítimas
+310;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veículo;Com Vítimas Feridas
+311;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veículo;Sem Vítimas
+312;Avarias e/ou desgaste excessivo no pneu;Saída de leito carroçável;Com Vítimas Fatais
+313;Avarias e/ou desgaste excessivo no pneu;Saída de leito carroçável;Com Vítimas Feridas
+314;Avarias e/ou desgaste excessivo no pneu;Saída de leito carroçável;Sem Vítimas
+315;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vítimas Fatais
+316;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vítimas Feridas
+317;Avarias e/ou desgaste excessivo no pneu;Tombamento;Sem Vítimas
+318;Carga excessiva e/ou mal acondicionada;Capotamento;Com Vítimas Fatais
+319;Carga excessiva e/ou mal acondicionada;Capotamento;Com Vítimas Feridas
+320;Carga excessiva e/ou mal acondicionada;Capotamento;Sem Vítimas
+321;Carga excessiva e/ou mal acondicionada;Colisão com objeto;Com Vítimas Fatais
+322;Carga excessiva e/ou mal acondicionada;Colisão com objeto;Com Vítimas Feridas
+323;Carga excessiva e/ou mal acondicionada;Colisão com objeto;Sem Vítimas
+324;Carga excessiva e/ou mal acondicionada;Colisão lateral mesmo sentido;Com Vítimas Fatais
+325;Carga excessiva e/ou mal acondicionada;Colisão lateral mesmo sentido;Com Vítimas Feridas
+326;Carga excessiva e/ou mal acondicionada;Colisão lateral sentido oposto;Com Vítimas Feridas
+327;Carga excessiva e/ou mal acondicionada;Colisão lateral sentido oposto;Sem Vítimas
+328;Carga excessiva e/ou mal acondicionada;Colisão transversal;Com Vítimas Feridas
+329;Carga excessiva e/ou mal acondicionada;Colisão transversal;Sem Vítimas
+330;Carga excessiva e/ou mal acondicionada;Colisão traseira;Com Vítimas Fatais
+331;Carga excessiva e/ou mal acondicionada;Colisão traseira;Com Vítimas Feridas
+332;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Com Vítimas Fatais
+333;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Com Vítimas Feridas
+334;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Sem Vítimas
+335;Carga excessiva e/ou mal acondicionada;Eventos atípicos;Com Vítimas Feridas
+336;Carga excessiva e/ou mal acondicionada;Incêndio;Com Vítimas Feridas
+337;Carga excessiva e/ou mal acondicionada;Incêndio;Sem Vítimas
+338;Carga excessiva e/ou mal acondicionada;Queda de ocupante de veículo;Com Vítimas Feridas
+339;Carga excessiva e/ou mal acondicionada;Saída de leito carroçável;Com Vítimas Fatais
+340;Carga excessiva e/ou mal acondicionada;Saída de leito carroçável;Com Vítimas Feridas
+341;Carga excessiva e/ou mal acondicionada;Saída de leito carroçável;Sem Vítimas
+342;Carga excessiva e/ou mal acondicionada;Tombamento;Com Vítimas Fatais
+343;Carga excessiva e/ou mal acondicionada;Tombamento;Com Vítimas Feridas
+344;Carga excessiva e/ou mal acondicionada;Tombamento;Sem Vítimas
+345;Chuva;Atropelamento de Pedestre;Com Vítimas Feridas
+346;Chuva;Capotamento;Com Vítimas Fatais
+347;Chuva;Capotamento;Com Vítimas Feridas
+348;Chuva;Capotamento;Sem Vítimas
+349;Chuva;Colisão com objeto;Com Vítimas Fatais
+350;Chuva;Colisão com objeto;Com Vítimas Feridas
+351;Chuva;Colisão com objeto;Sem Vítimas
+352;Chuva;Colisão frontal;Com Vítimas Fatais
+353;Chuva;Colisão frontal;Com Vítimas Feridas
+354;Chuva;Colisão frontal;Sem Vítimas
+355;Chuva;Colisão lateral mesmo sentido;Com Vítimas Fatais
+356;Chuva;Colisão lateral mesmo sentido;Com Vítimas Feridas
+357;Chuva;Colisão lateral mesmo sentido;Sem Vítimas
+358;Chuva;Colisão lateral sentido oposto;Com Vítimas Fatais
+359;Chuva;Colisão lateral sentido oposto;Com Vítimas Feridas
+360;Chuva;Colisão transversal;Com Vítimas Feridas
+361;Chuva;Colisão traseira;Com Vítimas Fatais
+362;Chuva;Colisão traseira;Com Vítimas Feridas
+363;Chuva;Colisão traseira;Sem Vítimas
+364;Chuva;Engavetamento;Com Vítimas Feridas
+365;Chuva;Eventos atípicos;Com Vítimas Feridas
+366;Chuva;Incêndio;Sem Vítimas
+367;Chuva;Queda de ocupante de veículo;Com Vítimas Fatais
+368;Chuva;Queda de ocupante de veículo;Com Vítimas Feridas
+369;Chuva;Queda de ocupante de veículo;Sem Vítimas
+370;Chuva;Saída de leito carroçável;Com Vítimas Fatais
+371;Chuva;Saída de leito carroçável;Com Vítimas Feridas
+372;Chuva;Saída de leito carroçável;Sem Vítimas
+373;Chuva;Tombamento;Com Vítimas Fatais
+374;Chuva;Tombamento;Com Vítimas Feridas
+375;Chuva;Tombamento;Sem Vítimas
+376;Condutor Dormindo;Atropelamento de Pedestre;Com Vítimas Fatais
+377;Condutor Dormindo;Atropelamento de Pedestre;Com Vítimas Feridas
+378;Condutor Dormindo;Capotamento;Com Vítimas Fatais
+379;Condutor Dormindo;Capotamento;Com Vítimas Feridas
+380;Condutor Dormindo;Capotamento;Sem Vítimas
+381;Condutor Dormindo;Colisão com objeto;Com Vítimas Fatais
+382;Condutor Dormindo;Colisão com objeto;Com Vítimas Feridas
+383;Condutor Dormindo;Colisão com objeto;Sem Vítimas
+384;Condutor Dormindo;Colisão frontal;Com Vítimas Fatais
+385;Condutor Dormindo;Colisão frontal;Com Vítimas Feridas
+386;Condutor Dormindo;Colisão frontal;Sem Vítimas
+387;Condutor Dormindo;Colisão lateral mesmo sentido;Com Vítimas Feridas
+388;Condutor Dormindo;Colisão lateral mesmo sentido;Sem Vítimas
+389;Condutor Dormindo;Colisão lateral sentido oposto;Com Vítimas Fatais
+390;Condutor Dormindo;Colisão lateral sentido oposto;Com Vítimas Feridas
+391;Condutor Dormindo;Colisão lateral sentido oposto;Sem Vítimas
+392;Condutor Dormindo;Colisão transversal;Com Vítimas Fatais
+393;Condutor Dormindo;Colisão transversal;Com Vítimas Feridas
+394;Condutor Dormindo;Colisão transversal;Sem Vítimas
+395;Condutor Dormindo;Colisão traseira;Com Vítimas Fatais
+396;Condutor Dormindo;Colisão traseira;Com Vítimas Feridas
+397;Condutor Dormindo;Colisão traseira;Sem Vítimas
+398;Condutor Dormindo;Derramamento de carga;Sem Vítimas
+399;Condutor Dormindo;Engavetamento;Com Vítimas Feridas
+400;Condutor Dormindo;Eventos atípicos;Com Vítimas Feridas
+401;Condutor Dormindo;Eventos atípicos;Sem Vítimas
+402;Condutor Dormindo;Queda de ocupante de veículo;Com Vítimas Feridas
+403;Condutor Dormindo;Saída de leito carroçável;Com Vítimas Fatais
+404;Condutor Dormindo;Saída de leito carroçável;Com Vítimas Feridas
+405;Condutor Dormindo;Saída de leito carroçável;Sem Vítimas
+406;Condutor Dormindo;Tombamento;Com Vítimas Fatais
+407;Condutor Dormindo;Tombamento;Com Vítimas Feridas
+408;Condutor Dormindo;Tombamento;Sem Vítimas
+409;Condutor deixou de manter distância do veículo da frente;Atropelamento de Animal;Sem Vítimas
+410;Condutor deixou de manter distância do veículo da frente;Atropelamento de Pedestre;Com Vítimas Feridas
+411;Condutor deixou de manter distância do veículo da frente;Capotamento;Com Vítimas Feridas
+412;Condutor deixou de manter distância do veículo da frente;Capotamento;Sem Vítimas
+413;Condutor deixou de manter distância do veículo da frente;Colisão com objeto;Com Vítimas Feridas
+414;Condutor deixou de manter distância do veículo da frente;Colisão com objeto;Sem Vítimas
+415;Condutor deixou de manter distância do veículo da frente;Colisão frontal;Com Vítimas Fatais
+416;Condutor deixou de manter distância do veículo da frente;Colisão frontal;Com Vítimas Feridas
+417;Condutor deixou de manter distância do veículo da frente;Colisão frontal;Sem Vítimas
+418;Condutor deixou de manter distância do veículo da frente;Colisão lateral mesmo sentido;Com Vítimas Fatais
+419;Condutor deixou de manter distância do veículo da frente;Colisão lateral mesmo sentido;Com Vítimas Feridas
+420;Condutor deixou de manter distância do veículo da frente;Colisão lateral mesmo sentido;Sem Vítimas
+421;Condutor deixou de manter distância do veículo da frente;Colisão lateral sentido oposto;Com Vítimas Feridas
+422;Condutor deixou de manter distância do veículo da frente;Colisão transversal;Com Vítimas Feridas
+423;Condutor deixou de manter distância do veículo da frente;Colisão transversal;Sem Vítimas
+424;Condutor deixou de manter distância do veículo da frente;Colisão traseira;Com Vítimas Fatais
+425;Condutor deixou de manter distância do veículo da frente;Colisão traseira;Com Vítimas Feridas
+426;Condutor deixou de manter distância do veículo da frente;Colisão traseira;Sem Vítimas
+427;Condutor deixou de manter distância do veículo da frente;Engavetamento;Com Vítimas Fatais
+428;Condutor deixou de manter distância do veículo da frente;Engavetamento;Com Vítimas Feridas
+429;Condutor deixou de manter distância do veículo da frente;Engavetamento;Sem Vítimas
+430;Condutor deixou de manter distância do veículo da frente;Eventos atípicos;Com Vítimas Feridas
+431;Condutor deixou de manter distância do veículo da frente;Queda de ocupante de veículo;Com Vítimas Fatais
+432;Condutor deixou de manter distância do veículo da frente;Queda de ocupante de veículo;Com Vítimas Feridas
+433;Condutor deixou de manter distância do veículo da frente;Queda de ocupante de veículo;Sem Vítimas
+434;Condutor deixou de manter distância do veículo da frente;Saída de leito carroçável;Com Vítimas Feridas
+435;Condutor deixou de manter distância do veículo da frente;Saída de leito carroçável;Sem Vítimas
+436;Condutor deixou de manter distância do veículo da frente;Tombamento;Com Vítimas Feridas
+437;Condutor deixou de manter distância do veículo da frente;Tombamento;Sem Vítimas
+438;Condutor desrespeitou a iluminação vermelha do semáforo;Atropelamento de Pedestre;Com Vítimas Feridas
+439;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão com objeto;Com Vítimas Feridas
+440;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão frontal;Com Vítimas Feridas
+441;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão lateral mesmo sentido;Com Vítimas Feridas
+442;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão lateral mesmo sentido;Sem Vítimas
+443;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão lateral sentido oposto;Com Vítimas Feridas
+444;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão transversal;Com Vítimas Fatais
+445;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão transversal;Com Vítimas Feridas
+446;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão transversal;Sem Vítimas
+447;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão traseira;Com Vítimas Fatais
+448;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão traseira;Com Vítimas Feridas
+449;Condutor desrespeitou a iluminação vermelha do semáforo;Colisão traseira;Sem Vítimas
+450;Condutor desrespeitou a iluminação vermelha do semáforo;Queda de ocupante de veículo;Com Vítimas Fatais
+451;Condutor desrespeitou a iluminação vermelha do semáforo;Queda de ocupante de veículo;Com Vítimas Feridas
+452;Condutor usando celular;Atropelamento de Pedestre;Com Vítimas Feridas
+453;Condutor usando celular;Capotamento;Com Vítimas Feridas
+454;Condutor usando celular;Colisão com objeto;Com Vítimas Fatais
+455;Condutor usando celular;Colisão com objeto;Com Vítimas Feridas
+456;Condutor usando celular;Colisão com objeto;Sem Vítimas
+457;Condutor usando celular;Colisão frontal;Com Vítimas Fatais
+458;Condutor usando celular;Colisão frontal;Com Vítimas Feridas
+459;Condutor usando celular;Colisão frontal;Sem Vítimas
+460;Condutor usando celular;Colisão lateral mesmo sentido;Com Vítimas Feridas
+461;Condutor usando celular;Colisão lateral mesmo sentido;Sem Vítimas
+462;Condutor usando celular;Colisão lateral sentido oposto;Com Vítimas Fatais
+463;Condutor usando celular;Colisão lateral sentido oposto;Com Vítimas Feridas
+464;Condutor usando celular;Colisão lateral sentido oposto;Sem Vítimas
+465;Condutor usando celular;Colisão transversal;Com Vítimas Feridas
+466;Condutor usando celular;Colisão traseira;Com Vítimas Feridas
+467;Condutor usando celular;Colisão traseira;Sem Vítimas
+468;Condutor usando celular;Engavetamento;Com Vítimas Feridas
+469;Condutor usando celular;Engavetamento;Sem Vítimas
+470;Condutor usando celular;Queda de ocupante de veículo;Com Vítimas Feridas
+471;Condutor usando celular;Saída de leito carroçável;Com Vítimas Fatais
+472;Condutor usando celular;Saída de leito carroçável;Com Vítimas Feridas
+473;Condutor usando celular;Saída de leito carroçável;Sem Vítimas
+474;Condutor usando celular;Tombamento;Com Vítimas Feridas
+475;Condutor usando celular;Tombamento;Sem Vítimas
+476;Conversão proibida;Atropelamento de Pedestre;Com Vítimas Feridas
+477;Conversão proibida;Colisão frontal;Com Vítimas Fatais
+478;Conversão proibida;Colisão frontal;Com Vítimas Feridas
+479;Conversão proibida;Colisão frontal;Sem Vítimas
+480;Conversão proibida;Colisão lateral mesmo sentido;Com Vítimas Fatais
+481;Conversão proibida;Colisão lateral mesmo sentido;Com Vítimas Feridas
+482;Conversão proibida;Colisão lateral mesmo sentido;Sem Vítimas
+483;Conversão proibida;Colisão lateral sentido oposto;Com Vítimas Fatais
+484;Conversão proibida;Colisão lateral sentido oposto;Com Vítimas Feridas
+485;Conversão proibida;Colisão lateral sentido oposto;Sem Vítimas
+486;Conversão proibida;Colisão transversal;Com Vítimas Fatais
+487;Conversão proibida;Colisão transversal;Com Vítimas Feridas
+488;Conversão proibida;Colisão transversal;Sem Vítimas
+489;Conversão proibida;Colisão traseira;Com Vítimas Fatais
+490;Conversão proibida;Colisão traseira;Com Vítimas Feridas
+491;Conversão proibida;Colisão traseira;Sem Vítimas
+492;Conversão proibida;Engavetamento;Com Vítimas Feridas
+493;Conversão proibida;Engavetamento;Sem Vítimas
+494;Conversão proibida;Eventos atípicos;Com Vítimas Feridas
+495;Conversão proibida;Queda de ocupante de veículo;Com Vítimas Feridas
+496;Conversão proibida;Saída de leito carroçável;Com Vítimas Fatais
+497;Conversão proibida;Saída de leito carroçável;Com Vítimas Feridas
+498;Conversão proibida;Saída de leito carroçável;Sem Vítimas
+499;Conversão proibida;Tombamento;Com Vítimas Fatais
+500;Conversão proibida;Tombamento;Com Vítimas Feridas
+501;Curva acentuada;Atropelamento de Pedestre;Com Vítimas Feridas
+502;Curva acentuada;Capotamento;Com Vítimas Fatais
+503;Curva acentuada;Capotamento;Com Vítimas Feridas
+504;Curva acentuada;Colisão com objeto;Com Vítimas Fatais
+505;Curva acentuada;Colisão com objeto;Com Vítimas Feridas
+506;Curva acentuada;Colisão com objeto;Sem Vítimas
+507;Curva acentuada;Colisão frontal;Com Vítimas Fatais
+508;Curva acentuada;Colisão frontal;Com Vítimas Feridas
+509;Curva acentuada;Colisão lateral mesmo sentido;Com Vítimas Fatais
+510;Curva acentuada;Colisão lateral mesmo sentido;Com Vítimas Feridas
+511;Curva acentuada;Colisão lateral sentido oposto;Com Vítimas Fatais
+512;Curva acentuada;Colisão lateral sentido oposto;Com Vítimas Feridas
+513;Curva acentuada;Colisão lateral sentido oposto;Sem Vítimas
+514;Curva acentuada;Colisão transversal;Com Vítimas Feridas
+515;Curva acentuada;Colisão traseira;Com Vítimas Feridas
+516;Curva acentuada;Queda de ocupante de veículo;Com Vítimas Fatais
+517;Curva acentuada;Queda de ocupante de veículo;Com Vítimas Feridas
+518;Curva acentuada;Saída de leito carroçável;Com Vítimas Fatais
+519;Curva acentuada;Saída de leito carroçável;Com Vítimas Feridas
+520;Curva acentuada;Saída de leito carroçável;Sem Vítimas
+521;Curva acentuada;Tombamento;Com Vítimas Fatais
+522;Curva acentuada;Tombamento;Com Vítimas Feridas
+523;Curva acentuada;Tombamento;Sem Vítimas
+524;Declive acentuado;Colisão com objeto;Com Vítimas Feridas
+525;Declive acentuado;Colisão com objeto;Sem Vítimas
+526;Declive acentuado;Colisão lateral sentido oposto;Sem Vítimas
+527;Declive acentuado;Colisão traseira;Com Vítimas Feridas
+528;Declive acentuado;Queda de ocupante de veículo;Com Vítimas Feridas
+529;Declive acentuado;Saída de leito carroçável;Com Vítimas Feridas
+530;Declive acentuado;Saída de leito carroçável;Sem Vítimas
+531;Declive acentuado;Tombamento;Com Vítimas Feridas
+532;Deficiência do Sistema de Iluminação/Sinalização;Atropelamento de Animal;Com Vítimas Feridas
+533;Deficiência do Sistema de Iluminação/Sinalização;Atropelamento de Pedestre;Com Vítimas Fatais
+534;Deficiência do Sistema de Iluminação/Sinalização;Atropelamento de Pedestre;Com Vítimas Feridas
+535;Deficiência do Sistema de Iluminação/Sinalização;Capotamento;Com Vítimas Feridas
+536;Deficiência do Sistema de Iluminação/Sinalização;Colisão com objeto;Com Vítimas Feridas
+537;Deficiência do Sistema de Iluminação/Sinalização;Colisão com objeto;Sem Vítimas
+538;Deficiência do Sistema de Iluminação/Sinalização;Colisão frontal;Com Vítimas Fatais
+539;Deficiência do Sistema de Iluminação/Sinalização;Colisão frontal;Com Vítimas Feridas
+540;Deficiência do Sistema de Iluminação/Sinalização;Colisão lateral mesmo sentido;Com Vítimas Fatais
+541;Deficiência do Sistema de Iluminação/Sinalização;Colisão lateral mesmo sentido;Com Vítimas Feridas
+542;Deficiência do Sistema de Iluminação/Sinalização;Colisão lateral mesmo sentido;Sem Vítimas
+543;Deficiência do Sistema de Iluminação/Sinalização;Colisão lateral sentido oposto;Com Vítimas Feridas
+544;Deficiência do Sistema de Iluminação/Sinalização;Colisão transversal;Com Vítimas Feridas
+545;Deficiência do Sistema de Iluminação/Sinalização;Colisão traseira;Com Vítimas Fatais
+546;Deficiência do Sistema de Iluminação/Sinalização;Colisão traseira;Com Vítimas Feridas
+547;Deficiência do Sistema de Iluminação/Sinalização;Colisão traseira;Sem Vítimas
+548;Deficiência do Sistema de Iluminação/Sinalização;Eventos atípicos;Sem Vítimas
+549;Deficiência do Sistema de Iluminação/Sinalização;Incêndio;Sem Vítimas
+550;Deficiência do Sistema de Iluminação/Sinalização;Queda de ocupante de veículo;Com Vítimas Feridas
+551;Deficiência do Sistema de Iluminação/Sinalização;Saída de leito carroçável;Com Vítimas Feridas
+552;Deficiência do Sistema de Iluminação/Sinalização;Saída de leito carroçável;Sem Vítimas
+553;Deficiência do Sistema de Iluminação/Sinalização;Tombamento;Com Vítimas Feridas
+554;Deixar de acionar o farol da motocicleta (ou similar);Colisão frontal;Com Vítimas Feridas
+555;Deixar de acionar o farol da motocicleta (ou similar);Colisão lateral mesmo sentido;Com Vítimas Feridas
+556;Deixar de acionar o farol da motocicleta (ou similar);Colisão lateral sentido oposto;Sem Vítimas
+557;Deixar de acionar o farol da motocicleta (ou similar);Colisão transversal;Com Vítimas Feridas
+558;Deixar de acionar o farol da motocicleta (ou similar);Colisão traseira;Com Vítimas Fatais
+559;Deixar de acionar o farol da motocicleta (ou similar);Colisão traseira;Com Vítimas Feridas
+560;Deixar de acionar o farol da motocicleta (ou similar);Colisão traseira;Sem Vítimas
+561;Deixar de acionar o farol da motocicleta (ou similar);Saída de leito carroçável;Com Vítimas Feridas
+562;Deixar de acionar o farol da motocicleta (ou similar);Tombamento;Sem Vítimas
+563;Demais Fenômenos da natureza;Atropelamento de Pedestre;Com Vítimas Fatais
+564;Demais Fenômenos da natureza;Atropelamento de Pedestre;Com Vítimas Feridas
+565;Demais Fenômenos da natureza;Colisão com objeto;Com Vítimas Feridas
+566;Demais Fenômenos da natureza;Colisão com objeto;Sem Vítimas
+567;Demais Fenômenos da natureza;Colisão frontal;Com Vítimas Feridas
+568;Demais Fenômenos da natureza;Colisão lateral mesmo sentido;Com Vítimas Feridas
+569;Demais Fenômenos da natureza;Colisão lateral sentido oposto;Sem Vítimas
+570;Demais Fenômenos da natureza;Colisão transversal;Com Vítimas Feridas
+571;Demais Fenômenos da natureza;Colisão traseira;Com Vítimas Feridas
+572;Demais Fenômenos da natureza;Colisão traseira;Sem Vítimas
+573;Demais Fenômenos da natureza;Eventos atípicos;Com Vítimas Fatais
+574;Demais Fenômenos da natureza;Eventos atípicos;Com Vítimas Feridas
+575;Demais Fenômenos da natureza;Eventos atípicos;Sem Vítimas
+576;Demais Fenômenos da natureza;Incêndio;Sem Vítimas
+577;Demais Fenômenos da natureza;Queda de ocupante de veículo;Com Vítimas Feridas
+578;Demais Fenômenos da natureza;Saída de leito carroçável;Com Vítimas Feridas
+579;Demais Fenômenos da natureza;Saída de leito carroçável;Sem Vítimas
+580;Demais Fenômenos da natureza;Tombamento;Com Vítimas Feridas
+581;Demais falhas mecânicas ou elétricas;Atropelamento de Pedestre;Com Vítimas Fatais
+582;Demais falhas mecânicas ou elétricas;Atropelamento de Pedestre;Com Vítimas Feridas
+583;Demais falhas mecânicas ou elétricas;Capotamento;Com Vítimas Fatais
+584;Demais falhas mecânicas ou elétricas;Capotamento;Com Vítimas Feridas
+585;Demais falhas mecânicas ou elétricas;Capotamento;Sem Vítimas
+586;Demais falhas mecânicas ou elétricas;Colisão com objeto;Com Vítimas Fatais
+587;Demais falhas mecânicas ou elétricas;Colisão com objeto;Com Vítimas Feridas
+588;Demais falhas mecânicas ou elétricas;Colisão com objeto;Sem Vítimas
+589;Demais falhas mecânicas ou elétricas;Colisão frontal;Com Vítimas Fatais
+590;Demais falhas mecânicas ou elétricas;Colisão frontal;Com Vítimas Feridas
+591;Demais falhas mecânicas ou elétricas;Colisão frontal;Sem Vítimas
+592;Demais falhas mecânicas ou elétricas;Colisão lateral mesmo sentido;Com Vítimas Fatais
+593;Demais falhas mecânicas ou elétricas;Colisão lateral mesmo sentido;Com Vítimas Feridas
+594;Demais falhas mecânicas ou elétricas;Colisão lateral mesmo sentido;Sem Vítimas
+595;Demais falhas mecânicas ou elétricas;Colisão lateral sentido oposto;Com Vítimas Fatais
+596;Demais falhas mecânicas ou elétricas;Colisão lateral sentido oposto;Com Vítimas Feridas
+597;Demais falhas mecânicas ou elétricas;Colisão lateral sentido oposto;Sem Vítimas
+598;Demais falhas mecânicas ou elétricas;Colisão transversal;Com Vítimas Fatais
+599;Demais falhas mecânicas ou elétricas;Colisão transversal;Com Vítimas Feridas
+600;Demais falhas mecânicas ou elétricas;Colisão transversal;Sem Vítimas
+601;Demais falhas mecânicas ou elétricas;Colisão traseira;Com Vítimas Fatais
+602;Demais falhas mecânicas ou elétricas;Colisão traseira;Com Vítimas Feridas
+603;Demais falhas mecânicas ou elétricas;Colisão traseira;Sem Vítimas
+604;Demais falhas mecânicas ou elétricas;Derramamento de carga;Com Vítimas Feridas
+605;Demais falhas mecânicas ou elétricas;Derramamento de carga;Sem Vítimas
+606;Demais falhas mecânicas ou elétricas;Engavetamento;Com Vítimas Fatais
+607;Demais falhas mecânicas ou elétricas;Engavetamento;Com Vítimas Feridas
+608;Demais falhas mecânicas ou elétricas;Eventos atípicos;Com Vítimas Fatais
+609;Demais falhas mecânicas ou elétricas;Eventos atípicos;Com Vítimas Feridas
+610;Demais falhas mecânicas ou elétricas;Eventos atípicos;Sem Vítimas
+611;Demais falhas mecânicas ou elétricas;Incêndio;Com Vítimas Feridas
+612;Demais falhas mecânicas ou elétricas;Incêndio;Sem Vítimas
+613;Demais falhas mecânicas ou elétricas;Queda de ocupante de veículo;Com Vítimas Fatais
+614;Demais falhas mecânicas ou elétricas;Queda de ocupante de veículo;Com Vítimas Feridas
+615;Demais falhas mecânicas ou elétricas;Queda de ocupante de veículo;Sem Vítimas
+616;Demais falhas mecânicas ou elétricas;Saída de leito carroçável;Com Vítimas Fatais
+617;Demais falhas mecânicas ou elétricas;Saída de leito carroçável;Com Vítimas Feridas
+618;Demais falhas mecânicas ou elétricas;Saída de leito carroçável;Sem Vítimas
+619;Demais falhas mecânicas ou elétricas;Tombamento;Com Vítimas Fatais
+620;Demais falhas mecânicas ou elétricas;Tombamento;Com Vítimas Feridas
+621;Demais falhas mecânicas ou elétricas;Tombamento;Sem Vítimas
+622;Demais falhas na via;Atropelamento de Pedestre;Com Vítimas Feridas
+623;Demais falhas na via;Capotamento;Com Vítimas Fatais
+624;Demais falhas na via;Capotamento;Com Vítimas Feridas
+625;Demais falhas na via;Capotamento;Sem Vítimas
+626;Demais falhas na via;Colisão com objeto;Com Vítimas Fatais
+627;Demais falhas na via;Colisão com objeto;Com Vítimas Feridas
+628;Demais falhas na via;Colisão com objeto;Sem Vítimas
+629;Demais falhas na via;Colisão frontal;Com Vítimas Fatais
+630;Demais falhas na via;Colisão frontal;Com Vítimas Feridas
+631;Demais falhas na via;Colisão frontal;Sem Vítimas
+632;Demais falhas na via;Colisão lateral mesmo sentido;Com Vítimas Feridas
+633;Demais falhas na via;Colisão lateral sentido oposto;Com Vítimas Feridas
+634;Demais falhas na via;Colisão transversal;Com Vítimas Feridas
+635;Demais falhas na via;Colisão traseira;Com Vítimas Feridas
+636;Demais falhas na via;Colisão traseira;Sem Vítimas
+637;Demais falhas na via;Engavetamento;Com Vítimas Feridas
+638;Demais falhas na via;Eventos atípicos;Com Vítimas Feridas
+639;Demais falhas na via;Eventos atípicos;Sem Vítimas
+640;Demais falhas na via;Incêndio;Sem Vítimas
+641;Demais falhas na via;Queda de ocupante de veículo;Com Vítimas Fatais
+642;Demais falhas na via;Queda de ocupante de veículo;Com Vítimas Feridas
+643;Demais falhas na via;Queda de ocupante de veículo;Sem Vítimas
+644;Demais falhas na via;Saída de leito carroçável;Com Vítimas Fatais
+645;Demais falhas na via;Saída de leito carroçável;Com Vítimas Feridas
+646;Demais falhas na via;Saída de leito carroçável;Sem Vítimas
+647;Demais falhas na via;Tombamento;Com Vítimas Fatais
+648;Demais falhas na via;Tombamento;Com Vítimas Feridas
+649;Demais falhas na via;Tombamento;Sem Vítimas
+650;Desrespeitar a preferência no cruzamento;Atropelamento de Pedestre;Com Vítimas Feridas
+651;Desrespeitar a preferência no cruzamento;Colisão com objeto;Com Vítimas Fatais
+652;Desrespeitar a preferência no cruzamento;Colisão com objeto;Sem Vítimas
+653;Desrespeitar a preferência no cruzamento;Colisão frontal;Com Vítimas Fatais
+654;Desrespeitar a preferência no cruzamento;Colisão frontal;Com Vítimas Feridas
+655;Desrespeitar a preferência no cruzamento;Colisão lateral mesmo sentido;Com Vítimas Feridas
+656;Desrespeitar a preferência no cruzamento;Colisão lateral mesmo sentido;Sem Vítimas
+657;Desrespeitar a preferência no cruzamento;Colisão lateral sentido oposto;Com Vítimas Feridas
+658;Desrespeitar a preferência no cruzamento;Colisão lateral sentido oposto;Sem Vítimas
+659;Desrespeitar a preferência no cruzamento;Colisão transversal;Com Vítimas Fatais
+660;Desrespeitar a preferência no cruzamento;Colisão transversal;Com Vítimas Feridas
+661;Desrespeitar a preferência no cruzamento;Colisão transversal;Sem Vítimas
+662;Desrespeitar a preferência no cruzamento;Colisão traseira;Com Vítimas Feridas
+663;Desrespeitar a preferência no cruzamento;Colisão traseira;Sem Vítimas
+664;Desrespeitar a preferência no cruzamento;Eventos atípicos;Sem Vítimas
+665;Desrespeitar a preferência no cruzamento;Queda de ocupante de veículo;Com Vítimas Feridas
+666;Desrespeitar a preferência no cruzamento;Saída de leito carroçável;Com Vítimas Feridas
+667;Desrespeitar a preferência no cruzamento;Tombamento;Com Vítimas Fatais
+668;Desrespeitar a preferência no cruzamento;Tombamento;Com Vítimas Feridas
+669;Desvio temporário;Atropelamento de Pedestre;Com Vítimas Fatais
+670;Desvio temporário;Capotamento;Com Vítimas Feridas
+671;Desvio temporário;Colisão com objeto;Com Vítimas Feridas
+672;Desvio temporário;Colisão frontal;Com Vítimas Feridas
+673;Desvio temporário;Colisão lateral mesmo sentido;Com Vítimas Fatais
+674;Desvio temporário;Colisão lateral mesmo sentido;Com Vítimas Feridas
+675;Desvio temporário;Colisão lateral sentido oposto;Com Vítimas Feridas
+676;Desvio temporário;Colisão lateral sentido oposto;Sem Vítimas
+677;Desvio temporário;Colisão transversal;Com Vítimas Feridas
+678;Desvio temporário;Colisão traseira;Com Vítimas Feridas
+679;Desvio temporário;Colisão traseira;Sem Vítimas
+680;Desvio temporário;Engavetamento;Com Vítimas Feridas
+681;Desvio temporário;Saída de leito carroçável;Com Vítimas Feridas
+682;Desvio temporário;Saída de leito carroçável;Sem Vítimas
+683;Desvio temporário;Tombamento;Com Vítimas Feridas
+684;Desvio temporário;Tombamento;Sem Vítimas
+685;Entrada inopinada do pedestre;Atropelamento de Animal;Com Vítimas Fatais
+686;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vítimas Fatais
+687;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vítimas Feridas
+688;Entrada inopinada do pedestre;Atropelamento de Pedestre;Sem Vítimas
+689;Entrada inopinada do pedestre;Capotamento;Com Vítimas Feridas
+690;Entrada inopinada do pedestre;Colisão com objeto;Com Vítimas Feridas
+691;Entrada inopinada do pedestre;Colisão lateral mesmo sentido;Com Vítimas Feridas
+692;Entrada inopinada do pedestre;Colisão transversal;Com Vítimas Fatais
+693;Entrada inopinada do pedestre;Colisão transversal;Com Vítimas Feridas
+694;Entrada inopinada do pedestre;Colisão transversal;Sem Vítimas
+695;Entrada inopinada do pedestre;Colisão traseira;Com Vítimas Fatais
+696;Entrada inopinada do pedestre;Colisão traseira;Com Vítimas Feridas
+697;Entrada inopinada do pedestre;Colisão traseira;Sem Vítimas
+698;Entrada inopinada do pedestre;Engavetamento;Com Vítimas Feridas
+699;Entrada inopinada do pedestre;Eventos atípicos;Com Vítimas Fatais
+700;Entrada inopinada do pedestre;Eventos atípicos;Com Vítimas Feridas
+701;Entrada inopinada do pedestre;Queda de ocupante de veículo;Com Vítimas Fatais
+702;Entrada inopinada do pedestre;Queda de ocupante de veículo;Com Vítimas Feridas
+703;Entrada inopinada do pedestre;Saída de leito carroçável;Com Vítimas Feridas
+704;Entrada inopinada do pedestre;Saída de leito carroçável;Sem Vítimas
+705;Entrada inopinada do pedestre;Tombamento;Com Vítimas Feridas
+706;Estacionar ou parar em local proibido;Atropelamento de Pedestre;Com Vítimas Feridas
+707;Estacionar ou parar em local proibido;Colisão com objeto;Com Vítimas Fatais
+708;Estacionar ou parar em local proibido;Colisão com objeto;Com Vítimas Feridas
+709;Estacionar ou parar em local proibido;Colisão com objeto;Sem Vítimas
+710;Estacionar ou parar em local proibido;Colisão frontal;Com Vítimas Fatais
+711;Estacionar ou parar em local proibido;Colisão frontal;Com Vítimas Feridas
+712;Estacionar ou parar em local proibido;Colisão frontal;Sem Vítimas
+713;Estacionar ou parar em local proibido;Colisão lateral mesmo sentido;Com Vítimas Fatais
+714;Estacionar ou parar em local proibido;Colisão lateral mesmo sentido;Com Vítimas Feridas
+715;Estacionar ou parar em local proibido;Colisão lateral mesmo sentido;Sem Vítimas
+716;Estacionar ou parar em local proibido;Colisão lateral sentido oposto;Com Vítimas Fatais
+717;Estacionar ou parar em local proibido;Colisão lateral sentido oposto;Com Vítimas Feridas
+718;Estacionar ou parar em local proibido;Colisão lateral sentido oposto;Sem Vítimas
+719;Estacionar ou parar em local proibido;Colisão transversal;Com Vítimas Feridas
+720;Estacionar ou parar em local proibido;Colisão transversal;Sem Vítimas
+721;Estacionar ou parar em local proibido;Colisão traseira;Com Vítimas Fatais
+722;Estacionar ou parar em local proibido;Colisão traseira;Com Vítimas Feridas
+723;Estacionar ou parar em local proibido;Colisão traseira;Sem Vítimas
+724;Estacionar ou parar em local proibido;Engavetamento;Com Vítimas Feridas
+725;Estacionar ou parar em local proibido;Engavetamento;Sem Vítimas
+726;Estacionar ou parar em local proibido;Eventos atípicos;Com Vítimas Feridas
+727;Estacionar ou parar em local proibido;Eventos atípicos;Sem Vítimas
+728;Estacionar ou parar em local proibido;Saída de leito carroçável;Com Vítimas Feridas
+729;Estacionar ou parar em local proibido;Tombamento;Com Vítimas Feridas
+730;Estacionar ou parar em local proibido;Tombamento;Sem Vítimas
+731;Faixas de trânsito com largura insuficiente;Colisão com objeto;Sem Vítimas
+732;Faixas de trânsito com largura insuficiente;Colisão frontal;Com Vítimas Feridas
+733;Faixas de trânsito com largura insuficiente;Colisão lateral mesmo sentido;Com Vítimas Feridas
+734;Faixas de trânsito com largura insuficiente;Colisão lateral mesmo sentido;Sem Vítimas
+735;Faixas de trânsito com largura insuficiente;Colisão lateral sentido oposto;Com Vítimas Feridas
+736;Faixas de trânsito com largura insuficiente;Colisão traseira;Sem Vítimas
+737;Faixas de trânsito com largura insuficiente;Queda de ocupante de veículo;Com Vítimas Feridas
+738;Faixas de trânsito com largura insuficiente;Saída de leito carroçável;Com Vítimas Feridas
+739;Falta de acostamento;Atropelamento de Pedestre;Com Vítimas Fatais
+740;Falta de acostamento;Atropelamento de Pedestre;Com Vítimas Feridas
+741;Falta de acostamento;Capotamento;Com Vítimas Feridas
+742;Falta de acostamento;Capotamento;Sem Vítimas
+743;Falta de acostamento;Colisão com objeto;Com Vítimas Fatais
+744;Falta de acostamento;Colisão com objeto;Sem Vítimas
+745;Falta de acostamento;Colisão frontal;Com Vítimas Feridas
+746;Falta de acostamento;Colisão lateral mesmo sentido;Com Vítimas Fatais
+747;Falta de acostamento;Colisão lateral mesmo sentido;Com Vítimas Feridas
+748;Falta de acostamento;Colisão lateral sentido oposto;Com Vítimas Feridas
+749;Falta de acostamento;Colisão transversal;Com Vítimas Feridas
+750;Falta de acostamento;Colisão traseira;Com Vítimas Fatais
+751;Falta de acostamento;Colisão traseira;Com Vítimas Feridas
+752;Falta de acostamento;Colisão traseira;Sem Vítimas
+753;Falta de acostamento;Queda de ocupante de veículo;Com Vítimas Feridas
+754;Falta de acostamento;Saída de leito carroçável;Com Vítimas Fatais
+755;Falta de acostamento;Saída de leito carroçável;Com Vítimas Feridas
+756;Falta de acostamento;Saída de leito carroçável;Sem Vítimas
+757;Falta de acostamento;Tombamento;Com Vítimas Fatais
+758;Falta de acostamento;Tombamento;Com Vítimas Feridas
+759;Falta de acostamento;Tombamento;Sem Vítimas
+760;Falta de elemento de contenção que evite a saída do leito carroçável;Capotamento;Com Vítimas Feridas
+761;Falta de elemento de contenção que evite a saída do leito carroçável;Capotamento;Sem Vítimas
+762;Falta de elemento de contenção que evite a saída do leito carroçável;Colisão com objeto;Sem Vítimas
+763;Falta de elemento de contenção que evite a saída do leito carroçável;Eventos atípicos;Sem Vítimas
+764;Falta de elemento de contenção que evite a saída do leito carroçável;Saída de leito carroçável;Com Vítimas Fatais
+765;Falta de elemento de contenção que evite a saída do leito carroçável;Saída de leito carroçável;Com Vítimas Feridas
+766;Falta de elemento de contenção que evite a saída do leito carroçável;Saída de leito carroçável;Sem Vítimas
+767;Falta de elemento de contenção que evite a saída do leito carroçável;Tombamento;Com Vítimas Feridas
+768;Faróis desregulados;Colisão com objeto;Com Vítimas Feridas
+769;Faróis desregulados;Colisão frontal;Com Vítimas Feridas
+770;Faróis desregulados;Colisão lateral mesmo sentido;Com Vítimas Feridas
+771;Faróis desregulados;Colisão lateral mesmo sentido;Sem Vítimas
+772;Faróis desregulados;Colisão lateral sentido oposto;Com Vítimas Feridas
+773;Faróis desregulados;Colisão transversal;Com Vítimas Feridas
+774;Faróis desregulados;Colisão traseira;Com Vítimas Feridas
+775;Faróis desregulados;Incêndio;Sem Vítimas
+776;Frear bruscamente;Capotamento;Com Vítimas Feridas
+777;Frear bruscamente;Capotamento;Sem Vítimas
+778;Frear bruscamente;Colisão com objeto;Com Vítimas Feridas
+779;Frear bruscamente;Colisão com objeto;Sem Vítimas
+780;Frear bruscamente;Colisão frontal;Com Vítimas Feridas
+781;Frear bruscamente;Colisão frontal;Sem Vítimas
+782;Frear bruscamente;Colisão lateral mesmo sentido;Com Vítimas Fatais
+783;Frear bruscamente;Colisão lateral mesmo sentido;Com Vítimas Feridas
+784;Frear bruscamente;Colisão lateral mesmo sentido;Sem Vítimas
+785;Frear bruscamente;Colisão lateral sentido oposto;Com Vítimas Feridas
+786;Frear bruscamente;Colisão transversal;Com Vítimas Feridas
+787;Frear bruscamente;Colisão transversal;Sem Vítimas
+788;Frear bruscamente;Colisão traseira;Com Vítimas Fatais
+789;Frear bruscamente;Colisão traseira;Com Vítimas Feridas
+790;Frear bruscamente;Colisão traseira;Sem Vítimas
+791;Frear bruscamente;Derramamento de carga;Sem Vítimas
+792;Frear bruscamente;Engavetamento;Com Vítimas Feridas
+793;Frear bruscamente;Engavetamento;Sem Vítimas
+794;Frear bruscamente;Eventos atípicos;Com Vítimas Feridas
+795;Frear bruscamente;Incêndio;Sem Vítimas
+796;Frear bruscamente;Queda de ocupante de veículo;Com Vítimas Fatais
+797;Frear bruscamente;Queda de ocupante de veículo;Com Vítimas Feridas
+798;Frear bruscamente;Saída de leito carroçável;Com Vítimas Fatais
+799;Frear bruscamente;Saída de leito carroçável;Com Vítimas Feridas
+800;Frear bruscamente;Saída de leito carroçável;Sem Vítimas
+801;Frear bruscamente;Tombamento;Com Vítimas Feridas
+802;Frear bruscamente;Tombamento;Sem Vítimas
+803;Fumaça;Colisão frontal;Com Vítimas Feridas
+804;Fumaça;Colisão traseira;Com Vítimas Feridas
+805;Fumaça;Colisão traseira;Sem Vítimas
+806;Fumaça;Engavetamento;Com Vítimas Feridas
+807;Fumaça;Eventos atípicos;Sem Vítimas
+808;Fumaça;Incêndio;Com Vítimas Feridas
+809;Fumaça;Incêndio;Sem Vítimas
+810;Fumaça;Saída de leito carroçável;Com Vítimas Feridas
+811;Iluminação deficiente;Atropelamento de Animal;Com Vítimas Feridas
+812;Iluminação deficiente;Atropelamento de Pedestre;Com Vítimas Fatais
+813;Iluminação deficiente;Atropelamento de Pedestre;Com Vítimas Feridas
+814;Iluminação deficiente;Capotamento;Sem Vítimas
+815;Iluminação deficiente;Colisão com objeto;Com Vítimas Feridas
+816;Iluminação deficiente;Colisão com objeto;Sem Vítimas
+817;Iluminação deficiente;Colisão frontal;Com Vítimas Feridas
+818;Iluminação deficiente;Colisão frontal;Sem Vítimas
+819;Iluminação deficiente;Colisão lateral mesmo sentido;Com Vítimas Feridas
+820;Iluminação deficiente;Colisão lateral sentido oposto;Com Vítimas Feridas
+821;Iluminação deficiente;Colisão transversal;Com Vítimas Fatais
+822;Iluminação deficiente;Colisão transversal;Com Vítimas Feridas
+823;Iluminação deficiente;Colisão transversal;Sem Vítimas
+824;Iluminação deficiente;Colisão traseira;Com Vítimas Fatais
+825;Iluminação deficiente;Colisão traseira;Com Vítimas Feridas
+826;Iluminação deficiente;Colisão traseira;Sem Vítimas
+827;Iluminação deficiente;Eventos atípicos;Com Vítimas Feridas
+828;Iluminação deficiente;Queda de ocupante de veículo;Com Vítimas Feridas
+829;Iluminação deficiente;Saída de leito carroçável;Com Vítimas Feridas
+830;Iluminação deficiente;Saída de leito carroçável;Sem Vítimas
+831;Iluminação deficiente;Tombamento;Com Vítimas Fatais
+832;Iluminação deficiente;Tombamento;Com Vítimas Feridas
+833;Ingestão de substâncias psicoativas pelo condutor;Capotamento;Com Vítimas Feridas
+834;Ingestão de substâncias psicoativas pelo condutor;Capotamento;Sem Vítimas
+835;Ingestão de substâncias psicoativas pelo condutor;Colisão com objeto;Com Vítimas Feridas
+836;Ingestão de substâncias psicoativas pelo condutor;Colisão com objeto;Sem Vítimas
+837;Ingestão de substâncias psicoativas pelo condutor;Colisão frontal;Com Vítimas Feridas
+838;Ingestão de substâncias psicoativas pelo condutor;Colisão frontal;Sem Vítimas
+839;Ingestão de substâncias psicoativas pelo condutor;Colisão lateral mesmo sentido;Com Vítimas Feridas
+840;Ingestão de substâncias psicoativas pelo condutor;Colisão lateral mesmo sentido;Sem Vítimas
+841;Ingestão de substâncias psicoativas pelo condutor;Colisão lateral sentido oposto;Com Vítimas Fatais
+842;Ingestão de substâncias psicoativas pelo condutor;Colisão lateral sentido oposto;Com Vítimas Feridas
+843;Ingestão de substâncias psicoativas pelo condutor;Colisão lateral sentido oposto;Sem Vítimas
+844;Ingestão de substâncias psicoativas pelo condutor;Colisão transversal;Sem Vítimas
+845;Ingestão de substâncias psicoativas pelo condutor;Colisão traseira;Com Vítimas Feridas
+846;Ingestão de substâncias psicoativas pelo condutor;Colisão traseira;Sem Vítimas
+847;Ingestão de substâncias psicoativas pelo condutor;Engavetamento;Com Vítimas Feridas
+848;Ingestão de substâncias psicoativas pelo condutor;Eventos atípicos;Sem Vítimas
+849;Ingestão de substâncias psicoativas pelo condutor;Queda de ocupante de veículo;Com Vítimas Feridas
+850;Ingestão de substâncias psicoativas pelo condutor;Queda de ocupante de veículo;Sem Vítimas
+851;Ingestão de substâncias psicoativas pelo condutor;Saída de leito carroçável;Com Vítimas Fatais
+852;Ingestão de substâncias psicoativas pelo condutor;Saída de leito carroçável;Com Vítimas Feridas
+853;Ingestão de substâncias psicoativas pelo condutor;Saída de leito carroçável;Sem Vítimas
+854;Ingestão de substâncias psicoativas pelo condutor;Tombamento;Com Vítimas Feridas
+855;Ingestão de substâncias psicoativas pelo condutor;Tombamento;Sem Vítimas
+856;Ingestão de álcool pelo condutor;Atropelamento de Animal;Com Vítimas Feridas
+857;Ingestão de álcool pelo condutor;Atropelamento de Pedestre;Com Vítimas Fatais
+858;Ingestão de álcool pelo condutor;Atropelamento de Pedestre;Com Vítimas Feridas
+859;Ingestão de álcool pelo condutor;Capotamento;Com Vítimas Fatais
+860;Ingestão de álcool pelo condutor;Capotamento;Com Vítimas Feridas
+861;Ingestão de álcool pelo condutor;Capotamento;Sem Vítimas
+862;Ingestão de álcool pelo condutor;Colisão com objeto;Com Vítimas Fatais
+863;Ingestão de álcool pelo condutor;Colisão com objeto;Com Vítimas Feridas
+864;Ingestão de álcool pelo condutor;Colisão com objeto;Sem Vítimas
+865;Ingestão de álcool pelo condutor;Colisão frontal;Com Vítimas Fatais
+866;Ingestão de álcool pelo condutor;Colisão frontal;Com Vítimas Feridas
+867;Ingestão de álcool pelo condutor;Colisão frontal;Sem Vítimas
+868;Ingestão de álcool pelo condutor;Colisão lateral mesmo sentido;Com Vítimas Fatais
+869;Ingestão de álcool pelo condutor;Colisão lateral mesmo sentido;Com Vítimas Feridas
+870;Ingestão de álcool pelo condutor;Colisão lateral mesmo sentido;Sem Vítimas
+871;Ingestão de álcool pelo condutor;Colisão lateral sentido oposto;Com Vítimas Fatais
+872;Ingestão de álcool pelo condutor;Colisão lateral sentido oposto;Com Vítimas Feridas
+873;Ingestão de álcool pelo condutor;Colisão lateral sentido oposto;Sem Vítimas
+874;Ingestão de álcool pelo condutor;Colisão transversal;Com Vítimas Fatais
+875;Ingestão de álcool pelo condutor;Colisão transversal;Com Vítimas Feridas
+876;Ingestão de álcool pelo condutor;Colisão transversal;Sem Vítimas
+877;Ingestão de álcool pelo condutor;Colisão traseira;Com Vítimas Fatais
+878;Ingestão de álcool pelo condutor;Colisão traseira;Com Vítimas Feridas
+879;Ingestão de álcool pelo condutor;Colisão traseira;Sem Vítimas
+880;Ingestão de álcool pelo condutor;Derramamento de carga;Sem Vítimas
+881;Ingestão de álcool pelo condutor;Engavetamento;Com Vítimas Feridas
+882;Ingestão de álcool pelo condutor;Engavetamento;Sem Vítimas
+883;Ingestão de álcool pelo condutor;Eventos atípicos;Com Vítimas Feridas
+884;Ingestão de álcool pelo condutor;Eventos atípicos;Sem Vítimas
+885;Ingestão de álcool pelo condutor;Incêndio;Sem Vítimas
+886;Ingestão de álcool pelo condutor;Queda de ocupante de veículo;Com Vítimas Fatais
+887;Ingestão de álcool pelo condutor;Queda de ocupante de veículo;Com Vítimas Feridas
+888;Ingestão de álcool pelo condutor;Queda de ocupante de veículo;Sem Vítimas
+889;Ingestão de álcool pelo condutor;Saída de leito carroçável;Com Vítimas Fatais
+890;Ingestão de álcool pelo condutor;Saída de leito carroçável;Com Vítimas Feridas
+891;Ingestão de álcool pelo condutor;Saída de leito carroçável;Sem Vítimas
+892;Ingestão de álcool pelo condutor;Sinistro pessoal de trânsito;Com Vítimas Feridas
+893;Ingestão de álcool pelo condutor;Tombamento;Com Vítimas Fatais
+894;Ingestão de álcool pelo condutor;Tombamento;Com Vítimas Feridas
+895;Ingestão de álcool pelo condutor;Tombamento;Sem Vítimas
+896;Mal súbito do condutor;Atropelamento de Pedestre;Com Vítimas Feridas
+897;Mal súbito do condutor;Capotamento;Com Vítimas Fatais
+898;Mal súbito do condutor;Capotamento;Com Vítimas Feridas
+899;Mal súbito do condutor;Colisão com objeto;Com Vítimas Fatais
+900;Mal súbito do condutor;Colisão com objeto;Com Vítimas Feridas
+901;Mal súbito do condutor;Colisão com objeto;Sem Vítimas
+902;Mal súbito do condutor;Colisão frontal;Com Vítimas Fatais
+903;Mal súbito do condutor;Colisão frontal;Com Vítimas Feridas
+904;Mal súbito do condutor;Colisão frontal;Sem Vítimas
+905;Mal súbito do condutor;Colisão lateral mesmo sentido;Com Vítimas Fatais
+906;Mal súbito do condutor;Colisão lateral mesmo sentido;Com Vítimas Feridas
+907;Mal súbito do condutor;Colisão lateral mesmo sentido;Sem Vítimas
+908;Mal súbito do condutor;Colisão lateral sentido oposto;Com Vítimas Fatais
+909;Mal súbito do condutor;Colisão lateral sentido oposto;Com Vítimas Feridas
+910;Mal súbito do condutor;Colisão transversal;Com Vítimas Fatais
+911;Mal súbito do condutor;Colisão transversal;Com Vítimas Feridas
+912;Mal súbito do condutor;Colisão traseira;Com Vítimas Fatais
+913;Mal súbito do condutor;Colisão traseira;Com Vítimas Feridas
+914;Mal súbito do condutor;Colisão traseira;Sem Vítimas
+915;Mal súbito do condutor;Engavetamento;Com Vítimas Feridas
+916;Mal súbito do condutor;Engavetamento;Sem Vítimas
+917;Mal súbito do condutor;Eventos atípicos;Com Vítimas Fatais
+918;Mal súbito do condutor;Eventos atípicos;Com Vítimas Feridas
+919;Mal súbito do condutor;Eventos atípicos;Sem Vítimas
+920;Mal súbito do condutor;Queda de ocupante de veículo;Com Vítimas Fatais
+921;Mal súbito do condutor;Queda de ocupante de veículo;Com Vítimas Feridas
+922;Mal súbito do condutor;Queda de ocupante de veículo;Sem Vítimas
+923;Mal súbito do condutor;Saída de leito carroçável;Com Vítimas Fatais
+924;Mal súbito do condutor;Saída de leito carroçável;Com Vítimas Feridas
+925;Mal súbito do condutor;Saída de leito carroçável;Sem Vítimas
+926;Mal súbito do condutor;Tombamento;Com Vítimas Fatais
+927;Mal súbito do condutor;Tombamento;Com Vítimas Feridas
+928;Mal súbito do condutor;Tombamento;Sem Vítimas
+929;Manobra de mudança de faixa;Atropelamento de Pedestre;Com Vítimas Fatais
+930;Manobra de mudança de faixa;Atropelamento de Pedestre;Com Vítimas Feridas
+931;Manobra de mudança de faixa;Capotamento;Com Vítimas Feridas
+932;Manobra de mudança de faixa;Colisão com objeto;Com Vítimas Fatais
+933;Manobra de mudança de faixa;Colisão com objeto;Com Vítimas Feridas
+934;Manobra de mudança de faixa;Colisão com objeto;Sem Vítimas
+935;Manobra de mudança de faixa;Colisão frontal;Com Vítimas Fatais
+936;Manobra de mudança de faixa;Colisão frontal;Com Vítimas Feridas
+937;Manobra de mudança de faixa;Colisão frontal;Sem Vítimas
+938;Manobra de mudança de faixa;Colisão lateral mesmo sentido;Com Vítimas Fatais
+939;Manobra de mudança de faixa;Colisão lateral mesmo sentido;Com Vítimas Feridas
+940;Manobra de mudança de faixa;Colisão lateral mesmo sentido;Sem Vítimas
+941;Manobra de mudança de faixa;Colisão lateral sentido oposto;Com Vítimas Fatais
+942;Manobra de mudança de faixa;Colisão lateral sentido oposto;Com Vítimas Feridas
+943;Manobra de mudança de faixa;Colisão lateral sentido oposto;Sem Vítimas
+944;Manobra de mudança de faixa;Colisão transversal;Com Vítimas Fatais
+945;Manobra de mudança de faixa;Colisão transversal;Com Vítimas Feridas
+946;Manobra de mudança de faixa;Colisão transversal;Sem Vítimas
+947;Manobra de mudança de faixa;Colisão traseira;Com Vítimas Fatais
+948;Manobra de mudança de faixa;Colisão traseira;Com Vítimas Feridas
+949;Manobra de mudança de faixa;Colisão traseira;Sem Vítimas
+950;Manobra de mudança de faixa;Derramamento de carga;Sem Vítimas
+951;Manobra de mudança de faixa;Engavetamento;Com Vítimas Feridas
+952;Manobra de mudança de faixa;Engavetamento;Sem Vítimas
+953;Manobra de mudança de faixa;Eventos atípicos;Com Vítimas Feridas
+954;Manobra de mudança de faixa;Incêndio;Sem Vítimas
+955;Manobra de mudança de faixa;Queda de ocupante de veículo;Com Vítimas Fatais
+956;Manobra de mudança de faixa;Queda de ocupante de veículo;Com Vítimas Feridas
+957;Manobra de mudança de faixa;Queda de ocupante de veículo;Sem Vítimas
+958;Manobra de mudança de faixa;Saída de leito carroçável;Com Vítimas Fatais
+959;Manobra de mudança de faixa;Saída de leito carroçável;Com Vítimas Feridas
+960;Manobra de mudança de faixa;Saída de leito carroçável;Sem Vítimas
+961;Manobra de mudança de faixa;Tombamento;Com Vítimas Fatais
+962;Manobra de mudança de faixa;Tombamento;Com Vítimas Feridas
+963;Manobra de mudança de faixa;Tombamento;Sem Vítimas
+964;Modificação proibida;Atropelamento de Pedestre;Com Vítimas Fatais
+965;Modificação proibida;Colisão frontal;Com Vítimas Feridas
+966;Modificação proibida;Colisão lateral mesmo sentido;Com Vítimas Feridas
+967;Modificação proibida;Colisão transversal;Com Vítimas Feridas
+968;Modificação proibida;Colisão traseira;Com Vítimas Feridas
+969;Modificação proibida;Saída de leito carroçável;Com Vítimas Fatais
+970;Neblina;Atropelamento de Animal;Com Vítimas Feridas
+971;Neblina;Atropelamento de Animal;Sem Vítimas
+972;Neblina;Atropelamento de Pedestre;Com Vítimas Feridas
+973;Neblina;Colisão com objeto;Com Vítimas Feridas
+974;Neblina;Colisão com objeto;Sem Vítimas
+975;Neblina;Colisão frontal;Com Vítimas Feridas
+976;Neblina;Colisão lateral mesmo sentido;Com Vítimas Feridas
+977;Neblina;Colisão lateral sentido oposto;Sem Vítimas
+978;Neblina;Colisão transversal;Com Vítimas Fatais
+979;Neblina;Colisão transversal;Com Vítimas Feridas
+980;Neblina;Colisão traseira;Com Vítimas Feridas
+981;Neblina;Colisão traseira;Sem Vítimas
+982;Neblina;Engavetamento;Com Vítimas Feridas
+983;Neblina;Incêndio;Sem Vítimas
+984;Neblina;Saída de leito carroçável;Com Vítimas Feridas
+985;Neblina;Saída de leito carroçável;Sem Vítimas
+986;Neblina;Tombamento;Com Vítimas Feridas
+987;Objeto estático sobre o leito carroçável;Atropelamento de Pedestre;Com Vítimas Feridas
+988;Objeto estático sobre o leito carroçável;Capotamento;Com Vítimas Feridas
+989;Objeto estático sobre o leito carroçável;Capotamento;Sem Vítimas
+990;Objeto estático sobre o leito carroçável;Colisão com objeto;Com Vítimas Fatais
+991;Objeto estático sobre o leito carroçável;Colisão com objeto;Com Vítimas Feridas
+992;Objeto estático sobre o leito carroçável;Colisão com objeto;Sem Vítimas
+993;Objeto estático sobre o leito carroçável;Colisão frontal;Com Vítimas Fatais
+994;Objeto estático sobre o leito carroçável;Colisão frontal;Com Vítimas Feridas
+995;Objeto estático sobre o leito carroçável;Colisão lateral mesmo sentido;Com Vítimas Feridas
+996;Objeto estático sobre o leito carroçável;Colisão lateral mesmo sentido;Sem Vítimas
+997;Objeto estático sobre o leito carroçável;Colisão lateral sentido oposto;Com Vítimas Feridas
+998;Objeto estático sobre o leito carroçável;Colisão transversal;Com Vítimas Feridas
+999;Objeto estático sobre o leito carroçável;Colisão transversal;Sem Vítimas
+1000;Objeto estático sobre o leito carroçável;Colisão traseira;Com Vítimas Fatais
+1001;Objeto estático sobre o leito carroçável;Colisão traseira;Com Vítimas Feridas
+1002;Objeto estático sobre o leito carroçável;Colisão traseira;Sem Vítimas
+1003;Objeto estático sobre o leito carroçável;Derramamento de carga;Com Vítimas Feridas
+1004;Objeto estático sobre o leito carroçável;Engavetamento;Com Vítimas Feridas
+1005;Objeto estático sobre o leito carroçável;Eventos atípicos;Com Vítimas Feridas
+1006;Objeto estático sobre o leito carroçável;Incêndio;Sem Vítimas
+1007;Objeto estático sobre o leito carroçável;Queda de ocupante de veículo;Com Vítimas Feridas
+1008;Objeto estático sobre o leito carroçável;Saída de leito carroçável;Com Vítimas Feridas
+1009;Objeto estático sobre o leito carroçável;Tombamento;Com Vítimas Fatais
+1010;Objeto estático sobre o leito carroçável;Tombamento;Com Vítimas Feridas
+1011;Objeto estático sobre o leito carroçável;Tombamento;Sem Vítimas
+1012;Participar de racha;Atropelamento de Pedestre;Com Vítimas Feridas
+1013;Participar de racha;Capotamento;Com Vítimas Feridas
+1014;Participar de racha;Colisão com objeto;Com Vítimas Fatais
+1015;Participar de racha;Colisão com objeto;Com Vítimas Feridas
+1016;Participar de racha;Colisão com objeto;Sem Vítimas
+1017;Participar de racha;Colisão frontal;Com Vítimas Fatais
+1018;Participar de racha;Colisão frontal;Com Vítimas Feridas
+1019;Participar de racha;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1020;Participar de racha;Colisão transversal;Sem Vítimas
+1021;Participar de racha;Colisão traseira;Com Vítimas Fatais
+1022;Participar de racha;Colisão traseira;Com Vítimas Feridas
+1023;Participar de racha;Queda de ocupante de veículo;Com Vítimas Fatais
+1024;Participar de racha;Queda de ocupante de veículo;Com Vítimas Feridas
+1025;Participar de racha;Saída de leito carroçável;Com Vítimas Fatais
+1026;Participar de racha;Saída de leito carroçável;Com Vítimas Feridas
+1027;Pedestre - Ingestão de álcool/ substâncias psicoativas;Atropelamento de Pedestre;Com Vítimas Fatais
+1028;Pedestre - Ingestão de álcool/ substâncias psicoativas;Atropelamento de Pedestre;Com Vítimas Feridas
+1029;Pedestre - Ingestão de álcool/ substâncias psicoativas;Capotamento;Com Vítimas Feridas
+1030;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão com objeto;Com Vítimas Feridas
+1031;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão com objeto;Sem Vítimas
+1032;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão frontal;Com Vítimas Feridas
+1033;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1034;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão lateral mesmo sentido;Sem Vítimas
+1035;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão transversal;Com Vítimas Feridas
+1036;Pedestre - Ingestão de álcool/ substâncias psicoativas;Colisão traseira;Com Vítimas Feridas
+1037;Pedestre - Ingestão de álcool/ substâncias psicoativas;Eventos atípicos;Com Vítimas Feridas
+1038;Pedestre - Ingestão de álcool/ substâncias psicoativas;Queda de ocupante de veículo;Com Vítimas Feridas
+1039;Pedestre - Ingestão de álcool/ substâncias psicoativas;Saída de leito carroçável;Com Vítimas Feridas
+1040;Pedestre - Ingestão de álcool/ substâncias psicoativas;Tombamento;Com Vítimas Feridas
+1041;Pedestre andava na pista;Atropelamento de Animal;Com Vítimas Feridas
+1042;Pedestre andava na pista;Atropelamento de Pedestre;Com Vítimas Fatais
+1043;Pedestre andava na pista;Atropelamento de Pedestre;Com Vítimas Feridas
+1044;Pedestre andava na pista;Atropelamento de Pedestre;Sem Vítimas
+1045;Pedestre andava na pista;Colisão com objeto;Com Vítimas Feridas
+1046;Pedestre andava na pista;Colisão frontal;Com Vítimas Feridas
+1047;Pedestre andava na pista;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1048;Pedestre andava na pista;Colisão lateral sentido oposto;Com Vítimas Feridas
+1049;Pedestre andava na pista;Colisão transversal;Com Vítimas Fatais
+1050;Pedestre andava na pista;Colisão traseira;Com Vítimas Fatais
+1051;Pedestre andava na pista;Colisão traseira;Com Vítimas Feridas
+1052;Pedestre andava na pista;Eventos atípicos;Com Vítimas Feridas
+1053;Pedestre andava na pista;Queda de ocupante de veículo;Com Vítimas Feridas
+1054;Pedestre andava na pista;Saída de leito carroçável;Com Vítimas Feridas
+1055;Pedestre andava na pista;Sinistro pessoal de trânsito;Sem Vítimas
+1056;Pedestre andava na pista;Tombamento;Com Vítimas Feridas
+1057;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vítimas Fatais
+1058;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vítimas Feridas
+1059;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Sem Vítimas
+1060;Pedestre cruzava a pista fora da faixa;Capotamento;Com Vítimas Feridas
+1061;Pedestre cruzava a pista fora da faixa;Colisão com objeto;Com Vítimas Fatais
+1062;Pedestre cruzava a pista fora da faixa;Colisão com objeto;Com Vítimas Feridas
+1063;Pedestre cruzava a pista fora da faixa;Colisão frontal;Com Vítimas Feridas
+1064;Pedestre cruzava a pista fora da faixa;Colisão transversal;Com Vítimas Fatais
+1065;Pedestre cruzava a pista fora da faixa;Colisão transversal;Com Vítimas Feridas
+1066;Pedestre cruzava a pista fora da faixa;Colisão traseira;Com Vítimas Feridas
+1067;Pedestre cruzava a pista fora da faixa;Engavetamento;Com Vítimas Feridas
+1068;Pedestre cruzava a pista fora da faixa;Queda de ocupante de veículo;Com Vítimas Feridas
+1069;Pedestre cruzava a pista fora da faixa;Saída de leito carroçável;Com Vítimas Feridas
+1070;Pedestre cruzava a pista fora da faixa;Tombamento;Com Vítimas Fatais
+1071;Pedestre cruzava a pista fora da faixa;Tombamento;Com Vítimas Feridas
+1072;Pista Escorregadia;Atropelamento de Pedestre;Com Vítimas Fatais
+1073;Pista Escorregadia;Atropelamento de Pedestre;Com Vítimas Feridas
+1074;Pista Escorregadia;Capotamento;Com Vítimas Feridas
+1075;Pista Escorregadia;Capotamento;Sem Vítimas
+1076;Pista Escorregadia;Colisão com objeto;Com Vítimas Feridas
+1077;Pista Escorregadia;Colisão com objeto;Sem Vítimas
+1078;Pista Escorregadia;Colisão frontal;Com Vítimas Fatais
+1079;Pista Escorregadia;Colisão frontal;Com Vítimas Feridas
+1080;Pista Escorregadia;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1081;Pista Escorregadia;Colisão lateral mesmo sentido;Sem Vítimas
+1082;Pista Escorregadia;Colisão lateral sentido oposto;Com Vítimas Fatais
+1083;Pista Escorregadia;Colisão lateral sentido oposto;Com Vítimas Feridas
+1084;Pista Escorregadia;Colisão lateral sentido oposto;Sem Vítimas
+1085;Pista Escorregadia;Colisão transversal;Com Vítimas Fatais
+1086;Pista Escorregadia;Colisão transversal;Com Vítimas Feridas
+1087;Pista Escorregadia;Colisão traseira;Com Vítimas Feridas
+1088;Pista Escorregadia;Colisão traseira;Sem Vítimas
+1089;Pista Escorregadia;Derramamento de carga;Com Vítimas Feridas
+1090;Pista Escorregadia;Engavetamento;Com Vítimas Feridas
+1091;Pista Escorregadia;Engavetamento;Sem Vítimas
+1092;Pista Escorregadia;Eventos atípicos;Com Vítimas Feridas
+1093;Pista Escorregadia;Queda de ocupante de veículo;Com Vítimas Fatais
+1094;Pista Escorregadia;Queda de ocupante de veículo;Com Vítimas Feridas
+1095;Pista Escorregadia;Queda de ocupante de veículo;Sem Vítimas
+1096;Pista Escorregadia;Saída de leito carroçável;Com Vítimas Fatais
+1097;Pista Escorregadia;Saída de leito carroçável;Com Vítimas Feridas
+1098;Pista Escorregadia;Saída de leito carroçável;Sem Vítimas
+1099;Pista Escorregadia;Tombamento;Com Vítimas Fatais
+1100;Pista Escorregadia;Tombamento;Com Vítimas Feridas
+1101;Pista Escorregadia;Tombamento;Sem Vítimas
+1102;Pista esburacada;Capotamento;Com Vítimas Fatais
+1103;Pista esburacada;Capotamento;Com Vítimas Feridas
+1104;Pista esburacada;Capotamento;Sem Vítimas
+1105;Pista esburacada;Colisão com objeto;Com Vítimas Fatais
+1106;Pista esburacada;Colisão com objeto;Com Vítimas Feridas
+1107;Pista esburacada;Colisão frontal;Com Vítimas Fatais
+1108;Pista esburacada;Colisão frontal;Com Vítimas Feridas
+1109;Pista esburacada;Colisão frontal;Não Informado
+1110;Pista esburacada;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1111;Pista esburacada;Colisão lateral mesmo sentido;Sem Vítimas
+1112;Pista esburacada;Colisão lateral sentido oposto;Com Vítimas Fatais
+1113;Pista esburacada;Colisão lateral sentido oposto;Com Vítimas Feridas
+1114;Pista esburacada;Colisão lateral sentido oposto;Sem Vítimas
+1115;Pista esburacada;Colisão transversal;Com Vítimas Feridas
+1116;Pista esburacada;Colisão traseira;Com Vítimas Feridas
+1117;Pista esburacada;Colisão traseira;Sem Vítimas
+1118;Pista esburacada;Engavetamento;Com Vítimas Feridas
+1119;Pista esburacada;Eventos atípicos;Com Vítimas Feridas
+1120;Pista esburacada;Queda de ocupante de veículo;Com Vítimas Fatais
+1121;Pista esburacada;Queda de ocupante de veículo;Com Vítimas Feridas
+1122;Pista esburacada;Saída de leito carroçável;Com Vítimas Fatais
+1123;Pista esburacada;Saída de leito carroçável;Com Vítimas Feridas
+1124;Pista esburacada;Saída de leito carroçável;Sem Vítimas
+1125;Pista esburacada;Tombamento;Com Vítimas Fatais
+1126;Pista esburacada;Tombamento;Com Vítimas Feridas
+1127;Pista esburacada;Tombamento;Sem Vítimas
+1128;Problema com o freio;Atropelamento de Pedestre;Com Vítimas Fatais
+1129;Problema com o freio;Atropelamento de Pedestre;Com Vítimas Feridas
+1130;Problema com o freio;Capotamento;Com Vítimas Fatais
+1131;Problema com o freio;Colisão com objeto;Com Vítimas Fatais
+1132;Problema com o freio;Colisão com objeto;Com Vítimas Feridas
+1133;Problema com o freio;Colisão com objeto;Sem Vítimas
+1134;Problema com o freio;Colisão frontal;Com Vítimas Fatais
+1135;Problema com o freio;Colisão frontal;Com Vítimas Feridas
+1136;Problema com o freio;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1137;Problema com o freio;Colisão lateral mesmo sentido;Sem Vítimas
+1138;Problema com o freio;Colisão lateral sentido oposto;Com Vítimas Feridas
+1139;Problema com o freio;Colisão transversal;Com Vítimas Feridas
+1140;Problema com o freio;Colisão traseira;Com Vítimas Fatais
+1141;Problema com o freio;Colisão traseira;Com Vítimas Feridas
+1142;Problema com o freio;Colisão traseira;Sem Vítimas
+1143;Problema com o freio;Engavetamento;Com Vítimas Fatais
+1144;Problema com o freio;Engavetamento;Com Vítimas Feridas
+1145;Problema com o freio;Engavetamento;Sem Vítimas
+1146;Problema com o freio;Eventos atípicos;Com Vítimas Feridas
+1147;Problema com o freio;Eventos atípicos;Sem Vítimas
+1148;Problema com o freio;Incêndio;Com Vítimas Feridas
+1149;Problema com o freio;Incêndio;Sem Vítimas
+1150;Problema com o freio;Queda de ocupante de veículo;Com Vítimas Feridas
+1151;Problema com o freio;Saída de leito carroçável;Com Vítimas Fatais
+1152;Problema com o freio;Saída de leito carroçável;Com Vítimas Feridas
+1153;Problema com o freio;Saída de leito carroçável;Sem Vítimas
+1154;Problema com o freio;Tombamento;Com Vítimas Fatais
+1155;Problema com o freio;Tombamento;Com Vítimas Feridas
+1156;Problema com o freio;Tombamento;Sem Vítimas
+1157;Problema na suspensão;Capotamento;Com Vítimas Feridas
+1158;Problema na suspensão;Capotamento;Sem Vítimas
+1159;Problema na suspensão;Colisão com objeto;Com Vítimas Feridas
+1160;Problema na suspensão;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1161;Problema na suspensão;Colisão lateral sentido oposto;Com Vítimas Feridas
+1162;Problema na suspensão;Eventos atípicos;Com Vítimas Fatais
+1163;Problema na suspensão;Eventos atípicos;Com Vítimas Feridas
+1164;Problema na suspensão;Queda de ocupante de veículo;Com Vítimas Feridas
+1165;Problema na suspensão;Saída de leito carroçável;Com Vítimas Feridas
+1166;Problema na suspensão;Saída de leito carroçável;Sem Vítimas
+1167;Problema na suspensão;Tombamento;Com Vítimas Feridas
+1168;Reação tardia ou ineficiente do condutor;Atropelamento de Animal;Com Vítimas Fatais
+1169;Reação tardia ou ineficiente do condutor;Atropelamento de Animal;Com Vítimas Feridas
+1170;Reação tardia ou ineficiente do condutor;Atropelamento de Animal;Sem Vítimas
+1171;Reação tardia ou ineficiente do condutor;Atropelamento de Pedestre;Com Vítimas Fatais
+1172;Reação tardia ou ineficiente do condutor;Atropelamento de Pedestre;Com Vítimas Feridas
+1173;Reação tardia ou ineficiente do condutor;Atropelamento de Pedestre;Sem Vítimas
+1174;Reação tardia ou ineficiente do condutor;Capotamento;Com Vítimas Fatais
+1175;Reação tardia ou ineficiente do condutor;Capotamento;Com Vítimas Feridas
+1176;Reação tardia ou ineficiente do condutor;Capotamento;Sem Vítimas
+1177;Reação tardia ou ineficiente do condutor;Colisão com objeto;Com Vítimas Fatais
+1178;Reação tardia ou ineficiente do condutor;Colisão com objeto;Com Vítimas Feridas
+1179;Reação tardia ou ineficiente do condutor;Colisão com objeto;Sem Vítimas
+1180;Reação tardia ou ineficiente do condutor;Colisão frontal;Com Vítimas Fatais
+1181;Reação tardia ou ineficiente do condutor;Colisão frontal;Com Vítimas Feridas
+1182;Reação tardia ou ineficiente do condutor;Colisão frontal;Sem Vítimas
+1183;Reação tardia ou ineficiente do condutor;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1184;Reação tardia ou ineficiente do condutor;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1185;Reação tardia ou ineficiente do condutor;Colisão lateral mesmo sentido;Sem Vítimas
+1186;Reação tardia ou ineficiente do condutor;Colisão lateral sentido oposto;Com Vítimas Fatais
+1187;Reação tardia ou ineficiente do condutor;Colisão lateral sentido oposto;Com Vítimas Feridas
+1188;Reação tardia ou ineficiente do condutor;Colisão lateral sentido oposto;Sem Vítimas
+1189;Reação tardia ou ineficiente do condutor;Colisão transversal;Com Vítimas Fatais
+1190;Reação tardia ou ineficiente do condutor;Colisão transversal;Com Vítimas Feridas
+1191;Reação tardia ou ineficiente do condutor;Colisão transversal;Sem Vítimas
+1192;Reação tardia ou ineficiente do condutor;Colisão traseira;Com Vítimas Fatais
+1193;Reação tardia ou ineficiente do condutor;Colisão traseira;Com Vítimas Feridas
+1194;Reação tardia ou ineficiente do condutor;Colisão traseira;Sem Vítimas
+1195;Reação tardia ou ineficiente do condutor;Derramamento de carga;Com Vítimas Feridas
+1196;Reação tardia ou ineficiente do condutor;Derramamento de carga;Sem Vítimas
+1197;Reação tardia ou ineficiente do condutor;Engavetamento;Com Vítimas Fatais
+1198;Reação tardia ou ineficiente do condutor;Engavetamento;Com Vítimas Feridas
+1199;Reação tardia ou ineficiente do condutor;Engavetamento;Sem Vítimas
+1200;Reação tardia ou ineficiente do condutor;Eventos atípicos;Com Vítimas Fatais
+1201;Reação tardia ou ineficiente do condutor;Eventos atípicos;Com Vítimas Feridas
+1202;Reação tardia ou ineficiente do condutor;Eventos atípicos;Sem Vítimas
+1203;Reação tardia ou ineficiente do condutor;Incêndio;Com Vítimas Feridas
+1204;Reação tardia ou ineficiente do condutor;Incêndio;Sem Vítimas
+1205;Reação tardia ou ineficiente do condutor;Queda de ocupante de veículo;Com Vítimas Fatais
+1206;Reação tardia ou ineficiente do condutor;Queda de ocupante de veículo;Com Vítimas Feridas
+1207;Reação tardia ou ineficiente do condutor;Queda de ocupante de veículo;Sem Vítimas
+1208;Reação tardia ou ineficiente do condutor;Saída de leito carroçável;Com Vítimas Fatais
+1209;Reação tardia ou ineficiente do condutor;Saída de leito carroçável;Com Vítimas Feridas
+1210;Reação tardia ou ineficiente do condutor;Saída de leito carroçável;Sem Vítimas
+1211;Reação tardia ou ineficiente do condutor;Tombamento;Com Vítimas Fatais
+1212;Reação tardia ou ineficiente do condutor;Tombamento;Com Vítimas Feridas
+1213;Reação tardia ou ineficiente do condutor;Tombamento;Sem Vítimas
+1214;Redutor de velocidade em desacordo;Colisão com objeto;Com Vítimas Feridas
+1215;Redutor de velocidade em desacordo;Colisão frontal;Com Vítimas Feridas
+1216;Redutor de velocidade em desacordo;Colisão traseira;Com Vítimas Feridas
+1217;Redutor de velocidade em desacordo;Saída de leito carroçável;Com Vítimas Feridas
+1218;Redutor de velocidade em desacordo;Tombamento;Com Vítimas Feridas
+1219;Restrição de visibilidade em curvas horizontais;Colisão com objeto;Com Vítimas Feridas
+1220;Restrição de visibilidade em curvas horizontais;Colisão com objeto;Sem Vítimas
+1221;Restrição de visibilidade em curvas horizontais;Colisão frontal;Com Vítimas Feridas
+1222;Restrição de visibilidade em curvas horizontais;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1223;Restrição de visibilidade em curvas horizontais;Colisão lateral mesmo sentido;Sem Vítimas
+1224;Restrição de visibilidade em curvas horizontais;Colisão lateral sentido oposto;Com Vítimas Feridas
+1225;Restrição de visibilidade em curvas horizontais;Colisão transversal;Com Vítimas Feridas
+1226;Restrição de visibilidade em curvas horizontais;Colisão traseira;Com Vítimas Feridas
+1227;Restrição de visibilidade em curvas horizontais;Engavetamento;Com Vítimas Feridas
+1228;Restrição de visibilidade em curvas horizontais;Saída de leito carroçável;Com Vítimas Feridas
+1229;Restrição de visibilidade em curvas horizontais;Saída de leito carroçável;Sem Vítimas
+1230;Restrição de visibilidade em curvas verticais;Atropelamento de Pedestre;Com Vítimas Feridas
+1231;Restrição de visibilidade em curvas verticais;Colisão frontal;Com Vítimas Feridas
+1232;Restrição de visibilidade em curvas verticais;Colisão lateral mesmo sentido;Sem Vítimas
+1233;Restrição de visibilidade em curvas verticais;Colisão transversal;Com Vítimas Fatais
+1234;Restrição de visibilidade em curvas verticais;Colisão transversal;Com Vítimas Feridas
+1235;Restrição de visibilidade em curvas verticais;Engavetamento;Com Vítimas Fatais
+1236;Restrição de visibilidade em curvas verticais;Saída de leito carroçável;Com Vítimas Feridas
+1237;Restrição de visibilidade em curvas verticais;Saída de leito carroçável;Sem Vítimas
+1238;Retorno proibido;Colisão com objeto;Com Vítimas Feridas
+1239;Retorno proibido;Colisão frontal;Com Vítimas Fatais
+1240;Retorno proibido;Colisão frontal;Com Vítimas Feridas
+1241;Retorno proibido;Colisão frontal;Sem Vítimas
+1242;Retorno proibido;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1243;Retorno proibido;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1244;Retorno proibido;Colisão lateral mesmo sentido;Sem Vítimas
+1245;Retorno proibido;Colisão lateral sentido oposto;Com Vítimas Feridas
+1246;Retorno proibido;Colisão transversal;Com Vítimas Fatais
+1247;Retorno proibido;Colisão transversal;Com Vítimas Feridas
+1248;Retorno proibido;Colisão transversal;Sem Vítimas
+1249;Retorno proibido;Colisão traseira;Com Vítimas Feridas
+1250;Retorno proibido;Colisão traseira;Sem Vítimas
+1251;Retorno proibido;Eventos atípicos;Com Vítimas Feridas
+1252;Retorno proibido;Queda de ocupante de veículo;Com Vítimas Feridas
+1253;Retorno proibido;Saída de leito carroçável;Com Vítimas Feridas
+1254;Retorno proibido;Saída de leito carroçável;Sem Vítimas
+1255;Retorno proibido;Tombamento;Com Vítimas Feridas
+1256;Retorno proibido;Tombamento;Sem Vítimas
+1257;Semáforo com defeito;Atropelamento de Pedestre;Com Vítimas Fatais
+1258;Semáforo com defeito;Colisão lateral sentido oposto;Com Vítimas Feridas
+1259;Semáforo com defeito;Colisão lateral sentido oposto;Sem Vítimas
+1260;Semáforo com defeito;Colisão transversal;Com Vítimas Feridas
+1261;Semáforo com defeito;Colisão traseira;Com Vítimas Feridas
+1262;Semáforo com defeito;Incêndio;Sem Vítimas
+1263;Sinalização encoberta;Colisão com objeto;Com Vítimas Feridas
+1264;Sinalização encoberta;Colisão com objeto;Sem Vítimas
+1265;Sinalização mal posicionada;Atropelamento de Pedestre;Com Vítimas Feridas
+1266;Sinalização mal posicionada;Colisão com objeto;Com Vítimas Fatais
+1267;Sinalização mal posicionada;Colisão com objeto;Com Vítimas Feridas
+1268;Sinalização mal posicionada;Colisão com objeto;Sem Vítimas
+1269;Sinalização mal posicionada;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1270;Sinalização mal posicionada;Colisão transversal;Com Vítimas Feridas
+1271;Sinalização mal posicionada;Colisão traseira;Com Vítimas Fatais
+1272;Sinalização mal posicionada;Colisão traseira;Com Vítimas Feridas
+1273;Sinalização mal posicionada;Colisão traseira;Sem Vítimas
+1274;Sinalização mal posicionada;Engavetamento;Com Vítimas Feridas
+1275;Sinalização mal posicionada;Engavetamento;Sem Vítimas
+1276;Sinalização mal posicionada;Eventos atípicos;Com Vítimas Fatais
+1277;Sinalização mal posicionada;Queda de ocupante de veículo;Com Vítimas Feridas
+1278;Sinalização mal posicionada;Saída de leito carroçável;Com Vítimas Fatais
+1279;Sinalização mal posicionada;Saída de leito carroçável;Com Vítimas Feridas
+1280;Sinalização mal posicionada;Tombamento;Com Vítimas Feridas
+1281;Sistema de drenagem ineficiente;Colisão com objeto;Com Vítimas Feridas
+1282;Sistema de drenagem ineficiente;Colisão transversal;Com Vítimas Feridas
+1283;Suicídio (presumido);Atropelamento de Pedestre;Com Vítimas Fatais
+1284;Suicídio (presumido);Atropelamento de Pedestre;Com Vítimas Feridas
+1285;Suicídio (presumido);Capotamento;Com Vítimas Fatais
+1286;Suicídio (presumido);Colisão com objeto;Com Vítimas Fatais
+1287;Suicídio (presumido);Colisão com objeto;Com Vítimas Feridas
+1288;Suicídio (presumido);Colisão com objeto;Sem Vítimas
+1289;Suicídio (presumido);Colisão frontal;Com Vítimas Fatais
+1290;Suicídio (presumido);Colisão frontal;Com Vítimas Feridas
+1291;Suicídio (presumido);Colisão frontal;Sem Vítimas
+1292;Suicídio (presumido);Colisão lateral sentido oposto;Com Vítimas Fatais
+1293;Suicídio (presumido);Colisão lateral sentido oposto;Com Vítimas Feridas
+1294;Suicídio (presumido);Colisão lateral sentido oposto;Sem Vítimas
+1295;Suicídio (presumido);Colisão traseira;Com Vítimas Fatais
+1296;Suicídio (presumido);Colisão traseira;Com Vítimas Feridas
+1297;Suicídio (presumido);Colisão traseira;Sem Vítimas
+1298;Suicídio (presumido);Eventos atípicos;Com Vítimas Fatais
+1299;Suicídio (presumido);Eventos atípicos;Com Vítimas Feridas
+1300;Suicídio (presumido);Queda de ocupante de veículo;Com Vítimas Feridas
+1301;Suicídio (presumido);Saída de leito carroçável;Com Vítimas Fatais
+1302;Suicídio (presumido);Saída de leito carroçável;Com Vítimas Feridas
+1303;Suicídio (presumido);Saída de leito carroçável;Sem Vítimas
+1304;Suicídio (presumido);Sinistro pessoal de trânsito;Com Vítimas Feridas
+1305;Trafegar com motocicleta (ou similar) entre as faixas;Atropelamento de Pedestre;Com Vítimas Feridas
+1306;Trafegar com motocicleta (ou similar) entre as faixas;Colisão com objeto;Com Vítimas Feridas
+1307;Trafegar com motocicleta (ou similar) entre as faixas;Colisão frontal;Com Vítimas Fatais
+1308;Trafegar com motocicleta (ou similar) entre as faixas;Colisão frontal;Com Vítimas Feridas
+1309;Trafegar com motocicleta (ou similar) entre as faixas;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1310;Trafegar com motocicleta (ou similar) entre as faixas;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1311;Trafegar com motocicleta (ou similar) entre as faixas;Colisão lateral mesmo sentido;Sem Vítimas
+1312;Trafegar com motocicleta (ou similar) entre as faixas;Colisão lateral sentido oposto;Com Vítimas Feridas
+1313;Trafegar com motocicleta (ou similar) entre as faixas;Colisão transversal;Com Vítimas Fatais
+1314;Trafegar com motocicleta (ou similar) entre as faixas;Colisão transversal;Com Vítimas Feridas
+1315;Trafegar com motocicleta (ou similar) entre as faixas;Colisão transversal;Sem Vítimas
+1316;Trafegar com motocicleta (ou similar) entre as faixas;Colisão traseira;Com Vítimas Fatais
+1317;Trafegar com motocicleta (ou similar) entre as faixas;Colisão traseira;Com Vítimas Feridas
+1318;Trafegar com motocicleta (ou similar) entre as faixas;Colisão traseira;Sem Vítimas
+1319;Trafegar com motocicleta (ou similar) entre as faixas;Engavetamento;Com Vítimas Feridas
+1320;Trafegar com motocicleta (ou similar) entre as faixas;Eventos atípicos;Com Vítimas Feridas
+1321;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veículo;Com Vítimas Fatais
+1322;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veículo;Com Vítimas Feridas
+1323;Trafegar com motocicleta (ou similar) entre as faixas;Saída de leito carroçável;Com Vítimas Feridas
+1324;Trafegar com motocicleta (ou similar) entre as faixas;Tombamento;Com Vítimas Fatais
+1325;Trafegar com motocicleta (ou similar) entre as faixas;Tombamento;Com Vítimas Feridas
+1326;Trafegar com motocicleta (ou similar) entre as faixas;Tombamento;Sem Vítimas
+1327;Transitar na calçada;Atropelamento de Pedestre;Com Vítimas Feridas
+1328;Transitar na calçada;Colisão com objeto;Com Vítimas Feridas
+1329;Transitar na calçada;Colisão com objeto;Sem Vítimas
+1330;Transitar na calçada;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1331;Transitar na calçada;Colisão lateral sentido oposto;Com Vítimas Feridas
+1332;Transitar na calçada;Colisão transversal;Com Vítimas Feridas
+1333;Transitar na calçada;Colisão transversal;Sem Vítimas
+1334;Transitar na calçada;Queda de ocupante de veículo;Com Vítimas Feridas
+1335;Transitar na contramão;Atropelamento de Pedestre;Com Vítimas Fatais
+1336;Transitar na contramão;Atropelamento de Pedestre;Com Vítimas Feridas
+1337;Transitar na contramão;Capotamento;Com Vítimas Fatais
+1338;Transitar na contramão;Capotamento;Com Vítimas Feridas
+1339;Transitar na contramão;Colisão com objeto;Com Vítimas Fatais
+1340;Transitar na contramão;Colisão com objeto;Com Vítimas Feridas
+1341;Transitar na contramão;Colisão com objeto;Sem Vítimas
+1342;Transitar na contramão;Colisão frontal;Com Vítimas Fatais
+1343;Transitar na contramão;Colisão frontal;Com Vítimas Feridas
+1344;Transitar na contramão;Colisão frontal;Sem Vítimas
+1345;Transitar na contramão;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1346;Transitar na contramão;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1347;Transitar na contramão;Colisão lateral mesmo sentido;Sem Vítimas
+1348;Transitar na contramão;Colisão lateral sentido oposto;Com Vítimas Fatais
+1349;Transitar na contramão;Colisão lateral sentido oposto;Com Vítimas Feridas
+1350;Transitar na contramão;Colisão lateral sentido oposto;Sem Vítimas
+1351;Transitar na contramão;Colisão transversal;Com Vítimas Fatais
+1352;Transitar na contramão;Colisão transversal;Com Vítimas Feridas
+1353;Transitar na contramão;Colisão transversal;Sem Vítimas
+1354;Transitar na contramão;Colisão traseira;Com Vítimas Fatais
+1355;Transitar na contramão;Colisão traseira;Com Vítimas Feridas
+1356;Transitar na contramão;Colisão traseira;Sem Vítimas
+1357;Transitar na contramão;Eventos atípicos;Com Vítimas Feridas
+1358;Transitar na contramão;Eventos atípicos;Sem Vítimas
+1359;Transitar na contramão;Queda de ocupante de veículo;Com Vítimas Fatais
+1360;Transitar na contramão;Queda de ocupante de veículo;Com Vítimas Feridas
+1361;Transitar na contramão;Saída de leito carroçável;Com Vítimas Fatais
+1362;Transitar na contramão;Saída de leito carroçável;Com Vítimas Feridas
+1363;Transitar na contramão;Saída de leito carroçável;Sem Vítimas
+1364;Transitar na contramão;Tombamento;Com Vítimas Fatais
+1365;Transitar na contramão;Tombamento;Com Vítimas Feridas
+1366;Transitar na contramão;Tombamento;Sem Vítimas
+1367;Transitar no Acostamento;Atropelamento de Pedestre;Com Vítimas Fatais
+1368;Transitar no Acostamento;Atropelamento de Pedestre;Com Vítimas Feridas
+1369;Transitar no Acostamento;Atropelamento de Pedestre;Sem Vítimas
+1370;Transitar no Acostamento;Colisão com objeto;Com Vítimas Fatais
+1371;Transitar no Acostamento;Colisão com objeto;Com Vítimas Feridas
+1372;Transitar no Acostamento;Colisão com objeto;Sem Vítimas
+1373;Transitar no Acostamento;Colisão frontal;Com Vítimas Fatais
+1374;Transitar no Acostamento;Colisão frontal;Com Vítimas Feridas
+1375;Transitar no Acostamento;Colisão frontal;Sem Vítimas
+1376;Transitar no Acostamento;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1377;Transitar no Acostamento;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1378;Transitar no Acostamento;Colisão lateral mesmo sentido;Sem Vítimas
+1379;Transitar no Acostamento;Colisão lateral sentido oposto;Com Vítimas Feridas
+1380;Transitar no Acostamento;Colisão lateral sentido oposto;Sem Vítimas
+1381;Transitar no Acostamento;Colisão transversal;Com Vítimas Fatais
+1382;Transitar no Acostamento;Colisão transversal;Com Vítimas Feridas
+1383;Transitar no Acostamento;Colisão transversal;Sem Vítimas
+1384;Transitar no Acostamento;Colisão traseira;Com Vítimas Fatais
+1385;Transitar no Acostamento;Colisão traseira;Com Vítimas Feridas
+1386;Transitar no Acostamento;Colisão traseira;Sem Vítimas
+1387;Transitar no Acostamento;Engavetamento;Com Vítimas Feridas
+1388;Transitar no Acostamento;Eventos atípicos;Com Vítimas Feridas
+1389;Transitar no Acostamento;Queda de ocupante de veículo;Com Vítimas Fatais
+1390;Transitar no Acostamento;Queda de ocupante de veículo;Com Vítimas Feridas
+1391;Transitar no Acostamento;Saída de leito carroçável;Com Vítimas Fatais
+1392;Transitar no Acostamento;Saída de leito carroçável;Com Vítimas Feridas
+1393;Transitar no Acostamento;Saída de leito carroçável;Sem Vítimas
+1394;Transitar no Acostamento;Tombamento;Com Vítimas Fatais
+1395;Transitar no Acostamento;Tombamento;Com Vítimas Feridas
+1396;Transtornos Mentais (exceto suicidio);Atropelamento de Pedestre;Com Vítimas Fatais
+1397;Transtornos Mentais (exceto suicidio);Atropelamento de Pedestre;Com Vítimas Feridas
+1398;Transtornos Mentais (exceto suicidio);Colisão com objeto;Com Vítimas Feridas
+1399;Transtornos Mentais (exceto suicidio);Colisão frontal;Com Vítimas Feridas
+1400;Transtornos Mentais (exceto suicidio);Colisão lateral mesmo sentido;Com Vítimas Feridas
+1401;Transtornos Mentais (exceto suicidio);Colisão lateral mesmo sentido;Sem Vítimas
+1402;Transtornos Mentais (exceto suicidio);Colisão transversal;Com Vítimas Feridas
+1403;Transtornos Mentais (exceto suicidio);Colisão transversal;Sem Vítimas
+1404;Transtornos Mentais (exceto suicidio);Colisão traseira;Com Vítimas Fatais
+1405;Transtornos Mentais (exceto suicidio);Colisão traseira;Com Vítimas Feridas
+1406;Transtornos Mentais (exceto suicidio);Colisão traseira;Sem Vítimas
+1407;Transtornos Mentais (exceto suicidio);Engavetamento;Com Vítimas Feridas
+1408;Transtornos Mentais (exceto suicidio);Eventos atípicos;Com Vítimas Feridas
+1409;Transtornos Mentais (exceto suicidio);Eventos atípicos;Sem Vítimas
+1410;Transtornos Mentais (exceto suicidio);Incêndio;Sem Vítimas
+1411;Transtornos Mentais (exceto suicidio);Queda de ocupante de veículo;Com Vítimas Fatais
+1412;Transtornos Mentais (exceto suicidio);Queda de ocupante de veículo;Com Vítimas Feridas
+1413;Transtornos Mentais (exceto suicidio);Queda de ocupante de veículo;Sem Vítimas
+1414;Transtornos Mentais (exceto suicidio);Saída de leito carroçável;Com Vítimas Feridas
+1415;Ultrapassagem Indevida;Atropelamento de Animal;Com Vítimas Feridas
+1416;Ultrapassagem Indevida;Atropelamento de Pedestre;Com Vítimas Fatais
+1417;Ultrapassagem Indevida;Atropelamento de Pedestre;Com Vítimas Feridas
+1418;Ultrapassagem Indevida;Atropelamento de Pedestre;Sem Vítimas
+1419;Ultrapassagem Indevida;Capotamento;Com Vítimas Fatais
+1420;Ultrapassagem Indevida;Capotamento;Com Vítimas Feridas
+1421;Ultrapassagem Indevida;Capotamento;Sem Vítimas
+1422;Ultrapassagem Indevida;Colisão com objeto;Com Vítimas Fatais
+1423;Ultrapassagem Indevida;Colisão com objeto;Com Vítimas Feridas
+1424;Ultrapassagem Indevida;Colisão com objeto;Sem Vítimas
+1425;Ultrapassagem Indevida;Colisão frontal;Com Vítimas Fatais
+1426;Ultrapassagem Indevida;Colisão frontal;Com Vítimas Feridas
+1427;Ultrapassagem Indevida;Colisão frontal;Sem Vítimas
+1428;Ultrapassagem Indevida;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1429;Ultrapassagem Indevida;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1430;Ultrapassagem Indevida;Colisão lateral mesmo sentido;Sem Vítimas
+1431;Ultrapassagem Indevida;Colisão lateral sentido oposto;Com Vítimas Fatais
+1432;Ultrapassagem Indevida;Colisão lateral sentido oposto;Com Vítimas Feridas
+1433;Ultrapassagem Indevida;Colisão lateral sentido oposto;Sem Vítimas
+1434;Ultrapassagem Indevida;Colisão transversal;Com Vítimas Fatais
+1435;Ultrapassagem Indevida;Colisão transversal;Com Vítimas Feridas
+1436;Ultrapassagem Indevida;Colisão transversal;Sem Vítimas
+1437;Ultrapassagem Indevida;Colisão traseira;Com Vítimas Fatais
+1438;Ultrapassagem Indevida;Colisão traseira;Com Vítimas Feridas
+1439;Ultrapassagem Indevida;Colisão traseira;Sem Vítimas
+1440;Ultrapassagem Indevida;Derramamento de carga;Com Vítimas Fatais
+1441;Ultrapassagem Indevida;Engavetamento;Com Vítimas Feridas
+1442;Ultrapassagem Indevida;Eventos atípicos;Com Vítimas Feridas
+1443;Ultrapassagem Indevida;Queda de ocupante de veículo;Com Vítimas Fatais
+1444;Ultrapassagem Indevida;Queda de ocupante de veículo;Com Vítimas Feridas
+1445;Ultrapassagem Indevida;Saída de leito carroçável;Com Vítimas Fatais
+1446;Ultrapassagem Indevida;Saída de leito carroçável;Com Vítimas Feridas
+1447;Ultrapassagem Indevida;Saída de leito carroçável;Sem Vítimas
+1448;Ultrapassagem Indevida;Tombamento;Com Vítimas Fatais
+1449;Ultrapassagem Indevida;Tombamento;Com Vítimas Feridas
+1450;Ultrapassagem Indevida;Tombamento;Sem Vítimas
+1451;Velocidade Incompatível;Atropelamento de Animal;Com Vítimas Feridas
+1452;Velocidade Incompatível;Atropelamento de Pedestre;Com Vítimas Fatais
+1453;Velocidade Incompatível;Atropelamento de Pedestre;Com Vítimas Feridas
+1454;Velocidade Incompatível;Capotamento;Com Vítimas Fatais
+1455;Velocidade Incompatível;Capotamento;Com Vítimas Feridas
+1456;Velocidade Incompatível;Capotamento;Sem Vítimas
+1457;Velocidade Incompatível;Colisão com objeto;Com Vítimas Fatais
+1458;Velocidade Incompatível;Colisão com objeto;Com Vítimas Feridas
+1459;Velocidade Incompatível;Colisão com objeto;Sem Vítimas
+1460;Velocidade Incompatível;Colisão frontal;Com Vítimas Fatais
+1461;Velocidade Incompatível;Colisão frontal;Com Vítimas Feridas
+1462;Velocidade Incompatível;Colisão frontal;Sem Vítimas
+1463;Velocidade Incompatível;Colisão lateral mesmo sentido;Com Vítimas Fatais
+1464;Velocidade Incompatível;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1465;Velocidade Incompatível;Colisão lateral mesmo sentido;Sem Vítimas
+1466;Velocidade Incompatível;Colisão lateral sentido oposto;Com Vítimas Fatais
+1467;Velocidade Incompatível;Colisão lateral sentido oposto;Com Vítimas Feridas
+1468;Velocidade Incompatível;Colisão lateral sentido oposto;Sem Vítimas
+1469;Velocidade Incompatível;Colisão transversal;Com Vítimas Fatais
+1470;Velocidade Incompatível;Colisão transversal;Com Vítimas Feridas
+1471;Velocidade Incompatível;Colisão transversal;Sem Vítimas
+1472;Velocidade Incompatível;Colisão traseira;Com Vítimas Fatais
+1473;Velocidade Incompatível;Colisão traseira;Com Vítimas Feridas
+1474;Velocidade Incompatível;Colisão traseira;Sem Vítimas
+1475;Velocidade Incompatível;Derramamento de carga;Com Vítimas Fatais
+1476;Velocidade Incompatível;Derramamento de carga;Com Vítimas Feridas
+1477;Velocidade Incompatível;Derramamento de carga;Sem Vítimas
+1478;Velocidade Incompatível;Engavetamento;Com Vítimas Fatais
+1479;Velocidade Incompatível;Engavetamento;Com Vítimas Feridas
+1480;Velocidade Incompatível;Engavetamento;Sem Vítimas
+1481;Velocidade Incompatível;Eventos atípicos;Com Vítimas Feridas
+1482;Velocidade Incompatível;Incêndio;Sem Vítimas
+1483;Velocidade Incompatível;Queda de ocupante de veículo;Com Vítimas Fatais
+1484;Velocidade Incompatível;Queda de ocupante de veículo;Com Vítimas Feridas
+1485;Velocidade Incompatível;Queda de ocupante de veículo;Sem Vítimas
+1486;Velocidade Incompatível;Saída de leito carroçável;Com Vítimas Fatais
+1487;Velocidade Incompatível;Saída de leito carroçável;Com Vítimas Feridas
+1488;Velocidade Incompatível;Saída de leito carroçável;Sem Vítimas
+1489;Velocidade Incompatível;Tombamento;Com Vítimas Fatais
+1490;Velocidade Incompatível;Tombamento;Com Vítimas Feridas
+1491;Velocidade Incompatível;Tombamento;Sem Vítimas
+1492;Área urbana sem a presença de local apropriado para a travessia de pedestres;Atropelamento de Pedestre;Com Vítimas Fatais
+1493;Área urbana sem a presença de local apropriado para a travessia de pedestres;Atropelamento de Pedestre;Com Vítimas Feridas
+1494;Área urbana sem a presença de local apropriado para a travessia de pedestres;Colisão com objeto;Com Vítimas Feridas
+1495;Área urbana sem a presença de local apropriado para a travessia de pedestres;Colisão com objeto;Sem Vítimas
+1496;Área urbana sem a presença de local apropriado para a travessia de pedestres;Colisão lateral mesmo sentido;Com Vítimas Feridas
+1497;Área urbana sem a presença de local apropriado para a travessia de pedestres;Colisão lateral sentido oposto;Com Vítimas Feridas
+1498;Área urbana sem a presença de local apropriado para a travessia de pedestres;Colisão transversal;Com Vítimas Feridas

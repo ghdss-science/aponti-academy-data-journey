@@ -1,0 +1,606 @@
+﻿sk_tracado_via;tracado_via;tem_reta;tem_curva;tem_aclive;tem_declive;tem_intersecao_de_vias;tem_ponte;tem_viaduto;tem_tunel;tem_rotatoria;tem_retorno_regulamentado;tem_em_obras;tem_desvio_temporário
+1;Aclive;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não
+2;"Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não
+3;"Aclive;Curva;Em Obras";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+4;"Aclive;Curva;Interseção de Vias";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+5;"Aclive;Curva;Interseção de Vias;Em Obras";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+6;"Aclive;Curva;Interseção de Vias;Rotatória";Não;Sim;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+7;"Aclive;Curva;Ponte";Não;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+8;"Aclive;Curva;Retorno Regulamentado";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+9;"Aclive;Curva;Rotatória";Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+10;"Aclive;Curva;Túnel";Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+11;"Aclive;Curva;Viaduto";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+12;"Aclive;Desvio Temporário;Em Obras;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+13;"Aclive;Desvio Temporário;Ponte;Curva";Não;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim
+14;"Aclive;Em Obras";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+15;"Aclive;Em Obras;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+16;"Aclive;Em Obras;Desvio Temporário";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+17;"Aclive;Em Obras;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+18;"Aclive;Interseção de Vias";Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+19;"Aclive;Interseção de Vias;Curva";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+20;"Aclive;Interseção de Vias;Em Obras;Curva";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+21;"Aclive;Interseção de Vias;Reta";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+22;"Aclive;Interseção de Vias;Reta;Retorno Regulamentado";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+23;"Aclive;Interseção de Vias;Retorno Regulamentado;Reta";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+24;"Aclive;Interseção de Vias;Rotatória";Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+25;"Aclive;Interseção de Vias;Viaduto";Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+26;"Aclive;Ponte;Reta";Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+27;"Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não
+28;"Aclive;Reta;Em Obras";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+29;"Aclive;Reta;Interseção de Vias";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+30;"Aclive;Reta;Ponte";Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+31;"Aclive;Reta;Retorno Regulamentado";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+32;"Aclive;Reta;Retorno Regulamentado;Interseção de Vias";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+33;"Aclive;Reta;Rotatória";Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+34;"Aclive;Reta;Viaduto";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+35;"Aclive;Retorno Regulamentado";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+36;"Aclive;Retorno Regulamentado;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+37;"Aclive;Retorno Regulamentado;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+38;"Aclive;Rotatória";Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+39;"Aclive;Rotatória;Interseção de Vias";Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+40;"Aclive;Viaduto";Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+41;"Aclive;Viaduto;Curva";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+42;"Aclive;Viaduto;Interseção de Vias";Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+43;"Aclive;Viaduto;Reta";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+44;Curva;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não
+45;"Curva;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não
+46;"Curva;Aclive;Desvio Temporário;Em Obras";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+47;"Curva;Aclive;Em Obras";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+48;"Curva;Aclive;Interseção de Vias";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+49;"Curva;Aclive;Ponte";Não;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+50;"Curva;Aclive;Retorno Regulamentado";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+51;"Curva;Aclive;Retorno Regulamentado;Viaduto";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+52;"Curva;Aclive;Rotatória";Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+53;"Curva;Aclive;Viaduto";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+54;"Curva;Declive";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não
+55;"Curva;Declive;Em Obras";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+56;"Curva;Declive;Interseção de Vias";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+57;"Curva;Declive;Interseção de Vias;Viaduto";Não;Sim;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+58;"Curva;Declive;Retorno Regulamentado";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+59;"Curva;Declive;Rotatória";Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+60;"Curva;Declive;Viaduto";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+61;"Curva;Desvio Temporário";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+62;"Curva;Desvio Temporário;Em Obras";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+63;"Curva;Desvio Temporário;Em Obras;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+64;"Curva;Em Obras";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+65;"Curva;Em Obras;Declive";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+66;"Curva;Em Obras;Desvio Temporário";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+67;"Curva;Em Obras;Viaduto;Declive";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não
+68;"Curva;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+69;"Curva;Interseção de Vias;Aclive";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+70;"Curva;Interseção de Vias;Aclive;Rotatória";Não;Sim;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+71;"Curva;Interseção de Vias;Declive";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+72;"Curva;Interseção de Vias;Em Obras";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+73;"Curva;Interseção de Vias;Em Obras;Desvio Temporário";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+74;"Curva;Interseção de Vias;Retorno Regulamentado";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+75;"Curva;Interseção de Vias;Rotatória";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+76;"Curva;Interseção de Vias;Viaduto";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+77;"Curva;Interseção de Vias;Viaduto;Declive";Não;Sim;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+78;"Curva;Ponte";Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+79;"Curva;Ponte;Declive";Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+80;"Curva;Retorno Regulamentado";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+81;"Curva;Retorno Regulamentado;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+82;"Curva;Retorno Regulamentado;Declive";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+83;"Curva;Retorno Regulamentado;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+84;"Curva;Retorno Regulamentado;Viaduto";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+85;"Curva;Rotatória";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+86;"Curva;Rotatória;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+87;"Curva;Rotatória;Declive;Interseção de Vias";Não;Sim;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+88;"Curva;Rotatória;Em Obras";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+89;"Curva;Rotatória;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+90;"Curva;Rotatória;Interseção de Vias;Declive";Não;Sim;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+91;"Curva;Rotatória;Interseção de Vias;Viaduto";Não;Sim;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+92;"Curva;Rotatória;Viaduto";Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+93;"Curva;Túnel";Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+94;"Curva;Viaduto";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+95;"Curva;Viaduto;Aclive";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+96;"Curva;Viaduto;Declive";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+97;"Curva;Viaduto;Declive;Interseção de Vias";Não;Sim;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+98;"Curva;Viaduto;Em Obras";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+99;"Curva;Viaduto;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+100;"Curva;Viaduto;Retorno Regulamentado";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+101;"Curva;Viaduto;Rotatória";Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+102;Declive;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não
+103;"Declive;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não
+104;"Declive;Curva;Desvio Temporário";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+105;"Declive;Curva;Em Obras";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+106;"Declive;Curva;Interseção de Vias";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+107;"Declive;Curva;Interseção de Vias;Retorno Regulamentado";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+108;"Declive;Curva;Interseção de Vias;Viaduto";Não;Sim;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+109;"Declive;Curva;Ponte";Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+110;"Declive;Curva;Retorno Regulamentado";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+111;"Declive;Curva;Rotatória";Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+112;"Declive;Curva;Viaduto";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+113;"Declive;Desvio Temporário";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+114;"Declive;Em Obras";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+115;"Declive;Em Obras;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+116;"Declive;Em Obras;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+117;"Declive;Interseção de Vias";Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+118;"Declive;Interseção de Vias;Curva";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+119;"Declive;Interseção de Vias;Em Obras";Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+120;"Declive;Interseção de Vias;Reta";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+121;"Declive;Interseção de Vias;Reta;Rotatória";Sim;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+122;"Declive;Interseção de Vias;Retorno Regulamentado";Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+123;"Declive;Interseção de Vias;Retorno Regulamentado;Reta";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+124;"Declive;Interseção de Vias;Retorno Regulamentado;Viaduto";Não;Não;Não;Sim;Sim;Não;Sim;Não;Não;Sim;Não;Não
+125;"Declive;Interseção de Vias;Rotatória";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+126;"Declive;Interseção de Vias;Viaduto";Não;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+127;"Declive;Interseção de Vias;Viaduto;Curva";Não;Sim;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+128;"Declive;Interseção de Vias;Viaduto;Reta";Sim;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+129;"Declive;Ponte";Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+130;"Declive;Ponte;Curva";Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+131;"Declive;Ponte;Reta";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+132;"Declive;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não
+133;"Declive;Reta;Desvio Temporário";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+134;"Declive;Reta;Em Obras";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+135;"Declive;Reta;Interseção de Vias";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+136;"Declive;Reta;Interseção de Vias;Retorno Regulamentado";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+137;"Declive;Reta;Ponte";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+138;"Declive;Reta;Retorno Regulamentado";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+139;"Declive;Reta;Túnel";Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não
+140;"Declive;Reta;Viaduto";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+141;"Declive;Reta;Viaduto;Interseção de Vias";Sim;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+142;"Declive;Retorno Regulamentado";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+143;"Declive;Retorno Regulamentado;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+144;"Declive;Retorno Regulamentado;Interseção de Vias;Rotatória;Desvio Temporário";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Sim;Não;Sim
+145;"Declive;Retorno Regulamentado;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+146;"Declive;Rotatória";Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+147;"Declive;Rotatória;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+148;"Declive;Rotatória;Interseção de Vias";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+149;"Declive;Rotatória;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+150;"Declive;Rotatória;Viaduto";Não;Não;Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não
+151;"Declive;Viaduto";Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+152;"Declive;Viaduto;Curva";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+153;"Declive;Viaduto;Interseção de Vias";Não;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+154;"Declive;Viaduto;Interseção de Vias;Reta";Sim;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+155;"Declive;Viaduto;Reta";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+156;"Declive;Viaduto;Retorno Regulamentado";Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Sim;Não;Não
+157;"Declive;Viaduto;Rotatória";Não;Não;Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não
+158;Desvio Temporário;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+159;"Desvio Temporário;Aclive";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+160;"Desvio Temporário;Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+161;"Desvio Temporário;Aclive;Curva;Em Obras";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+162;"Desvio Temporário;Aclive;Em Obras";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+163;"Desvio Temporário;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+164;"Desvio Temporário;Curva;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+165;"Desvio Temporário;Curva;Em Obras";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+166;"Desvio Temporário;Declive;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+167;"Desvio Temporário;Declive;Em Obras";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+168;"Desvio Temporário;Declive;Em Obras;Viaduto";Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Sim
+169;"Desvio Temporário;Declive;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+170;"Desvio Temporário;Declive;Viaduto;Reta";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim
+171;"Desvio Temporário;Em Obras";Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+172;"Desvio Temporário;Em Obras;Aclive";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+173;"Desvio Temporário;Em Obras;Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+174;"Desvio Temporário;Em Obras;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+175;"Desvio Temporário;Em Obras;Declive";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+176;"Desvio Temporário;Em Obras;Declive;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+177;"Desvio Temporário;Em Obras;Declive;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+178;"Desvio Temporário;Em Obras;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+179;"Desvio Temporário;Em Obras;Reta;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+180;"Desvio Temporário;Em Obras;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+181;"Desvio Temporário;Em Obras;Reta;Interseção de Vias;Retorno Regulamentado;Rotatória";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Sim;Sim
+182;"Desvio Temporário;Em Obras;Rotatória";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim
+183;"Desvio Temporário;Em Obras;Viaduto";Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim
+184;"Desvio Temporário;Em Obras;Viaduto;Declive";Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Sim
+185;"Desvio Temporário;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim
+186;"Desvio Temporário;Interseção de Vias;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim
+187;"Desvio Temporário;Interseção de Vias;Curva;Em Obras";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+188;"Desvio Temporário;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+189;"Desvio Temporário;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+190;"Desvio Temporário;Reta;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+191;"Desvio Temporário;Reta;Em Obras;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+192;"Desvio Temporário;Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim
+193;"Desvio Temporário;Reta;Retorno Regulamentado";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim
+194;"Desvio Temporário;Retorno Regulamentado;Em Obras";Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Sim
+195;"Desvio Temporário;Retorno Regulamentado;Reta;Em Obras;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Sim
+196;Em Obras;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+197;"Em Obras;Aclive";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+198;"Em Obras;Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+199;"Em Obras;Aclive;Curva;Retorno Regulamentado";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+200;"Em Obras;Aclive;Desvio Temporário;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+201;"Em Obras;Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+202;"Em Obras;Aclive;Rotatória";Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+203;"Em Obras;Aclive;Viaduto;Reta";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+204;"Em Obras;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+205;"Em Obras;Curva;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+206;"Em Obras;Curva;Declive";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+207;"Em Obras;Curva;Desvio Temporário";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+208;"Em Obras;Curva;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+209;"Em Obras;Curva;Rotatória";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+210;"Em Obras;Declive";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+211;"Em Obras;Declive;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+212;"Em Obras;Declive;Desvio Temporário";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+213;"Em Obras;Declive;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+214;"Em Obras;Declive;Reta;Rotatória";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não
+215;"Em Obras;Desvio Temporário";Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+216;"Em Obras;Desvio Temporário;Aclive";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+217;"Em Obras;Desvio Temporário;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+218;"Em Obras;Desvio Temporário;Declive";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+219;"Em Obras;Desvio Temporário;Declive;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+220;"Em Obras;Desvio Temporário;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+221;"Em Obras;Desvio Temporário;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+222;"Em Obras;Desvio Temporário;Retorno Regulamentado";Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Sim
+223;"Em Obras;Desvio Temporário;Rotatória;Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Sim;Sim
+224;"Em Obras;Desvio Temporário;Viaduto;Reta";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim
+225;"Em Obras;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+226;"Em Obras;Interseção de Vias;Desvio Temporário";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+227;"Em Obras;Interseção de Vias;Ponte";Não;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não
+228;"Em Obras;Interseção de Vias;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+229;"Em Obras;Interseção de Vias;Reta;Rotatória";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Sim;Não
+230;"Em Obras;Interseção de Vias;Retorno Regulamentado;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não
+231;"Em Obras;Interseção de Vias;Rotatória";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Sim;Não
+232;"Em Obras;Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não
+233;"Em Obras;Ponte;Curva";Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+234;"Em Obras;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+235;"Em Obras;Reta;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+236;"Em Obras;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+237;"Em Obras;Reta;Declive;Interseção de Vias";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+238;"Em Obras;Reta;Desvio Temporário";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+239;"Em Obras;Reta;Desvio Temporário;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+240;"Em Obras;Reta;Desvio Temporário;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim
+241;"Em Obras;Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+242;"Em Obras;Reta;Ponte";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+243;"Em Obras;Reta;Rotatória";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+244;"Em Obras;Reta;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+245;"Em Obras;Retorno Regulamentado";Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+246;"Em Obras;Retorno Regulamentado;Aclive;Interseção de Vias";Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não
+247;"Em Obras;Retorno Regulamentado;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+248;"Em Obras;Retorno Regulamentado;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+249;"Em Obras;Rotatória";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+250;"Em Obras;Rotatória;Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Sim;Não
+251;"Em Obras;Rotatória;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+252;"Em Obras;Túnel;Reta";Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não
+253;"Em Obras;Viaduto";Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+254;"Em Obras;Viaduto;Desvio Temporário";Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim
+255;"Em Obras;Viaduto;Reta";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+256;"Em Obras;Viaduto;Rotatória";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não
+257;Interseção de Vias;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+258;"Interseção de Vias;Aclive";Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+259;"Interseção de Vias;Aclive;Curva";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+260;"Interseção de Vias;Aclive;Em Obras;Reta";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+261;"Interseção de Vias;Aclive;Reta";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+262;"Interseção de Vias;Aclive;Reta;Rotatória";Sim;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+263;"Interseção de Vias;Aclive;Viaduto;Reta";Sim;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+264;"Interseção de Vias;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+265;"Interseção de Vias;Curva;Aclive";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+266;"Interseção de Vias;Curva;Aclive;Rotatória";Não;Sim;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+267;"Interseção de Vias;Curva;Declive";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+268;"Interseção de Vias;Curva;Desvio Temporário;Em Obras";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+269;"Interseção de Vias;Curva;Retorno Regulamentado";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+270;"Interseção de Vias;Curva;Retorno Regulamentado;Declive";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+271;"Interseção de Vias;Curva;Rotatória";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+272;"Interseção de Vias;Curva;Rotatória;Viaduto";Não;Sim;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+273;"Interseção de Vias;Curva;Viaduto";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+274;"Interseção de Vias;Declive";Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+275;"Interseção de Vias;Declive;Curva";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+276;"Interseção de Vias;Declive;Em Obras";Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+277;"Interseção de Vias;Declive;Reta";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+278;"Interseção de Vias;Declive;Reta;Em Obras";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+279;"Interseção de Vias;Declive;Reta;Rotatória";Sim;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+280;"Interseção de Vias;Declive;Reta;Viaduto";Sim;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+281;"Interseção de Vias;Declive;Rotatória";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+282;"Interseção de Vias;Declive;Rotatória;Curva";Não;Sim;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+283;"Interseção de Vias;Declive;Viaduto";Não;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+284;"Interseção de Vias;Desvio Temporário";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim
+285;"Interseção de Vias;Desvio Temporário;Em Obras;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+286;"Interseção de Vias;Em Obras";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+287;"Interseção de Vias;Em Obras;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+288;"Interseção de Vias;Em Obras;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+289;"Interseção de Vias;Em Obras;Reta;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+290;"Interseção de Vias;Em Obras;Reta;Ponte";Sim;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não
+291;"Interseção de Vias;Em Obras;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não
+292;"Interseção de Vias;Em Obras;Viaduto;Reta";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não
+293;"Interseção de Vias;Ponte;Curva";Não;Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não
+294;"Interseção de Vias;Ponte;Curva;Aclive;Viaduto";Não;Sim;Sim;Não;Sim;Sim;Sim;Não;Não;Não;Não;Não
+295;"Interseção de Vias;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+296;"Interseção de Vias;Reta;Aclive";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+297;"Interseção de Vias;Reta;Aclive;Em Obras";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+298;"Interseção de Vias;Reta;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+299;"Interseção de Vias;Reta;Declive;Em Obras";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+300;"Interseção de Vias;Reta;Em Obras";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+301;"Interseção de Vias;Reta;Ponte";Sim;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não
+302;"Interseção de Vias;Reta;Retorno Regulamentado";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+303;"Interseção de Vias;Reta;Rotatória";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+304;"Interseção de Vias;Reta;Rotatória;Aclive";Sim;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+305;"Interseção de Vias;Reta;Viaduto";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+306;"Interseção de Vias;Reta;Viaduto;Aclive";Sim;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+307;"Interseção de Vias;Reta;Viaduto;Retorno Regulamentado";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+308;"Interseção de Vias;Reta;Viaduto;Rotatória";Sim;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+309;"Interseção de Vias;Retorno Regulamentado";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+310;"Interseção de Vias;Retorno Regulamentado;Aclive;Reta";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+311;"Interseção de Vias;Retorno Regulamentado;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+312;"Interseção de Vias;Retorno Regulamentado;Declive;Curva";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+313;"Interseção de Vias;Retorno Regulamentado;Em Obras;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não
+314;"Interseção de Vias;Retorno Regulamentado;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+315;"Interseção de Vias;Retorno Regulamentado;Reta;Aclive";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+316;"Interseção de Vias;Retorno Regulamentado;Reta;Rotatória";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+317;"Interseção de Vias;Retorno Regulamentado;Reta;Viaduto";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+318;"Interseção de Vias;Retorno Regulamentado;Rotatória";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+319;"Interseção de Vias;Retorno Regulamentado;Rotatória;Declive";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Sim;Não;Não
+320;"Interseção de Vias;Retorno Regulamentado;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+321;"Interseção de Vias;Rotatória";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+322;"Interseção de Vias;Rotatória;Aclive";Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+323;"Interseção de Vias;Rotatória;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+324;"Interseção de Vias;Rotatória;Declive";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+325;"Interseção de Vias;Rotatória;Declive;Curva";Não;Sim;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+326;"Interseção de Vias;Rotatória;Desvio Temporário";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Sim
+327;"Interseção de Vias;Rotatória;Desvio Temporário;Em Obras";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Sim;Sim
+328;"Interseção de Vias;Rotatória;Em Obras";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Sim;Não
+329;"Interseção de Vias;Rotatória;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+330;"Interseção de Vias;Rotatória;Reta;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+331;"Interseção de Vias;Rotatória;Retorno Regulamentado";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+332;"Interseção de Vias;Rotatória;Retorno Regulamentado;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+333;"Interseção de Vias;Rotatória;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+334;"Interseção de Vias;Rotatória;Viaduto;Retorno Regulamentado";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Sim;Não;Não
+335;"Interseção de Vias;Túnel;Curva";Não;Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não
+336;"Interseção de Vias;Túnel;Reta;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não
+337;"Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+338;"Interseção de Vias;Viaduto;Curva";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+339;"Interseção de Vias;Viaduto;Declive";Não;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+340;"Interseção de Vias;Viaduto;Em Obras";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não
+341;"Interseção de Vias;Viaduto;Reta";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+342;"Interseção de Vias;Viaduto;Retorno Regulamentado";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+343;"Interseção de Vias;Viaduto;Retorno Regulamentado;Curva";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+344;"Interseção de Vias;Viaduto;Rotatória";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+345;"Interseção de Vias;Viaduto;Rotatória;Curva";Não;Sim;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+346;"Interseção de Vias;Viaduto;Rotatória;Ponte";Não;Não;Não;Não;Sim;Sim;Sim;Não;Sim;Não;Não;Não
+347;Ponte;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+348;"Ponte;Aclive";Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+349;"Ponte;Aclive;Curva";Não;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+350;"Ponte;Aclive;Reta";Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+351;"Ponte;Curva";Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+352;"Ponte;Curva;Aclive";Não;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+353;"Ponte;Curva;Declive";Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+354;"Ponte;Declive";Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+355;"Ponte;Declive;Curva";Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+356;"Ponte;Declive;Reta";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+357;"Ponte;Desvio Temporário;Em Obras";Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim
+358;"Ponte;Em Obras";Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+359;"Ponte;Em Obras;Reta";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+360;"Ponte;Em Obras;Reta;Declive";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não
+361;"Ponte;Interseção de Vias;Reta";Sim;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não
+362;"Ponte;Reta";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+363;"Ponte;Reta;Aclive";Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+364;"Ponte;Reta;Declive";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+365;"Ponte;Reta;Declive;Em Obras";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não
+366;"Ponte;Reta;Em Obras";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+367;"Ponte;Viaduto";Não;Não;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não
+368;Reta;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não
+369;"Reta;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não
+370;"Reta;Aclive;Desvio Temporário;Em Obras";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+371;"Reta;Aclive;Em Obras";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+372;"Reta;Aclive;Em Obras;Desvio Temporário";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+373;"Reta;Aclive;Em Obras;Viaduto";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+374;"Reta;Aclive;Interseção de Vias";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+375;"Reta;Aclive;Interseção de Vias;Retorno Regulamentado";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+376;"Reta;Aclive;Interseção de Vias;Rotatória";Sim;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+377;"Reta;Aclive;Interseção de Vias;Viaduto";Sim;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+378;"Reta;Aclive;Ponte";Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+379;"Reta;Aclive;Retorno Regulamentado";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+380;"Reta;Aclive;Rotatória";Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+381;"Reta;Aclive;Viaduto";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+382;"Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não
+383;"Reta;Declive;Desvio Temporário";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+384;"Reta;Declive;Em Obras";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+385;"Reta;Declive;Em Obras;Desvio Temporário";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+386;"Reta;Declive;Em Obras;Viaduto";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não
+387;"Reta;Declive;Interseção de Vias";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+388;"Reta;Declive;Interseção de Vias;Em Obras";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não
+389;"Reta;Declive;Ponte";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+390;"Reta;Declive;Retorno Regulamentado";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+391;"Reta;Declive;Retorno Regulamentado;Em Obras";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim;Não
+392;"Reta;Declive;Retorno Regulamentado;Interseção de Vias";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+393;"Reta;Declive;Rotatória";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+394;"Reta;Declive;Rotatória;Retorno Regulamentado";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não;Não
+395;"Reta;Declive;Viaduto";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+396;"Reta;Desvio Temporário";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim
+397;"Reta;Desvio Temporário;Aclive;Em Obras";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+398;"Reta;Desvio Temporário;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim
+399;"Reta;Desvio Temporário;Declive;Em Obras";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+400;"Reta;Desvio Temporário;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+401;"Reta;Desvio Temporário;Em Obras;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+402;"Reta;Desvio Temporário;Ponte";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim
+403;"Reta;Desvio Temporário;Túnel;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Sim
+404;"Reta;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+405;"Reta;Em Obras;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não
+406;"Reta;Em Obras;Aclive;Desvio Temporário";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+407;"Reta;Em Obras;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não
+408;"Reta;Em Obras;Declive;Desvio Temporário";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+409;"Reta;Em Obras;Declive;Desvio Temporário;Ponte";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Sim
+410;"Reta;Em Obras;Desvio Temporário";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim
+411;"Reta;Em Obras;Desvio Temporário;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim
+412;"Reta;Em Obras;Desvio Temporário;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+413;"Reta;Em Obras;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+414;"Reta;Em Obras;Ponte";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+415;"Reta;Em Obras;Retorno Regulamentado";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+416;"Reta;Em Obras;Rotatória";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+417;"Reta;Em Obras;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+418;"Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+419;"Reta;Interseção de Vias;Aclive";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não
+420;"Reta;Interseção de Vias;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Não
+421;"Reta;Interseção de Vias;Desvio Temporário";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim
+422;"Reta;Interseção de Vias;Desvio Temporário;Em Obras";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+423;"Reta;Interseção de Vias;Em Obras";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não
+424;"Reta;Interseção de Vias;Em Obras;Desvio Temporário";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim
+425;"Reta;Interseção de Vias;Ponte";Sim;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não
+426;"Reta;Interseção de Vias;Retorno Regulamentado";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+427;"Reta;Interseção de Vias;Rotatória";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+428;"Reta;Interseção de Vias;Rotatória;Retorno Regulamentado";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+429;"Reta;Interseção de Vias;Rotatória;Viaduto";Sim;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+430;"Reta;Interseção de Vias;Túnel";Sim;Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não
+431;"Reta;Interseção de Vias;Viaduto";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+432;"Reta;Interseção de Vias;Viaduto;Declive";Sim;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+433;"Reta;Interseção de Vias;Viaduto;Rotatória";Sim;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+434;"Reta;Ponte";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+435;"Reta;Ponte;Aclive";Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Não
+436;"Reta;Ponte;Declive";Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Não
+437;"Reta;Ponte;Em Obras";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não
+438;"Reta;Ponte;Em Obras;Desvio Temporário";Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim
+439;"Reta;Ponte;Interseção de Vias";Sim;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não;Não
+440;"Reta;Retorno Regulamentado";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+441;"Reta;Retorno Regulamentado;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+442;"Reta;Retorno Regulamentado;Aclive;Rotatória";Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+443;"Reta;Retorno Regulamentado;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+444;"Reta;Retorno Regulamentado;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+445;"Reta;Retorno Regulamentado;Rotatória;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+446;"Reta;Retorno Regulamentado;Túnel;Rotatória;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Sim;Sim;Sim;Não;Não
+447;"Reta;Retorno Regulamentado;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+448;"Reta;Rotatória";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+449;"Reta;Rotatória;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+450;"Reta;Rotatória;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+451;"Reta;Rotatória;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+452;"Reta;Rotatória;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+453;"Reta;Rotatória;Interseção de Vias;Em Obras";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Sim;Não
+454;"Reta;Rotatória;Retorno Regulamentado";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+455;"Reta;Rotatória;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+456;"Reta;Túnel";Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+457;"Reta;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+458;"Reta;Viaduto;Aclive";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+459;"Reta;Viaduto;Declive";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+460;"Reta;Viaduto;Em Obras";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+461;"Reta;Viaduto;Em Obras;Declive";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não
+462;"Reta;Viaduto;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+463;"Reta;Viaduto;Interseção de Vias;Declive";Sim;Não;Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não
+464;"Reta;Viaduto;Interseção de Vias;Retorno Regulamentado;Rotatória;Em Obras";Sim;Não;Não;Não;Sim;Não;Sim;Não;Sim;Sim;Sim;Não
+465;"Reta;Viaduto;Retorno Regulamentado";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+466;Retorno Regulamentado;Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+467;"Retorno Regulamentado;Aclive";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+468;"Retorno Regulamentado;Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+469;"Retorno Regulamentado;Aclive;Em Obras";Não;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+470;"Retorno Regulamentado;Aclive;Interseção de Vias";Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+471;"Retorno Regulamentado;Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+472;"Retorno Regulamentado;Aclive;Viaduto;Curva";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+473;"Retorno Regulamentado;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+474;"Retorno Regulamentado;Curva;Aclive";Não;Sim;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+475;"Retorno Regulamentado;Curva;Declive";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+476;"Retorno Regulamentado;Curva;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+477;"Retorno Regulamentado;Curva;Interseção de Vias;Declive";Não;Sim;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+478;"Retorno Regulamentado;Curva;Rotatória";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+479;"Retorno Regulamentado;Curva;Rotatória;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+480;"Retorno Regulamentado;Curva;Túnel;Viaduto";Não;Sim;Não;Não;Não;Não;Sim;Sim;Não;Sim;Não;Não
+481;"Retorno Regulamentado;Curva;Viaduto";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+482;"Retorno Regulamentado;Declive";Não;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+483;"Retorno Regulamentado;Declive;Curva";Não;Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+484;"Retorno Regulamentado;Declive;Reta";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+485;"Retorno Regulamentado;Desvio Temporário;Em Obras";Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Sim
+486;"Retorno Regulamentado;Em Obras";Não;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+487;"Retorno Regulamentado;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+488;"Retorno Regulamentado;Interseção de Vias;Aclive;Curva";Não;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+489;"Retorno Regulamentado;Interseção de Vias;Aclive;Reta";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+490;"Retorno Regulamentado;Interseção de Vias;Aclive;Reta;Rotatória";Sim;Não;Sim;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+491;"Retorno Regulamentado;Interseção de Vias;Aclive;Viaduto";Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+492;"Retorno Regulamentado;Interseção de Vias;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+493;"Retorno Regulamentado;Interseção de Vias;Curva;Rotatória;Viaduto;Declive";Não;Sim;Não;Sim;Sim;Não;Sim;Não;Sim;Sim;Não;Não
+494;"Retorno Regulamentado;Interseção de Vias;Desvio Temporário;Em Obras;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Sim
+495;"Retorno Regulamentado;Interseção de Vias;Em Obras;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não
+496;"Retorno Regulamentado;Interseção de Vias;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+497;"Retorno Regulamentado;Interseção de Vias;Reta;Rotatória";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+498;"Retorno Regulamentado;Interseção de Vias;Reta;Túnel;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Sim;Não;Sim;Não;Não
+499;"Retorno Regulamentado;Interseção de Vias;Rotatória";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+500;"Retorno Regulamentado;Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+501;"Retorno Regulamentado;Interseção de Vias;Viaduto;Curva";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+502;"Retorno Regulamentado;Interseção de Vias;Viaduto;Reta";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+503;"Retorno Regulamentado;Interseção de Vias;Viaduto;Rotatória;Declive";Não;Não;Não;Sim;Sim;Não;Sim;Não;Sim;Sim;Não;Não
+504;"Retorno Regulamentado;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+505;"Retorno Regulamentado;Reta;Aclive";Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não
+506;"Retorno Regulamentado;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não
+507;"Retorno Regulamentado;Reta;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não
+508;"Retorno Regulamentado;Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+509;"Retorno Regulamentado;Reta;Interseção de Vias;Aclive";Sim;Não;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não
+510;"Retorno Regulamentado;Reta;Interseção de Vias;Declive";Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;Sim;Não;Não
+511;"Retorno Regulamentado;Reta;Interseção de Vias;Rotatória;Em Obras";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Sim;Não
+512;"Retorno Regulamentado;Reta;Rotatória";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+513;"Retorno Regulamentado;Reta;Rotatória;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+514;"Retorno Regulamentado;Reta;Viaduto";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+515;"Retorno Regulamentado;Reta;Viaduto;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+516;"Retorno Regulamentado;Rotatória";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+517;"Retorno Regulamentado;Rotatória;Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+518;"Retorno Regulamentado;Rotatória;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+519;"Retorno Regulamentado;Rotatória;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+520;"Retorno Regulamentado;Rotatória;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+521;"Retorno Regulamentado;Rotatória;Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+522;"Retorno Regulamentado;Rotatória;Viaduto";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim;Não;Não
+523;"Retorno Regulamentado;Viaduto";Não;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+524;"Retorno Regulamentado;Viaduto;Reta";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+525;"Retorno Regulamentado;Viaduto;Rotatória";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim;Não;Não
+526;Rotatória;Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+527;"Rotatória;Aclive";Não;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+528;"Rotatória;Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+529;"Rotatória;Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+530;"Rotatória;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+531;"Rotatória;Curva;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+532;"Rotatória;Declive";Não;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+533;"Rotatória;Declive;Interseção de Vias";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+534;"Rotatória;Desvio Temporário";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Sim
+535;"Rotatória;Desvio Temporário;Em Obras";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim
+536;"Rotatória;Desvio Temporário;Reta;Em Obras";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim
+537;"Rotatória;Em Obras";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não
+538;"Rotatória;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+539;"Rotatória;Interseção de Vias;Curva";Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+540;"Rotatória;Interseção de Vias;Declive";Não;Não;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+541;"Rotatória;Interseção de Vias;Declive;Curva";Não;Sim;Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não
+542;"Rotatória;Interseção de Vias;Em Obras";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Sim;Não
+543;"Rotatória;Interseção de Vias;Reta";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+544;"Rotatória;Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+545;"Rotatória;Interseção de Vias;Viaduto;Retorno Regulamentado";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Sim;Não;Não
+546;"Rotatória;Ponte";Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Não
+547;"Rotatória;Reta";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não
+548;"Rotatória;Reta;Aclive;Interseção de Vias;Retorno Regulamentado";Sim;Não;Sim;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+549;"Rotatória;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não
+550;"Rotatória;Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+551;"Rotatória;Reta;Interseção de Vias;Aclive";Sim;Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não
+552;"Rotatória;Reta;Retorno Regulamentado";Sim;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+553;"Rotatória;Reta;Retorno Regulamentado;Declive";Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não;Não
+554;"Rotatória;Retorno Regulamentado";Não;Não;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+555;"Rotatória;Retorno Regulamentado;Curva";Não;Sim;Não;Não;Não;Não;Não;Não;Sim;Sim;Não;Não
+556;"Rotatória;Retorno Regulamentado;Declive;Viaduto;Curva";Não;Sim;Não;Sim;Não;Não;Sim;Não;Sim;Sim;Não;Não
+557;"Rotatória;Retorno Regulamentado;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Sim;Não;Não
+558;"Rotatória;Retorno Regulamentado;Viaduto";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim;Não;Não
+559;"Rotatória;Viaduto";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+560;"Rotatória;Viaduto;Curva";Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+561;"Rotatória;Viaduto;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+562;Túnel;Não;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+563;"Túnel;Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+564;"Túnel;Curva";Não;Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+565;"Túnel;Declive;Curva";Não;Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não
+566;"Túnel;Interseção de Vias;Viaduto";Não;Não;Não;Não;Sim;Não;Sim;Sim;Não;Não;Não;Não
+567;"Túnel;Interseção de Vias;Viaduto;Reta";Sim;Não;Não;Não;Sim;Não;Sim;Sim;Não;Não;Não;Não
+568;"Túnel;Reta";Sim;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não
+569;"Túnel;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não
+570;Viaduto;Não;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+571;"Viaduto;Aclive";Não;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+572;"Viaduto;Aclive;Curva";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+573;"Viaduto;Aclive;Reta";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+574;"Viaduto;Curva";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+575;"Viaduto;Curva;Aclive";Não;Sim;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+576;"Viaduto;Curva;Declive";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+577;"Viaduto;Curva;Declive;Em Obras";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Sim;Não
+578;"Viaduto;Curva;Interseção de Vias";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+579;"Viaduto;Curva;Ponte";Não;Sim;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;Não
+580;"Viaduto;Curva;Retorno Regulamentado";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+581;"Viaduto;Curva;Retorno Regulamentado;Declive";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Sim;Não;Não
+582;"Viaduto;Declive";Não;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+583;"Viaduto;Declive;Curva";Não;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+584;"Viaduto;Declive;Reta";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+585;"Viaduto;Declive;Rotatória";Não;Não;Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não
+586;"Viaduto;Em Obras;Reta";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;Não
+587;"Viaduto;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+588;"Viaduto;Interseção de Vias;Curva";Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+589;"Viaduto;Interseção de Vias;Ponte;Reta;Em Obras";Sim;Não;Não;Não;Sim;Sim;Sim;Não;Não;Não;Sim;Não
+590;"Viaduto;Interseção de Vias;Reta";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+591;"Viaduto;Interseção de Vias;Rotatória";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+592;"Viaduto;Reta";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+593;"Viaduto;Reta;Aclive";Sim;Não;Sim;Não;Não;Não;Sim;Não;Não;Não;Não;Não
+594;"Viaduto;Reta;Declive";Sim;Não;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não
+595;"Viaduto;Reta;Interseção de Vias";Sim;Não;Não;Não;Sim;Não;Sim;Não;Não;Não;Não;Não
+596;"Viaduto;Reta;Interseção de Vias;Rotatória";Sim;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+597;"Viaduto;Reta;Rotatória";Sim;Não;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+598;"Viaduto;Retorno Regulamentado";Não;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+599;"Viaduto;Retorno Regulamentado;Curva";Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+600;"Viaduto;Retorno Regulamentado;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Sim;Não;Não
+601;"Viaduto;Retorno Regulamentado;Interseção de Vias;Rotatória";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Sim;Não;Não
+602;"Viaduto;Retorno Regulamentado;Reta";Sim;Não;Não;Não;Não;Não;Sim;Não;Não;Sim;Não;Não
+603;"Viaduto;Rotatória";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Não;Não;Não
+604;"Viaduto;Rotatória;Interseção de Vias";Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;Não;Não;Não
+605;"Viaduto;Rotatória;Retorno Regulamentado";Não;Não;Não;Não;Não;Não;Sim;Não;Sim;Sim;Não;Não

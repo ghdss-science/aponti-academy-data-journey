@@ -1,0 +1,384 @@
+﻿sk_ambiente;fase_dia;sentido_via;condicao_meteorologica;tipo_pista;uso_solo
+1;Amanhecer;Crescente;Chuva;Dupla;Não
+2;Amanhecer;Crescente;Chuva;Dupla;Sim
+3;Amanhecer;Crescente;Chuva;Múltipla;Não
+4;Amanhecer;Crescente;Chuva;Múltipla;Sim
+5;Amanhecer;Crescente;Chuva;Simples;Não
+6;Amanhecer;Crescente;Chuva;Simples;Sim
+7;Amanhecer;Crescente;Céu Claro;Dupla;Não
+8;Amanhecer;Crescente;Céu Claro;Dupla;Sim
+9;Amanhecer;Crescente;Céu Claro;Múltipla;Não
+10;Amanhecer;Crescente;Céu Claro;Múltipla;Sim
+11;Amanhecer;Crescente;Céu Claro;Simples;Não
+12;Amanhecer;Crescente;Céu Claro;Simples;Sim
+13;Amanhecer;Crescente;Garoa/Chuvisco;Dupla;Não
+14;Amanhecer;Crescente;Garoa/Chuvisco;Dupla;Sim
+15;Amanhecer;Crescente;Garoa/Chuvisco;Múltipla;Não
+16;Amanhecer;Crescente;Garoa/Chuvisco;Múltipla;Sim
+17;Amanhecer;Crescente;Garoa/Chuvisco;Simples;Não
+18;Amanhecer;Crescente;Garoa/Chuvisco;Simples;Sim
+19;Amanhecer;Crescente;Ignorado;Dupla;Não
+20;Amanhecer;Crescente;Ignorado;Dupla;Sim
+21;Amanhecer;Crescente;Ignorado;Múltipla;Sim
+22;Amanhecer;Crescente;Ignorado;Simples;Não
+23;Amanhecer;Crescente;Ignorado;Simples;Sim
+24;Amanhecer;Crescente;Nevoeiro/Neblina;Dupla;Não
+25;Amanhecer;Crescente;Nevoeiro/Neblina;Dupla;Sim
+26;Amanhecer;Crescente;Nevoeiro/Neblina;Múltipla;Não
+27;Amanhecer;Crescente;Nevoeiro/Neblina;Múltipla;Sim
+28;Amanhecer;Crescente;Nevoeiro/Neblina;Simples;Não
+29;Amanhecer;Crescente;Nevoeiro/Neblina;Simples;Sim
+30;Amanhecer;Crescente;Nublado;Dupla;Não
+31;Amanhecer;Crescente;Nublado;Dupla;Sim
+32;Amanhecer;Crescente;Nublado;Múltipla;Não
+33;Amanhecer;Crescente;Nublado;Múltipla;Sim
+34;Amanhecer;Crescente;Nublado;Simples;Não
+35;Amanhecer;Crescente;Nublado;Simples;Sim
+36;Amanhecer;Crescente;Sol;Dupla;Não
+37;Amanhecer;Crescente;Sol;Dupla;Sim
+38;Amanhecer;Crescente;Sol;Múltipla;Não
+39;Amanhecer;Crescente;Sol;Múltipla;Sim
+40;Amanhecer;Crescente;Sol;Simples;Não
+41;Amanhecer;Crescente;Sol;Simples;Sim
+42;Amanhecer;Crescente;Vento;Simples;Não
+43;Amanhecer;Crescente;Vento;Simples;Sim
+44;Amanhecer;Decrescente;Chuva;Dupla;Não
+45;Amanhecer;Decrescente;Chuva;Dupla;Sim
+46;Amanhecer;Decrescente;Chuva;Múltipla;Não
+47;Amanhecer;Decrescente;Chuva;Múltipla;Sim
+48;Amanhecer;Decrescente;Chuva;Simples;Não
+49;Amanhecer;Decrescente;Chuva;Simples;Sim
+50;Amanhecer;Decrescente;Céu Claro;Dupla;Não
+51;Amanhecer;Decrescente;Céu Claro;Dupla;Sim
+52;Amanhecer;Decrescente;Céu Claro;Múltipla;Não
+53;Amanhecer;Decrescente;Céu Claro;Múltipla;Sim
+54;Amanhecer;Decrescente;Céu Claro;Simples;Não
+55;Amanhecer;Decrescente;Céu Claro;Simples;Sim
+56;Amanhecer;Decrescente;Garoa/Chuvisco;Dupla;Não
+57;Amanhecer;Decrescente;Garoa/Chuvisco;Dupla;Sim
+58;Amanhecer;Decrescente;Garoa/Chuvisco;Múltipla;Não
+59;Amanhecer;Decrescente;Garoa/Chuvisco;Múltipla;Sim
+60;Amanhecer;Decrescente;Garoa/Chuvisco;Simples;Não
+61;Amanhecer;Decrescente;Garoa/Chuvisco;Simples;Sim
+62;Amanhecer;Decrescente;Ignorado;Dupla;Não
+63;Amanhecer;Decrescente;Ignorado;Dupla;Sim
+64;Amanhecer;Decrescente;Ignorado;Múltipla;Sim
+65;Amanhecer;Decrescente;Ignorado;Simples;Não
+66;Amanhecer;Decrescente;Ignorado;Simples;Sim
+67;Amanhecer;Decrescente;Nevoeiro/Neblina;Dupla;Não
+68;Amanhecer;Decrescente;Nevoeiro/Neblina;Dupla;Sim
+69;Amanhecer;Decrescente;Nevoeiro/Neblina;Múltipla;Não
+70;Amanhecer;Decrescente;Nevoeiro/Neblina;Múltipla;Sim
+71;Amanhecer;Decrescente;Nevoeiro/Neblina;Simples;Não
+72;Amanhecer;Decrescente;Nevoeiro/Neblina;Simples;Sim
+73;Amanhecer;Decrescente;Nublado;Dupla;Não
+74;Amanhecer;Decrescente;Nublado;Dupla;Sim
+75;Amanhecer;Decrescente;Nublado;Múltipla;Não
+76;Amanhecer;Decrescente;Nublado;Múltipla;Sim
+77;Amanhecer;Decrescente;Nublado;Simples;Não
+78;Amanhecer;Decrescente;Nublado;Simples;Sim
+79;Amanhecer;Decrescente;Sol;Dupla;Não
+80;Amanhecer;Decrescente;Sol;Dupla;Sim
+81;Amanhecer;Decrescente;Sol;Múltipla;Sim
+82;Amanhecer;Decrescente;Sol;Simples;Não
+83;Amanhecer;Decrescente;Sol;Simples;Sim
+84;Amanhecer;Decrescente;Vento;Dupla;Não
+85;Amanhecer;Decrescente;Vento;Dupla;Sim
+86;Amanhecer;Decrescente;Vento;Simples;Não
+87;Amanhecer;Decrescente;Vento;Simples;Sim
+88;Amanhecer;Não Informado;Céu Claro;Múltipla;Sim
+89;Amanhecer;Não Informado;Nublado;Dupla;Sim
+90;Anoitecer;Crescente;Chuva;Dupla;Não
+91;Anoitecer;Crescente;Chuva;Dupla;Sim
+92;Anoitecer;Crescente;Chuva;Múltipla;Não
+93;Anoitecer;Crescente;Chuva;Múltipla;Sim
+94;Anoitecer;Crescente;Chuva;Simples;Não
+95;Anoitecer;Crescente;Chuva;Simples;Sim
+96;Anoitecer;Crescente;Céu Claro;Dupla;Não
+97;Anoitecer;Crescente;Céu Claro;Dupla;Sim
+98;Anoitecer;Crescente;Céu Claro;Múltipla;Não
+99;Anoitecer;Crescente;Céu Claro;Múltipla;Sim
+100;Anoitecer;Crescente;Céu Claro;Simples;Não
+101;Anoitecer;Crescente;Céu Claro;Simples;Sim
+102;Anoitecer;Crescente;Garoa/Chuvisco;Dupla;Não
+103;Anoitecer;Crescente;Garoa/Chuvisco;Dupla;Sim
+104;Anoitecer;Crescente;Garoa/Chuvisco;Múltipla;Não
+105;Anoitecer;Crescente;Garoa/Chuvisco;Múltipla;Sim
+106;Anoitecer;Crescente;Garoa/Chuvisco;Simples;Não
+107;Anoitecer;Crescente;Garoa/Chuvisco;Simples;Sim
+108;Anoitecer;Crescente;Ignorado;Dupla;Não
+109;Anoitecer;Crescente;Ignorado;Dupla;Sim
+110;Anoitecer;Crescente;Ignorado;Múltipla;Não
+111;Anoitecer;Crescente;Ignorado;Múltipla;Sim
+112;Anoitecer;Crescente;Ignorado;Simples;Não
+113;Anoitecer;Crescente;Ignorado;Simples;Sim
+114;Anoitecer;Crescente;Nevoeiro/Neblina;Dupla;Não
+115;Anoitecer;Crescente;Nevoeiro/Neblina;Simples;Não
+116;Anoitecer;Crescente;Nevoeiro/Neblina;Simples;Sim
+117;Anoitecer;Crescente;Nublado;Dupla;Não
+118;Anoitecer;Crescente;Nublado;Dupla;Sim
+119;Anoitecer;Crescente;Nublado;Múltipla;Não
+120;Anoitecer;Crescente;Nublado;Múltipla;Sim
+121;Anoitecer;Crescente;Nublado;Simples;Não
+122;Anoitecer;Crescente;Nublado;Simples;Sim
+123;Anoitecer;Crescente;Sol;Dupla;Não
+124;Anoitecer;Crescente;Sol;Dupla;Sim
+125;Anoitecer;Crescente;Sol;Simples;Não
+126;Anoitecer;Crescente;Sol;Simples;Sim
+127;Anoitecer;Crescente;Vento;Dupla;Não
+128;Anoitecer;Crescente;Vento;Dupla;Sim
+129;Anoitecer;Decrescente;Chuva;Dupla;Não
+130;Anoitecer;Decrescente;Chuva;Dupla;Sim
+131;Anoitecer;Decrescente;Chuva;Múltipla;Não
+132;Anoitecer;Decrescente;Chuva;Múltipla;Sim
+133;Anoitecer;Decrescente;Chuva;Simples;Não
+134;Anoitecer;Decrescente;Chuva;Simples;Sim
+135;Anoitecer;Decrescente;Céu Claro;Dupla;Não
+136;Anoitecer;Decrescente;Céu Claro;Dupla;Sim
+137;Anoitecer;Decrescente;Céu Claro;Múltipla;Não
+138;Anoitecer;Decrescente;Céu Claro;Múltipla;Sim
+139;Anoitecer;Decrescente;Céu Claro;Simples;Não
+140;Anoitecer;Decrescente;Céu Claro;Simples;Sim
+141;Anoitecer;Decrescente;Garoa/Chuvisco;Dupla;Não
+142;Anoitecer;Decrescente;Garoa/Chuvisco;Dupla;Sim
+143;Anoitecer;Decrescente;Garoa/Chuvisco;Múltipla;Não
+144;Anoitecer;Decrescente;Garoa/Chuvisco;Múltipla;Sim
+145;Anoitecer;Decrescente;Garoa/Chuvisco;Simples;Não
+146;Anoitecer;Decrescente;Garoa/Chuvisco;Simples;Sim
+147;Anoitecer;Decrescente;Ignorado;Dupla;Não
+148;Anoitecer;Decrescente;Ignorado;Dupla;Sim
+149;Anoitecer;Decrescente;Ignorado;Múltipla;Não
+150;Anoitecer;Decrescente;Ignorado;Múltipla;Sim
+151;Anoitecer;Decrescente;Ignorado;Simples;Não
+152;Anoitecer;Decrescente;Ignorado;Simples;Sim
+153;Anoitecer;Decrescente;Nevoeiro/Neblina;Dupla;Não
+154;Anoitecer;Decrescente;Nevoeiro/Neblina;Simples;Não
+155;Anoitecer;Decrescente;Nevoeiro/Neblina;Simples;Sim
+156;Anoitecer;Decrescente;Nublado;Dupla;Não
+157;Anoitecer;Decrescente;Nublado;Dupla;Sim
+158;Anoitecer;Decrescente;Nublado;Múltipla;Não
+159;Anoitecer;Decrescente;Nublado;Múltipla;Sim
+160;Anoitecer;Decrescente;Nublado;Simples;Não
+161;Anoitecer;Decrescente;Nublado;Simples;Sim
+162;Anoitecer;Decrescente;Sol;Dupla;Sim
+163;Anoitecer;Decrescente;Sol;Múltipla;Sim
+164;Anoitecer;Decrescente;Sol;Simples;Não
+165;Anoitecer;Decrescente;Sol;Simples;Sim
+166;Anoitecer;Decrescente;Vento;Dupla;Não
+167;Anoitecer;Decrescente;Vento;Dupla;Sim
+168;Anoitecer;Decrescente;Vento;Múltipla;Sim
+169;Anoitecer;Decrescente;Vento;Simples;Não
+170;Anoitecer;Decrescente;Vento;Simples;Sim
+171;Anoitecer;Não Informado;Chuva;Dupla;Não
+172;Anoitecer;Não Informado;Céu Claro;Dupla;Sim
+173;Anoitecer;Não Informado;Céu Claro;Simples;Não
+174;Anoitecer;Não Informado;Céu Claro;Simples;Sim
+175;Anoitecer;Não Informado;Nublado;Simples;Sim
+176;Plena Noite;Crescente;Chuva;Dupla;Não
+177;Plena Noite;Crescente;Chuva;Dupla;Sim
+178;Plena Noite;Crescente;Chuva;Múltipla;Não
+179;Plena Noite;Crescente;Chuva;Múltipla;Sim
+180;Plena Noite;Crescente;Chuva;Simples;Não
+181;Plena Noite;Crescente;Chuva;Simples;Sim
+182;Plena Noite;Crescente;Céu Claro;Dupla;Não
+183;Plena Noite;Crescente;Céu Claro;Dupla;Sim
+184;Plena Noite;Crescente;Céu Claro;Múltipla;Não
+185;Plena Noite;Crescente;Céu Claro;Múltipla;Sim
+186;Plena Noite;Crescente;Céu Claro;Simples;Não
+187;Plena Noite;Crescente;Céu Claro;Simples;Sim
+188;Plena Noite;Crescente;Garoa/Chuvisco;Dupla;Não
+189;Plena Noite;Crescente;Garoa/Chuvisco;Dupla;Sim
+190;Plena Noite;Crescente;Garoa/Chuvisco;Múltipla;Não
+191;Plena Noite;Crescente;Garoa/Chuvisco;Múltipla;Sim
+192;Plena Noite;Crescente;Garoa/Chuvisco;Simples;Não
+193;Plena Noite;Crescente;Garoa/Chuvisco;Simples;Sim
+194;Plena Noite;Crescente;Ignorado;Dupla;Não
+195;Plena Noite;Crescente;Ignorado;Dupla;Sim
+196;Plena Noite;Crescente;Ignorado;Múltipla;Não
+197;Plena Noite;Crescente;Ignorado;Múltipla;Sim
+198;Plena Noite;Crescente;Ignorado;Simples;Não
+199;Plena Noite;Crescente;Ignorado;Simples;Sim
+200;Plena Noite;Crescente;Nevoeiro/Neblina;Dupla;Não
+201;Plena Noite;Crescente;Nevoeiro/Neblina;Dupla;Sim
+202;Plena Noite;Crescente;Nevoeiro/Neblina;Múltipla;Não
+203;Plena Noite;Crescente;Nevoeiro/Neblina;Múltipla;Sim
+204;Plena Noite;Crescente;Nevoeiro/Neblina;Simples;Não
+205;Plena Noite;Crescente;Nevoeiro/Neblina;Simples;Sim
+206;Plena Noite;Crescente;Nublado;Dupla;Não
+207;Plena Noite;Crescente;Nublado;Dupla;Sim
+208;Plena Noite;Crescente;Nublado;Múltipla;Não
+209;Plena Noite;Crescente;Nublado;Múltipla;Sim
+210;Plena Noite;Crescente;Nublado;Simples;Não
+211;Plena Noite;Crescente;Nublado;Simples;Sim
+212;Plena Noite;Crescente;Sol;Múltipla;Sim
+213;Plena Noite;Crescente;Sol;Simples;Sim
+214;Plena Noite;Crescente;Vento;Dupla;Não
+215;Plena Noite;Crescente;Vento;Dupla;Sim
+216;Plena Noite;Crescente;Vento;Múltipla;Não
+217;Plena Noite;Crescente;Vento;Múltipla;Sim
+218;Plena Noite;Crescente;Vento;Simples;Não
+219;Plena Noite;Crescente;Vento;Simples;Sim
+220;Plena Noite;Decrescente;Chuva;Dupla;Não
+221;Plena Noite;Decrescente;Chuva;Dupla;Sim
+222;Plena Noite;Decrescente;Chuva;Múltipla;Não
+223;Plena Noite;Decrescente;Chuva;Múltipla;Sim
+224;Plena Noite;Decrescente;Chuva;Simples;Não
+225;Plena Noite;Decrescente;Chuva;Simples;Sim
+226;Plena Noite;Decrescente;Céu Claro;Dupla;Não
+227;Plena Noite;Decrescente;Céu Claro;Dupla;Sim
+228;Plena Noite;Decrescente;Céu Claro;Múltipla;Não
+229;Plena Noite;Decrescente;Céu Claro;Múltipla;Sim
+230;Plena Noite;Decrescente;Céu Claro;Simples;Não
+231;Plena Noite;Decrescente;Céu Claro;Simples;Sim
+232;Plena Noite;Decrescente;Garoa/Chuvisco;Dupla;Não
+233;Plena Noite;Decrescente;Garoa/Chuvisco;Dupla;Sim
+234;Plena Noite;Decrescente;Garoa/Chuvisco;Múltipla;Não
+235;Plena Noite;Decrescente;Garoa/Chuvisco;Múltipla;Sim
+236;Plena Noite;Decrescente;Garoa/Chuvisco;Simples;Não
+237;Plena Noite;Decrescente;Garoa/Chuvisco;Simples;Sim
+238;Plena Noite;Decrescente;Ignorado;Dupla;Não
+239;Plena Noite;Decrescente;Ignorado;Dupla;Sim
+240;Plena Noite;Decrescente;Ignorado;Múltipla;Não
+241;Plena Noite;Decrescente;Ignorado;Múltipla;Sim
+242;Plena Noite;Decrescente;Ignorado;Simples;Não
+243;Plena Noite;Decrescente;Ignorado;Simples;Sim
+244;Plena Noite;Decrescente;Neve;Simples;Não
+245;Plena Noite;Decrescente;Nevoeiro/Neblina;Dupla;Não
+246;Plena Noite;Decrescente;Nevoeiro/Neblina;Dupla;Sim
+247;Plena Noite;Decrescente;Nevoeiro/Neblina;Múltipla;Não
+248;Plena Noite;Decrescente;Nevoeiro/Neblina;Múltipla;Sim
+249;Plena Noite;Decrescente;Nevoeiro/Neblina;Simples;Não
+250;Plena Noite;Decrescente;Nevoeiro/Neblina;Simples;Sim
+251;Plena Noite;Decrescente;Nublado;Dupla;Não
+252;Plena Noite;Decrescente;Nublado;Dupla;Sim
+253;Plena Noite;Decrescente;Nublado;Múltipla;Não
+254;Plena Noite;Decrescente;Nublado;Múltipla;Sim
+255;Plena Noite;Decrescente;Nublado;Simples;Não
+256;Plena Noite;Decrescente;Nublado;Simples;Sim
+257;Plena Noite;Decrescente;Sol;Dupla;Não
+258;Plena Noite;Decrescente;Sol;Dupla;Sim
+259;Plena Noite;Decrescente;Sol;Múltipla;Sim
+260;Plena Noite;Decrescente;Sol;Simples;Não
+261;Plena Noite;Decrescente;Sol;Simples;Sim
+262;Plena Noite;Decrescente;Vento;Dupla;Não
+263;Plena Noite;Decrescente;Vento;Dupla;Sim
+264;Plena Noite;Decrescente;Vento;Múltipla;Não
+265;Plena Noite;Decrescente;Vento;Múltipla;Sim
+266;Plena Noite;Decrescente;Vento;Simples;Não
+267;Plena Noite;Decrescente;Vento;Simples;Sim
+268;Plena Noite;Não Informado;Chuva;Simples;Sim
+269;Plena Noite;Não Informado;Céu Claro;Dupla;Não
+270;Plena Noite;Não Informado;Céu Claro;Dupla;Sim
+271;Plena Noite;Não Informado;Céu Claro;Múltipla;Sim
+272;Plena Noite;Não Informado;Céu Claro;Simples;Não
+273;Plena Noite;Não Informado;Céu Claro;Simples;Sim
+274;Plena Noite;Não Informado;Garoa/Chuvisco;Dupla;Sim
+275;Plena Noite;Não Informado;Garoa/Chuvisco;Simples;Sim
+276;Plena Noite;Não Informado;Ignorado;Simples;Não
+277;Plena Noite;Não Informado;Nublado;Dupla;Sim
+278;Plena Noite;Não Informado;Nublado;Simples;Sim
+279;Pleno dia;Crescente;Chuva;Dupla;Não
+280;Pleno dia;Crescente;Chuva;Dupla;Sim
+281;Pleno dia;Crescente;Chuva;Múltipla;Não
+282;Pleno dia;Crescente;Chuva;Múltipla;Sim
+283;Pleno dia;Crescente;Chuva;Simples;Não
+284;Pleno dia;Crescente;Chuva;Simples;Sim
+285;Pleno dia;Crescente;Céu Claro;Dupla;Não
+286;Pleno dia;Crescente;Céu Claro;Dupla;Sim
+287;Pleno dia;Crescente;Céu Claro;Múltipla;Não
+288;Pleno dia;Crescente;Céu Claro;Múltipla;Sim
+289;Pleno dia;Crescente;Céu Claro;Simples;Não
+290;Pleno dia;Crescente;Céu Claro;Simples;Sim
+291;Pleno dia;Crescente;Garoa/Chuvisco;Dupla;Não
+292;Pleno dia;Crescente;Garoa/Chuvisco;Dupla;Sim
+293;Pleno dia;Crescente;Garoa/Chuvisco;Múltipla;Não
+294;Pleno dia;Crescente;Garoa/Chuvisco;Múltipla;Sim
+295;Pleno dia;Crescente;Garoa/Chuvisco;Simples;Não
+296;Pleno dia;Crescente;Garoa/Chuvisco;Simples;Sim
+297;Pleno dia;Crescente;Ignorado;Dupla;Não
+298;Pleno dia;Crescente;Ignorado;Dupla;Sim
+299;Pleno dia;Crescente;Ignorado;Múltipla;Sim
+300;Pleno dia;Crescente;Ignorado;Simples;Não
+301;Pleno dia;Crescente;Ignorado;Simples;Sim
+302;Pleno dia;Crescente;Nevoeiro/Neblina;Dupla;Não
+303;Pleno dia;Crescente;Nevoeiro/Neblina;Dupla;Sim
+304;Pleno dia;Crescente;Nevoeiro/Neblina;Múltipla;Não
+305;Pleno dia;Crescente;Nevoeiro/Neblina;Múltipla;Sim
+306;Pleno dia;Crescente;Nevoeiro/Neblina;Simples;Não
+307;Pleno dia;Crescente;Nevoeiro/Neblina;Simples;Sim
+308;Pleno dia;Crescente;Nublado;Dupla;Não
+309;Pleno dia;Crescente;Nublado;Dupla;Sim
+310;Pleno dia;Crescente;Nublado;Múltipla;Não
+311;Pleno dia;Crescente;Nublado;Múltipla;Sim
+312;Pleno dia;Crescente;Nublado;Simples;Não
+313;Pleno dia;Crescente;Nublado;Simples;Sim
+314;Pleno dia;Crescente;Sol;Dupla;Não
+315;Pleno dia;Crescente;Sol;Dupla;Sim
+316;Pleno dia;Crescente;Sol;Múltipla;Não
+317;Pleno dia;Crescente;Sol;Múltipla;Sim
+318;Pleno dia;Crescente;Sol;Simples;Não
+319;Pleno dia;Crescente;Sol;Simples;Sim
+320;Pleno dia;Crescente;Vento;Dupla;Não
+321;Pleno dia;Crescente;Vento;Dupla;Sim
+322;Pleno dia;Crescente;Vento;Múltipla;Sim
+323;Pleno dia;Crescente;Vento;Simples;Não
+324;Pleno dia;Decrescente;Chuva;Dupla;Não
+325;Pleno dia;Decrescente;Chuva;Dupla;Sim
+326;Pleno dia;Decrescente;Chuva;Múltipla;Não
+327;Pleno dia;Decrescente;Chuva;Múltipla;Sim
+328;Pleno dia;Decrescente;Chuva;Simples;Não
+329;Pleno dia;Decrescente;Chuva;Simples;Sim
+330;Pleno dia;Decrescente;Céu Claro;Dupla;Não
+331;Pleno dia;Decrescente;Céu Claro;Dupla;Sim
+332;Pleno dia;Decrescente;Céu Claro;Múltipla;Não
+333;Pleno dia;Decrescente;Céu Claro;Múltipla;Sim
+334;Pleno dia;Decrescente;Céu Claro;Simples;Não
+335;Pleno dia;Decrescente;Céu Claro;Simples;Sim
+336;Pleno dia;Decrescente;Garoa/Chuvisco;Dupla;Não
+337;Pleno dia;Decrescente;Garoa/Chuvisco;Dupla;Sim
+338;Pleno dia;Decrescente;Garoa/Chuvisco;Múltipla;Não
+339;Pleno dia;Decrescente;Garoa/Chuvisco;Múltipla;Sim
+340;Pleno dia;Decrescente;Garoa/Chuvisco;Simples;Não
+341;Pleno dia;Decrescente;Garoa/Chuvisco;Simples;Sim
+342;Pleno dia;Decrescente;Ignorado;Dupla;Não
+343;Pleno dia;Decrescente;Ignorado;Dupla;Sim
+344;Pleno dia;Decrescente;Ignorado;Múltipla;Não
+345;Pleno dia;Decrescente;Ignorado;Múltipla;Sim
+346;Pleno dia;Decrescente;Ignorado;Simples;Não
+347;Pleno dia;Decrescente;Ignorado;Simples;Sim
+348;Pleno dia;Decrescente;Nevoeiro/Neblina;Dupla;Não
+349;Pleno dia;Decrescente;Nevoeiro/Neblina;Dupla;Sim
+350;Pleno dia;Decrescente;Nevoeiro/Neblina;Múltipla;Não
+351;Pleno dia;Decrescente;Nevoeiro/Neblina;Múltipla;Sim
+352;Pleno dia;Decrescente;Nevoeiro/Neblina;Simples;Não
+353;Pleno dia;Decrescente;Nevoeiro/Neblina;Simples;Sim
+354;Pleno dia;Decrescente;Nublado;Dupla;Não
+355;Pleno dia;Decrescente;Nublado;Dupla;Sim
+356;Pleno dia;Decrescente;Nublado;Múltipla;Não
+357;Pleno dia;Decrescente;Nublado;Múltipla;Sim
+358;Pleno dia;Decrescente;Nublado;Simples;Não
+359;Pleno dia;Decrescente;Nublado;Simples;Sim
+360;Pleno dia;Decrescente;Sol;Dupla;Não
+361;Pleno dia;Decrescente;Sol;Dupla;Sim
+362;Pleno dia;Decrescente;Sol;Múltipla;Não
+363;Pleno dia;Decrescente;Sol;Múltipla;Sim
+364;Pleno dia;Decrescente;Sol;Simples;Não
+365;Pleno dia;Decrescente;Sol;Simples;Sim
+366;Pleno dia;Decrescente;Vento;Dupla;Não
+367;Pleno dia;Decrescente;Vento;Simples;Não
+368;Pleno dia;Não Informado;Chuva;Dupla;Sim
+369;Pleno dia;Não Informado;Chuva;Simples;Não
+370;Pleno dia;Não Informado;Céu Claro;Dupla;Não
+371;Pleno dia;Não Informado;Céu Claro;Dupla;Sim
+372;Pleno dia;Não Informado;Céu Claro;Múltipla;Sim
+373;Pleno dia;Não Informado;Céu Claro;Simples;Não
+374;Pleno dia;Não Informado;Céu Claro;Simples;Sim
+375;Pleno dia;Não Informado;Garoa/Chuvisco;Simples;Sim
+376;Pleno dia;Não Informado;Nublado;Dupla;Não
+377;Pleno dia;Não Informado;Nublado;Dupla;Sim
+378;Pleno dia;Não Informado;Nublado;Simples;Não
+379;Pleno dia;Não Informado;Nublado;Simples;Sim
+380;Pleno dia;Não Informado;Sol;Dupla;Sim
+381;Pleno dia;Não Informado;Sol;Múltipla;Sim
+382;Pleno dia;Não Informado;Sol;Simples;Não
+383;Pleno dia;Não Informado;Sol;Simples;Sim

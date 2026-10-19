@@ -1,8 +1,8 @@
 # 🚦📊 Projeto Aponti Academy – Análise, Preparação e Exploração de Dados
 
-Este repositório reúne as atividades desenvolvidas ao longo das **Unidades 1 a 5.3** do programa **Aponti Academy**, abrangendo desde análises iniciais em Excel até preparação de dados, modelagem analítica e construção de diagnósticos baseados em evidências.
+Este repositório reúne as atividades desenvolvidas ao longo das **Unidades 1 a 7** do programa **Aponti Academy**, abrangendo desde análises iniciais em Excel até preparação de dados, modelagem analítica, construção de diagnósticos baseados em evidências e dashboards interativos em Power BI sobre modelo dimensional (Star Schema).
 
-O projeto utiliza bases reais, com destaque para os dados de acidentes rodoviários da **Polícia Rodoviária Federal (PRF) – Datatran 2025**, permitindo a aplicação prática de conceitos de:
+O projeto utiliza bases reais, com destaque para os dados de acidentes rodoviários da **Polícia Rodoviária Federal (PRF) – Datatran 2025**, além de uma base histórica da **Premier League (1993-2025)**, permitindo a aplicação prática de conceitos de:
 
 * 📊 Excel e Google Sheets
 * 🗄️ SQL e SQLite
@@ -10,13 +10,16 @@ O projeto utiliza bases reais, com destaque para os dados de acidentes rodoviár
 * 📈 Estatística Descritiva
 * 📋 Storytelling com Dados
 * 🔍 Análise Exploratória de Dados (EDA)
+* 📐 Planejamento Estratégico de Analytics
+* ⭐ Modelagem Dimensional (Star Schema)
+* 📊 Power BI e DAX
 * 📚 Documentação e Boas Práticas Analíticas
 
 ---
 
 # 🎯 Objetivo Geral
 
-Transformar dados brutos em informações confiáveis e acionáveis por meio de processos de limpeza, organização, análise e documentação, desenvolvendo competências fundamentais para projetos de Data Analytics e Ciência de Dados.
+Transformar dados brutos em informações confiáveis e acionáveis por meio de processos de limpeza, organização, modelagem, análise, visualização e documentação, desenvolvendo competências fundamentais para projetos de Data Analytics e Ciência de Dados.
 
 ---
 
@@ -320,6 +323,128 @@ Consolidação de todas as análises anteriores (Unidades 3, 4, 5, 5.1 e 5.2) em
 
 ---
 
+## 📘 Unidade 6 – Planejamento Estratégico do Dashboard (Power BI)
+
+📁 Pasta: `atv_unidade_6/`
+
+### Tema
+
+Planejamento, antes de abrir o Power BI, de um dashboard interativo sobre o diagnóstico dos acidentes fatais nas rodovias federais (PRF 2025), transformando o problema em perguntas analíticas visuais.
+
+### Principais Técnicas
+
+* Planejamento Estratégico de Analytics (9 blocos)
+* Definição de perguntas analíticas conectadas à variável `acidente_fatal`
+* Matriz de perguntas × página × indicador × filtro × visualização
+* Definição de indicadores (% de acidentes fatais, taxa de letalidade por 100 acidentes, índice de gravidade)
+* Identificação de riscos (volume × risco proporcional, correlação × causalidade)
+
+### Contexto Analisado
+
+* 72.529 acidentes em 2025
+* 5.210 acidentes com ao menos uma vítima fatal (7,18%)
+* 6.043 mortos
+
+### Dashboard Planejado
+
+Dashboard com **8 páginas temáticas**: Visão Geral, Acidentes Fatais, Análise Geográfica, Análise Temporal, Causas e Tipos, Fatores Associados, Cruzamentos com o Alvo e Segmentos Críticos.
+
+### Entregas
+
+* Planejamento Estratégico do Dashboard em Word (.docx)
+* Planejamento Estratégico do Dashboard em PDF
+* Matriz de 8 perguntas analíticas
+* README da unidade
+
+---
+
+## 📘 Unidade 6.2 – Dashboard Premier League (1993-2025)
+
+📁 Pasta: `atv_unidade_6_2/`
+
+### Tema
+
+Atividade Extra do Módulo 6: planejamento e construção de um painel interativo em Power BI sobre o desempenho dos clubes e a competitividade da Premier League em 32 temporadas (12.160 jogos).
+
+### Ferramentas
+
+* Power BI (visuais, segmentadores, botões de navegação e visual customizado Matrix)
+* DAX (medidas)
+* Python (modelo dimensional: 1 fato + 3 dimensões)
+* Base `Premier_League.csv` (Kaggle)
+
+### Principais Técnicas
+
+* Planejamento Estratégico de Analytics
+* Modelo dimensional (`fato_time_partida`, `dim_equipe`, `dim_temporada`, `dim_calendario`) e tabela `classificacao`
+* Indicadores: pontos, aproveitamento %, saldo de gols, média de gols por jogo, % de vitórias em casa e margem do campeão
+
+### Perguntas Respondidas
+
+* Quem foi campeão de cada temporada?
+* Quais clubes mais pontuaram na história?
+* Como um clube evoluiu ao longo do tempo?
+* Jogar em casa dá vantagem?
+* Os jogos têm mais ou menos gols hoje?
+* Quais clubes têm melhor ataque e defesa?
+* O título ficou mais disputado?
+
+### Entregas
+
+* Dashboard Power BI (`.pbix`) com 7 páginas
+* Planejamento Estratégico em PDF
+* README da unidade
+
+---
+
+## 📘 Unidade 7 – Star Schema e Dashboard de Acidentes PRF 2025
+
+📁 Pasta: `atv_unidade_7/`
+
+### Tema
+
+Construção de um modelo dimensional **Star Schema** a partir da base Datatran 2025 e de um dashboard em Power BI para apoiar a priorização de fiscalização e prevenção, com foco em reduzir mortes (letalidade).
+
+### Ferramentas
+
+* Python (geração das tabelas dimensionais)
+* Power BI e DAX
+* Microsoft Word (.docx) para o planejamento
+
+### Modelo Star Schema
+
+| Tabela | Linhas | Descrição |
+| --- | --- | --- |
+| `fato_acidentes` | 72.529 | 1 linha por acidente, com métricas de vítimas e veículos |
+| `dim_calendario` | 365 | Datas de 2025 |
+| `dim_hora` | 24 | Hora e período do dia |
+| `dim_localizacao` | 2.482 | Região, UF, município e BR |
+| `dim_acidente` | 1.498 | Causa, tipo e classificação |
+| `dim_ambiente` | 383 | Fase do dia, sentido, clima, tipo de pista e uso do solo |
+| `dim_tracado_via` | 605 | Traçado da via e características da pista |
+
+### Principais Técnicas
+
+* Modelagem dimensional com chaves substitutas (`sk_`)
+* Validação de integridade referencial e conferência de totais com a origem
+* Medidas DAX (`Total Acidentes`, `Total Mortos`, `Letalidade`, letalidade por traçado)
+* Indicador de letalidade em **mortos por 100 acidentes** (8,3 em 2025)
+
+### Indicadores
+
+* 72.529 acidentes
+* 6.043 mortos e 20.018 feridos graves
+* 83.550 feridos
+
+### Entregas
+
+* Modelo Star Schema em 7 CSVs
+* Dashboard Power BI (`.pbix`) com 6 páginas
+* Planejamento Estratégico em Word (.docx)
+* README da unidade
+
+---
+
 # 📝 Boas Práticas Aplicadas
 
 Durante todas as etapas do projeto foram adotadas práticas recomendadas de análise de dados:
@@ -331,6 +456,9 @@ Durante todas as etapas do projeto foram adotadas práticas recomendadas de aná
 * Reprodutibilidade das análises
 * Clareza metodológica
 * Organização dos artefatos gerados
+* Planejamento do dashboard antes da construção
+* Validação de integridade referencial no modelo dimensional
+* Distinção entre volume de ocorrências e risco proporcional
 
 ---
 
@@ -339,8 +467,7 @@ Durante todas as etapas do projeto foram adotadas práticas recomendadas de aná
 ```mermaid
 graph TD
 
-U1[📊 Unidade 1<br>Excel Básico]
---> U2[📈 Unidade 2<br>Dashboards e Pivot Tables]
+U1[📊 Unidade 1<br>Excel Básico] --> U2[📈 Unidade 2<br>Dashboards e Pivot Tables]
 
 U2 --> U3[🗄️ Unidade 3<br>Banco de Dados SQL]
 
@@ -353,12 +480,18 @@ U5 --> U51[🎯 Unidade 5.1<br>Diagnóstico e Storytelling]
 U51 --> U52[📉 Unidade 5.2<br>Frequências e Análises Bivariadas]
 
 U52 --> U53[📄 Unidade 5.3<br>Relatório Analítico Final]
+
+U53 --> U6[📐 Unidade 6<br>Planejamento do Dashboard]
+
+U6 --> U62[⚽ Unidade 6.2<br>Dashboard Premier League]
+
+U62 --> U7[⭐ Unidade 7<br>Star Schema e Dashboard PRF]
 ```
 
 ---
 
 # 🏆 Resultado Final
 
-Ao final do projeto, foi construída uma jornada completa de análise de dados, passando por coleta, limpeza, transformação, exploração, interpretação e comunicação dos resultados.
+Ao final do projeto, foi construída uma jornada completa de análise de dados, passando por coleta, limpeza, transformação, modelagem, exploração, interpretação, visualização e comunicação dos resultados.
 
-O conjunto das unidades representa um fluxo próximo ao encontrado em projetos reais de Data Analytics, permitindo consolidar competências técnicas e analíticas essenciais para atuação profissional na área de dados.
+O conjunto das unidades representa um fluxo próximo ao encontrado em projetos reais de Data Analytics, do dado bruto ao dashboard interativo sobre modelo dimensional, permitindo consolidar competências técnicas e analíticas essenciais para atuação profissional na área de dados.
